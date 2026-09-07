@@ -1,0 +1,20 @@
+{
+  "1998": {
+    "movies": [{ "title": "Harikrishnans", "language": "Malayalam" }, { "title": "Summer in Bethlehem", "language": "Malayalam" }],
+    "music": [{ "title": "Kudajaadriyil", "artist": "M. G. Sreekumar" }, { "title": "Oru Raathri Koodi", "artist": "K. J. Yesudas" }],
+    "sports": [{ "headline": "Kerala’s football fever", "detail": "Local grounds kept the beautiful game loud and lively." }],
+    "events": [{ "headline": "Kochi’s culture was in full colour", "detail": "Malayalam cinema and music were the conversation-starters." }]
+  },
+  "2005": {
+    "movies": [{ "title": "Udayananu Tharam", "language": "Malayalam" }, { "title": "Naran", "language": "Malayalam" }],
+    "music": [{ "title": "Karale Karalinte", "artist": "Vidyasagar" }],
+    "sports": [{ "headline": "Cricket was the common language", "detail": "Every tea shop had a match recap." }],
+    "events": [{ "headline": "A new Kerala was taking shape", "detail": "The state’s cultural scene stayed brilliantly busy." }]
+  },
+  "2015": {
+    "movies": [{ "title": "Premam", "language": "Malayalam" }, { "title": "Ennu Ninte Moideen", "language": "Malayalam" }],
+    "music": [{ "title": "Malare", "artist": "Vijay Yesudas" }],
+    "sports": [{ "headline": "Kerala Blasters electrified Kochi", "detail": "Yellow jerseys became the uniform of the weekend." }],
+    "events": [{ "headline": "The New Wave found its audience", "detail": "Malayalam cinema was impossible to ignore." }]
+  }
+}
