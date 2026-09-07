@@ -1,0 +1,128 @@
+{
+  "year": 1953,
+  "regional": {
+    "state": "Kerala",
+    "movies": [],
+    "music": [
+      {
+        "title": "1953 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1953%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1953 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1953%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "1953 in India",
+        "detail": "Events in the year 1953 in the Republic of India.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1953_in_India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Peter Pan",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/fJJOs1iyrhKfZceANxoPxPwNGF1.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Peter%20Pan%201953%20official%20trailer"
+      },
+      {
+        "title": "Roman Holiday",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/8lI9dmz1RH20FAqltkGelY1v4BE.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Roman%20Holiday%201953%20official%20trailer"
+      },
+      {
+        "title": "It Came from Outer Space",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/zPXff8iRma28YQFApfzuWadZXzP.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=It%20Came%20from%20Outer%20Space%201953%20official%20trailer"
+      },
+      {
+        "title": "An Inlet of Muddy Water",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/o5zBJcN8PSAJjPjHwJ5Q8XYFQnq.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=An%20Inlet%20of%20Muddy%20Water%201953%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1953 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1953%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1953 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1953%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "1953 in India",
+        "detail": "Events in the year 1953 in the Republic of India.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1953_in_India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Peter Pan",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/fJJOs1iyrhKfZceANxoPxPwNGF1.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Peter%20Pan%201953%20official%20trailer"
+      },
+      {
+        "title": "Roman Holiday",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/8lI9dmz1RH20FAqltkGelY1v4BE.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Roman%20Holiday%201953%20official%20trailer"
+      },
+      {
+        "title": "It Came from Outer Space",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/zPXff8iRma28YQFApfzuWadZXzP.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=It%20Came%20from%20Outer%20Space%201953%20official%20trailer"
+      },
+      {
+        "title": "An Inlet of Muddy Water",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/o5zBJcN8PSAJjPjHwJ5Q8XYFQnq.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=An%20Inlet%20of%20Muddy%20Water%201953%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1953 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1953%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1953 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1953%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "1953",
+        "detail": "1953 (MCMLIII) was a common year starting on Thursday of the Gregorian calendar, the 1953rd year of the Common Era (CE) and Anno Domini (AD) designations, the 953rd year of the 2nd millennium, the 53rd year of the 20th century, and the 4th year of the 1950s de",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1953"
+      }
+    ]
+  },
+  "dataConfidence": "sparse"
+}

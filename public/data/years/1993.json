@@ -1,0 +1,153 @@
+{
+  "year": 1993,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Akashadoothu",
+        "language": "Malayalam cinema",
+        "posterUrl": "",
+        "watchUrl": "https://www.youtube.com/results?search_query=Akashadoothu%201993%20official%20trailer"
+      },
+      {
+        "title": "Kabuliwala",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/4raiqd769OBGREGFsSUbnwezkzF.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Kabuliwala%201993%20official%20trailer"
+      },
+      {
+        "title": "Golanthara Vartha",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/msRxT2Rg5PApr2v3HpLQSnCOn09.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Golanthara%20Vartha%201993%20official%20trailer"
+      },
+      {
+        "title": "Bandhukkal Sathrukkal",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/5OYGW4LsjNIiCjCZxpF4v3KkqtF.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Bandhukkal%20Sathrukkal%201993%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1993 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1993%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1993 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1993%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1993",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1993%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Schindler's List",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Schindler's%20List%201993%20official%20trailer"
+      },
+      {
+        "title": "The Nightmare Before Christmas",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Nightmare%20Before%20Christmas%201993%20official%20trailer"
+      },
+      {
+        "title": "Farewell My Concubine",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/f54hNIiHNINw3JiUJB2XaQl5wCN.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Farewell%20My%20Concubine%201993%20official%20trailer"
+      },
+      {
+        "title": "The Fugitive",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Fugitive%201993%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1993 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1993%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1993 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1993%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1993",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1993%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Schindler's List",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Schindler's%20List%201993%20official%20trailer"
+      },
+      {
+        "title": "The Nightmare Before Christmas",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Nightmare%20Before%20Christmas%201993%20official%20trailer"
+      },
+      {
+        "title": "Farewell My Concubine",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/f54hNIiHNINw3JiUJB2XaQl5wCN.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Farewell%20My%20Concubine%201993%20official%20trailer"
+      },
+      {
+        "title": "The Fugitive",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Fugitive%201993%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1993 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1993%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1993 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1993%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 1993",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1993"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

@@ -1,0 +1,147 @@
+{
+  "year": 1980,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Vilkkanundu Swapnangal",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/hGEkHbd5PP7g1cgmrszRalE0S8f.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Vilkkanundu%20Swapnangal%201980%20official%20trailer"
+      },
+      {
+        "title": "Manjil Virinja Pookkal",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/hFT2JBraLfZZJQwkvIsgph9EcVQ.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Manjil%20Virinja%20Pookkal%201980%20official%20trailer"
+      },
+      {
+        "title": "Esthappan",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/tlXic8E4OuoUFte5SLcf3J3l0PF.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Esthappan%201980%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1980 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1980%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1980 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1980%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1980",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1980%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "The Shining",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Shining%201980%20official%20trailer"
+      },
+      {
+        "title": "Cannibal Holocaust",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/otxZzMh53TsN7yYFqSZ3rwH1yMd.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Cannibal%20Holocaust%201980%20official%20trailer"
+      },
+      {
+        "title": "The Empire Strikes Back",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Empire%20Strikes%20Back%201980%20official%20trailer"
+      },
+      {
+        "title": "Airplane!",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Airplane!%201980%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1980 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1980%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1980 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1980%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1980",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1980%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "The Shining",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Shining%201980%20official%20trailer"
+      },
+      {
+        "title": "Cannibal Holocaust",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/otxZzMh53TsN7yYFqSZ3rwH1yMd.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Cannibal%20Holocaust%201980%20official%20trailer"
+      },
+      {
+        "title": "The Empire Strikes Back",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Empire%20Strikes%20Back%201980%20official%20trailer"
+      },
+      {
+        "title": "Airplane!",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Airplane!%201980%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1980 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1980%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1980 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1980%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 1980",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1980"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

@@ -1,0 +1,153 @@
+{
+  "year": 1997,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Kaliyattam",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/Af0YXT1SClLnqjukNUhcpFeIjyk.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Kaliyattam%201997%20official%20trailer"
+      },
+      {
+        "title": "Guru",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/4TUWBUul1BWqnadSOrknNWs9wUd.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Guru%201997%20official%20trailer"
+      },
+      {
+        "title": "Varnapakittu",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/xEtxXrrq4leUXV6gqFldFdn56OF.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Varnapakittu%201997%20official%20trailer"
+      },
+      {
+        "title": "Lelam",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/bPotF8bXx7o1cP9ZeoNIbRzgBvG.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Lelam%201997%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1997 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1997%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1997 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1997%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1997",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1997%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Titanic",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Titanic%201997%20official%20trailer"
+      },
+      {
+        "title": "Good Will Hunting",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Good%20Will%20Hunting%201997%20official%20trailer"
+      },
+      {
+        "title": "The Fifth Element",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Fifth%20Element%201997%20official%20trailer"
+      },
+      {
+        "title": "Princess Mononoke",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Princess%20Mononoke%201997%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1997 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1997%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1997 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1997%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1997",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1997%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Titanic",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Titanic%201997%20official%20trailer"
+      },
+      {
+        "title": "Good Will Hunting",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Good%20Will%20Hunting%201997%20official%20trailer"
+      },
+      {
+        "title": "The Fifth Element",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Fifth%20Element%201997%20official%20trailer"
+      },
+      {
+        "title": "Princess Mononoke",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Princess%20Mononoke%201997%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1997 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1997%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1997 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1997%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 1997",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1997"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

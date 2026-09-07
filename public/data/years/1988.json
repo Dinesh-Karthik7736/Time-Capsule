@@ -1,0 +1,153 @@
+{
+  "year": 1988,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Orkkapurathu",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/4cAkCvTYscQoIhnz8t8nwWggKyf.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Orkkapurathu%201988%20official%20trailer"
+      },
+      {
+        "title": "Manu Uncle",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/89BOSJRX91Yn5oDjOawOvbF3F3e.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Manu%20Uncle%201988%20official%20trailer"
+      },
+      {
+        "title": "Vellanakalude Naadu",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/dMq2KZcdiei2cRGk5dBTkWd0sfP.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Vellanakalude%20Naadu%201988%20official%20trailer"
+      },
+      {
+        "title": "August 1",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/viCxcbAzsDUxXfv3m6lnCCWSe6O.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=August%201%201988%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1988 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1988%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1988 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1988%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1988",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1988%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Summer Temptations",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/5xryGDSx1fImQbD0Z9BIXCSXftJ.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Summer%20Temptations%201988%20official%20trailer"
+      },
+      {
+        "title": "Door",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/uNTZ9vp32AYd6kcAcm63jVg6u44.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Door%201988%20official%20trailer"
+      },
+      {
+        "title": "Woman in the Moon",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/6uiz2xx61qhGv3ZcZg0n5tgahY3.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Woman%20in%20the%20Moon%201988%20official%20trailer"
+      },
+      {
+        "title": "School on Fire",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/uTVfcol62NROZw2W2Q7ykbFgPQ.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=School%20on%20Fire%201988%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1988 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1988%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1988 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1988%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1988",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1988%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Summer Temptations",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/5xryGDSx1fImQbD0Z9BIXCSXftJ.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Summer%20Temptations%201988%20official%20trailer"
+      },
+      {
+        "title": "Door",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/uNTZ9vp32AYd6kcAcm63jVg6u44.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Door%201988%20official%20trailer"
+      },
+      {
+        "title": "Woman in the Moon",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/6uiz2xx61qhGv3ZcZg0n5tgahY3.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Woman%20in%20the%20Moon%201988%20official%20trailer"
+      },
+      {
+        "title": "School on Fire",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/uTVfcol62NROZw2W2Q7ykbFgPQ.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=School%20on%20Fire%201988%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1988 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1988%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1988 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1988%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "1988",
+        "detail": "1988 (MCMLXXXVIII) was a leap year starting on Friday of the Gregorian calendar, the 1988th year of the Common Era (CE) and Anno Domini (AD) designations, the 988th year of the 2nd millennium, the 88th year of the 20th century, and the 9th year of the 1980s de",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1988"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

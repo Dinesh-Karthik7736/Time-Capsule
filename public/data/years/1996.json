@@ -1,0 +1,153 @@
+{
+  "year": 1996,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Hitler",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/itZ0GW5RyXNNOZfupBupLVa9Uii.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Hitler%201996%20official%20trailer"
+      },
+      {
+        "title": "Tom & Jerry",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/vDFAuHnLpUdeyizrVM3o4vbJHgv.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Tom%20%26%20Jerry%201996%20official%20trailer"
+      },
+      {
+        "title": "Thooval Kottaram",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/chEzQIyRh89WjNykaiZRwIut2td.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Thooval%20Kottaram%201996%20official%20trailer"
+      },
+      {
+        "title": "Swapna Lokathe Balabhaskaran",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/rkHq85fNXG0iL4UAjxosTA5Grpe.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Swapna%20Lokathe%20Balabhaskaran%201996%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1996 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1996%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1996 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1996%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1996",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1996%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Mission: Impossible",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Mission%3A%20Impossible%201996%20official%20trailer"
+      },
+      {
+        "title": "Fargo",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Fargo%201996%20official%20trailer"
+      },
+      {
+        "title": "Primal Fear",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Primal%20Fear%201996%20official%20trailer"
+      },
+      {
+        "title": "Scream",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Scream%201996%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1996 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1996%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1996 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1996%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1996",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1996%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Mission: Impossible",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Mission%3A%20Impossible%201996%20official%20trailer"
+      },
+      {
+        "title": "Fargo",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Fargo%201996%20official%20trailer"
+      },
+      {
+        "title": "Primal Fear",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Primal%20Fear%201996%20official%20trailer"
+      },
+      {
+        "title": "Scream",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Scream%201996%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1996 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1996%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1996 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1996%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 1996",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1996"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

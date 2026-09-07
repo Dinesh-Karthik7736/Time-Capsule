@@ -1,0 +1,153 @@
+{
+  "year": 2025,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Detective Ujjwalan",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/rVCNbMW2bmbPE2XaUMUsnA9YgAh.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Detective%20Ujjwalan%202025%20official%20trailer"
+      },
+      {
+        "title": "Dheeram",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/wilAY8QRL1tZNcRjnfNKrFRqblD.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Dheeram%202025%20official%20trailer"
+      },
+      {
+        "title": "Sarvam Maya",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/mgLY1aQayVX6dQ2DiylLAhjEG8w.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Sarvam%20Maya%202025%20official%20trailer"
+      },
+      {
+        "title": "Sarkeet",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/yruMwNKwObVwS8vbE3N6hriAdYB.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Sarkeet%202025%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2025 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2025%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2025 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2025%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2025",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2025%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "War of the Worlds",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=War%20of%20the%20Worlds%202025%20official%20trailer"
+      },
+      {
+        "title": "The Shadow's Edge",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/cHKo3m8N1fwvEy2ZEr0xGmmMODV.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Shadow's%20Edge%202025%20official%20trailer"
+      },
+      {
+        "title": "Zootopia 2",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Zootopia%202%202025%20official%20trailer"
+      },
+      {
+        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Demon%20Slayer%3A%20Kimetsu%20no%20Yaiba%20Infinity%20Castle%202025%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2025 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2025%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2025 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2025%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2025",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2025%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "War of the Worlds",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=War%20of%20the%20Worlds%202025%20official%20trailer"
+      },
+      {
+        "title": "The Shadow's Edge",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/cHKo3m8N1fwvEy2ZEr0xGmmMODV.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Shadow's%20Edge%202025%20official%20trailer"
+      },
+      {
+        "title": "Zootopia 2",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Zootopia%202%202025%20official%20trailer"
+      },
+      {
+        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Demon%20Slayer%3A%20Kimetsu%20no%20Yaiba%20Infinity%20Castle%202025%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2025 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2025%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2025 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2025%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 2025",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2025"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

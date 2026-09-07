@@ -1,0 +1,128 @@
+{
+  "year": 1977,
+  "regional": {
+    "state": "Kerala",
+    "movies": [],
+    "music": [
+      {
+        "title": "1977 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1977%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1977 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1977%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1977",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1977%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Star Wars",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/fai0rspsNeJCS69wHNjOdWxcI7P.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Star%20Wars%201977%20official%20trailer"
+      },
+      {
+        "title": "Girl’s Pleasure: Man Hunting",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/6mxVYlKY7B102lqwtTawwWlGOd9.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Girl%E2%80%99s%20Pleasure%3A%20Man%20Hunting%201977%20official%20trailer"
+      },
+      {
+        "title": "Island of Hell",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/yCRibr1sKfuSH2VXAwqPyHzncFz.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Island%20of%20Hell%201977%20official%20trailer"
+      },
+      {
+        "title": "Close Encounters of the Third Kind",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/yaPx3cK9zGFX3SbcKwxWM1QIbUh.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Close%20Encounters%20of%20the%20Third%20Kind%201977%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1977 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1977%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1977 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1977%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1977",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1977%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Star Wars",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/fai0rspsNeJCS69wHNjOdWxcI7P.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Star%20Wars%201977%20official%20trailer"
+      },
+      {
+        "title": "Girl’s Pleasure: Man Hunting",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/6mxVYlKY7B102lqwtTawwWlGOd9.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Girl%E2%80%99s%20Pleasure%3A%20Man%20Hunting%201977%20official%20trailer"
+      },
+      {
+        "title": "Island of Hell",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/yCRibr1sKfuSH2VXAwqPyHzncFz.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Island%20of%20Hell%201977%20official%20trailer"
+      },
+      {
+        "title": "Close Encounters of the Third Kind",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/yaPx3cK9zGFX3SbcKwxWM1QIbUh.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Close%20Encounters%20of%20the%20Third%20Kind%201977%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1977 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1977%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1977 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1977%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 1977",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1977"
+      }
+    ]
+  },
+  "dataConfidence": "sparse"
+}

@@ -1,0 +1,141 @@
+{
+  "year": 1971,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "C.I.D. Nazir",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/3xypZaPb0X1FakZrLyd5FN9HsPb.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=C.I.D.%20Nazir%201971%20official%20trailer"
+      },
+      {
+        "title": "Anubhavangal Palichakal",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/mfBdTInufCSyK56YuqJZDQ1PND4.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Anubhavangal%20Palichakal%201971%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1971 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1971%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1971 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1971%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1971",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1971%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Fun and Games",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/fl2jOGZYQA4KysglE6vSNfbZQPa.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Fun%20and%20Games%201971%20official%20trailer"
+      },
+      {
+        "title": "A Clockwork Orange",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=A%20Clockwork%20Orange%201971%20official%20trailer"
+      },
+      {
+        "title": "Willy Wonka & the Chocolate Factory",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Willy%20Wonka%20%26%20the%20Chocolate%20Factory%201971%20official%20trailer"
+      },
+      {
+        "title": "Dirty Harry",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/scl2JDHzYoIEs5xyYy5ITCfyY0G.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Dirty%20Harry%201971%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1971 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1971%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1971 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1971%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1971",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1971%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Fun and Games",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/fl2jOGZYQA4KysglE6vSNfbZQPa.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Fun%20and%20Games%201971%20official%20trailer"
+      },
+      {
+        "title": "A Clockwork Orange",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=A%20Clockwork%20Orange%201971%20official%20trailer"
+      },
+      {
+        "title": "Willy Wonka & the Chocolate Factory",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Willy%20Wonka%20%26%20the%20Chocolate%20Factory%201971%20official%20trailer"
+      },
+      {
+        "title": "Dirty Harry",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/scl2JDHzYoIEs5xyYy5ITCfyY0G.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Dirty%20Harry%201971%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1971 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1971%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1971 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1971%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 1971",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1971"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

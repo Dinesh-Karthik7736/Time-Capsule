@@ -1,0 +1,141 @@
+{
+  "year": 1981,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Oridathoru Phayalvaan",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/loQTmzby4kZN6DYDjVpbDSGdp4a.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Oridathoru%20Phayalvaan%201981%20official%20trailer"
+      },
+      {
+        "title": "Oppol",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/lTDp6luce73NMXDh1oB5da21g52.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Oppol%201981%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1981 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1981%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1981 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1981%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1981",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1981%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Raiders of the Lost Ark",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Raiders%20of%20the%20Lost%20Ark%201981%20official%20trailer"
+      },
+      {
+        "title": "Caligula and Messalina",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/ywzH1Raa5yuiizsqEZzqH8fgY1M.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Caligula%20and%20Messalina%201981%20official%20trailer"
+      },
+      {
+        "title": "An American Werewolf in London",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/hVEqUASJmCQaolkKFEySCHZ8uKG.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=An%20American%20Werewolf%20in%20London%201981%20official%20trailer"
+      },
+      {
+        "title": "Das Boot",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/u8FhQPncOAkwcei2OI9orPWhV6K.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Das%20Boot%201981%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1981 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1981%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1981 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1981%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1981",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1981%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Raiders of the Lost Ark",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Raiders%20of%20the%20Lost%20Ark%201981%20official%20trailer"
+      },
+      {
+        "title": "Caligula and Messalina",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/ywzH1Raa5yuiizsqEZzqH8fgY1M.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Caligula%20and%20Messalina%201981%20official%20trailer"
+      },
+      {
+        "title": "An American Werewolf in London",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/hVEqUASJmCQaolkKFEySCHZ8uKG.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=An%20American%20Werewolf%20in%20London%201981%20official%20trailer"
+      },
+      {
+        "title": "Das Boot",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/u8FhQPncOAkwcei2OI9orPWhV6K.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Das%20Boot%201981%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1981 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1981%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1981 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1981%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 1981",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1981"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

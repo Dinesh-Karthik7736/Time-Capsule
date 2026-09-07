@@ -1,0 +1,153 @@
+{
+  "year": 2012,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Namukku Parkkan",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/s2NJv4WoSf7udHGq2i2VS2I5aWK.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Namukku%20Parkkan%202012%20official%20trailer"
+      },
+      {
+        "title": "Chettayees",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/igkYssanbrF7m6dUxQwOR8nPYau.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Chettayees%202012%20official%20trailer"
+      },
+      {
+        "title": "Grandmaster",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/t2iZIpbwHB0NftIwXTfe4N1dDyb.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Grandmaster%202012%20official%20trailer"
+      },
+      {
+        "title": "Husbands in Goa",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/kCbAitzrUaKS60554Dt9PX7svWf.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Husbands%20in%20Goa%202012%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2012 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2012%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2012 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2012%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "2012 in India",
+        "detail": "This is a list of events in India in the year 2012.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2012_in_India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "The Avengers",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Avengers%202012%20official%20trailer"
+      },
+      {
+        "title": "The Amazing Spider-Man",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Amazing%20Spider-Man%202012%20official%20trailer"
+      },
+      {
+        "title": "Django Unchained",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Django%20Unchained%202012%20official%20trailer"
+      },
+      {
+        "title": "The Dark Knight Rises",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Dark%20Knight%20Rises%202012%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2012 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2012%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2012 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2012%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "2012 in India",
+        "detail": "This is a list of events in India in the year 2012.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2012_in_India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "The Avengers",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Avengers%202012%20official%20trailer"
+      },
+      {
+        "title": "The Amazing Spider-Man",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Amazing%20Spider-Man%202012%20official%20trailer"
+      },
+      {
+        "title": "Django Unchained",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Django%20Unchained%202012%20official%20trailer"
+      },
+      {
+        "title": "The Dark Knight Rises",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Dark%20Knight%20Rises%202012%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2012 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2012%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2012 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2012%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "2012",
+        "detail": "2012 (MMXII) was a leap year starting on Sunday of the Gregorian calendar, the 2012th year of the Common Era (CE) and Anno Domini (AD) designations, the 12th year of the 3rd millennium and the 21st century, and the 3rd year of the 2010s decade. ",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2012"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

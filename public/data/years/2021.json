@@ -1,0 +1,153 @@
+{
+  "year": 2021,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Kaaval",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/uP15yTnZHc12JztbTCF00q94UTh.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Kaaval%202021%20official%20trailer"
+      },
+      {
+        "title": "Saajan Bakery Since 1962",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/vZLz0Nig4CuUKYm124WTLfYvUbq.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Saajan%20Bakery%20Since%201962%202021%20official%20trailer"
+      },
+      {
+        "title": "Keshu Ee Veedinte Nadhan",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/vKCC7ohugDxKqLO9z5E2E0cabs3.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Keshu%20Ee%20Veedinte%20Nadhan%202021%20official%20trailer"
+      },
+      {
+        "title": "Meow",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/mZCp9z5LCrMCTSnjmHuyBQ8k8aW.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Meow%202021%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2021 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2021%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2021 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2021%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "2021 in India",
+        "detail": "Events in the year 2021 in India for real time basis.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2021_in_India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Spider-Man: No Way Home",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Spider-Man%3A%20No%20Way%20Home%202021%20official%20trailer"
+      },
+      {
+        "title": "Dune",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/v1tRXZ4JtD2Iv6fjkPvT4GiwslV.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Dune%202021%20official%20trailer"
+      },
+      {
+        "title": "Wrath of Man",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/M7SUK85sKjaStg4TKhlAVyGlz3.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Wrath%20of%20Man%202021%20official%20trailer"
+      },
+      {
+        "title": "Black Widow",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Black%20Widow%202021%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2021 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2021%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2021 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2021%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "2021 in India",
+        "detail": "Events in the year 2021 in India for real time basis.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2021_in_India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Spider-Man: No Way Home",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Spider-Man%3A%20No%20Way%20Home%202021%20official%20trailer"
+      },
+      {
+        "title": "Dune",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/v1tRXZ4JtD2Iv6fjkPvT4GiwslV.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Dune%202021%20official%20trailer"
+      },
+      {
+        "title": "Wrath of Man",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/M7SUK85sKjaStg4TKhlAVyGlz3.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Wrath%20of%20Man%202021%20official%20trailer"
+      },
+      {
+        "title": "Black Widow",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Black%20Widow%202021%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2021 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2021%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2021 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2021%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 2021",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2021"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

@@ -1,0 +1,153 @@
+{
+  "year": 2008,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Positive",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/xaEd657T9XnGApdbaOcgIOQICC3.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Positive%202008%20official%20trailer"
+      },
+      {
+        "title": "Shakespeare M.A. Malayalam",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/q8UfM4H5Z8nSXomlXgHxRtwznVx.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Shakespeare%20M.A.%20Malayalam%202008%20official%20trailer"
+      },
+      {
+        "title": "Mayabazar",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/oaxAdiAWOzeZ4YiLuctHa0BCugl.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Mayabazar%202008%20official%20trailer"
+      },
+      {
+        "title": "Mulla",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/ac7IEA6KSjyGFizgBOnJPwWVlwe.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Mulla%202008%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2008 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2008%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2008 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2008%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2008",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2008%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "The Dark Knight",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Dark%20Knight%202008%20official%20trailer"
+      },
+      {
+        "title": "Iron Man",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Iron%20Man%202008%20official%20trailer"
+      },
+      {
+        "title": "WALL·E",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=WALL%C2%B7E%202008%20official%20trailer"
+      },
+      {
+        "title": "The Incredible Hulk",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Incredible%20Hulk%202008%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2008 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2008%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2008 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2008%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2008",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2008%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "The Dark Knight",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Dark%20Knight%202008%20official%20trailer"
+      },
+      {
+        "title": "Iron Man",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Iron%20Man%202008%20official%20trailer"
+      },
+      {
+        "title": "WALL·E",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=WALL%C2%B7E%202008%20official%20trailer"
+      },
+      {
+        "title": "The Incredible Hulk",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Incredible%20Hulk%202008%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2008 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2008%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2008 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2008%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 2008",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2008"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

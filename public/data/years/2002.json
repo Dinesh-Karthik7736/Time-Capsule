@@ -1,0 +1,153 @@
+{
+  "year": 2002,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Chathurangam",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/ztKP7cwWZrykuIbLxHg5qXgsNbs.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Chathurangam%202002%20official%20trailer"
+      },
+      {
+        "title": "Meesa Madhavan",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/vjdImEMRdLoWeyxaL9aj31hx1P.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Meesa%20Madhavan%202002%20official%20trailer"
+      },
+      {
+        "title": "Kunjikkoonan",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/f5rKrUwdqPUqcEW1ycTpDQXvVnC.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Kunjikkoonan%202002%20official%20trailer"
+      },
+      {
+        "title": "Stop Violence",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/yeox1ueUEFkMNP95ShBYgDw25kn.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Stop%20Violence%202002%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2002 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2002%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2002 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2002%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2002",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2002%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Spider-Man",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/or6XJBVpcEbIkma0V9zshnbEtx4.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Spider-Man%202002%20official%20trailer"
+      },
+      {
+        "title": "Harry Potter and the Chamber of Secrets",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Harry%20Potter%20and%20the%20Chamber%20of%20Secrets%202002%20official%20trailer"
+      },
+      {
+        "title": "The Lord of the Rings: The Two Towers",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Lord%20of%20the%20Rings%3A%20The%20Two%20Towers%202002%20official%20trailer"
+      },
+      {
+        "title": "Ice Age",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Ice%20Age%202002%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2002 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2002%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2002 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2002%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2002",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2002%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Spider-Man",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/or6XJBVpcEbIkma0V9zshnbEtx4.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Spider-Man%202002%20official%20trailer"
+      },
+      {
+        "title": "Harry Potter and the Chamber of Secrets",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Harry%20Potter%20and%20the%20Chamber%20of%20Secrets%202002%20official%20trailer"
+      },
+      {
+        "title": "The Lord of the Rings: The Two Towers",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Lord%20of%20the%20Rings%3A%20The%20Two%20Towers%202002%20official%20trailer"
+      },
+      {
+        "title": "Ice Age",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Ice%20Age%202002%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2002 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2002%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2002 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2002%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "2002",
+        "detail": "2002 (MMII) was a common year starting on Tuesday of the Gregorian calendar, the 2002nd year of the Common Era (CE) and Anno Domini (AD) designations, the 2nd year of the 3rd millennium and the 21st century, and the 3rd year of the 2000s decade. ",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2002"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

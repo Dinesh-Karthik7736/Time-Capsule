@@ -1,0 +1,135 @@
+{
+  "year": 1964,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Bhargavi Nilayam",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/iVmzwWf87kmjeh2CMwljKaiK7HF.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Bhargavi%20Nilayam%201964%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1964 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1964%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1964 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1964%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1964",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1964%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Sex and the Single Girl",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/eGGj9foBY4jonHskGq7ysgf2ESR.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Sex%20and%20the%20Single%20Girl%201964%20official%20trailer"
+      },
+      {
+        "title": "The Call of Blood",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/hvvcu0KhwDjBmbglsVkYI65FY1i.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Call%20of%20Blood%201964%20official%20trailer"
+      },
+      {
+        "title": "Mary Poppins",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/o4Wsby4ydIXhWmtmfvb451D5Np1.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Mary%20Poppins%201964%20official%20trailer"
+      },
+      {
+        "title": "A Fistful of Dollars",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/lBwOEpwVeUAmrmglcstnaGcJq3Y.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=A%20Fistful%20of%20Dollars%201964%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1964 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1964%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1964 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1964%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1964",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1964%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Sex and the Single Girl",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/eGGj9foBY4jonHskGq7ysgf2ESR.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Sex%20and%20the%20Single%20Girl%201964%20official%20trailer"
+      },
+      {
+        "title": "The Call of Blood",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/hvvcu0KhwDjBmbglsVkYI65FY1i.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Call%20of%20Blood%201964%20official%20trailer"
+      },
+      {
+        "title": "Mary Poppins",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/o4Wsby4ydIXhWmtmfvb451D5Np1.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Mary%20Poppins%201964%20official%20trailer"
+      },
+      {
+        "title": "A Fistful of Dollars",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/lBwOEpwVeUAmrmglcstnaGcJq3Y.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=A%20Fistful%20of%20Dollars%201964%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1964 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1964%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1964 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1964%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 1964",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1964"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

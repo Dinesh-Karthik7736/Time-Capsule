@@ -1,0 +1,153 @@
+{
+  "year": 1995,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "The King",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/2y2whF3xMXOr2xmxWI3lJB5LfXC.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20King%201995%20official%20trailer"
+      },
+      {
+        "title": "Mazhayethum Munpe",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/wxCgT1NkQ4kiJ2hmpw0QE3Mltut.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Mazhayethum%20Munpe%201995%20official%20trailer"
+      },
+      {
+        "title": "Spadikam",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/1bDOwCzW2cIVtRgeVQKn5ZTzcFf.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Spadikam%201995%20official%20trailer"
+      },
+      {
+        "title": "Vrudhanmare Sookshikkuka",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/jPdogRneCQFkwoKEFrr6Sqaa6f7.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Vrudhanmare%20Sookshikkuka%201995%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1995 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1995%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1995 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1995%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1995",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1995%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Toy Story",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Toy%20Story%201995%20official%20trailer"
+      },
+      {
+        "title": "Se7en",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Se7en%201995%20official%20trailer"
+      },
+      {
+        "title": "Heat",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Heat%201995%20official%20trailer"
+      },
+      {
+        "title": "Zero Woman 2",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/sQHeDjwmBQba8E51Mkp5dvgkzeZ.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Zero%20Woman%202%201995%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1995 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1995%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1995 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1995%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1995",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1995%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Toy Story",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Toy%20Story%201995%20official%20trailer"
+      },
+      {
+        "title": "Se7en",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Se7en%201995%20official%20trailer"
+      },
+      {
+        "title": "Heat",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Heat%201995%20official%20trailer"
+      },
+      {
+        "title": "Zero Woman 2",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/sQHeDjwmBQba8E51Mkp5dvgkzeZ.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Zero%20Woman%202%201995%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1995 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1995%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1995 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1995%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 1995",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1995"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

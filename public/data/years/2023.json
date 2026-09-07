@@ -1,0 +1,153 @@
+{
+  "year": 2023,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "RDX: Robert Dony Xavier",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/y6QRQ0bHGt9Wc1BBTZsa1iB2PAm.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=RDX%3A%20Robert%20Dony%20Xavier%202023%20official%20trailer"
+      },
+      {
+        "title": "Iratta",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/4km0kB3EIZxrmWBybJzf6PtvZFn.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Iratta%202023%20official%20trailer"
+      },
+      {
+        "title": "Garudan",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/8SHg4ye34sD8ReJPplVp7oB06BK.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Garudan%202023%20official%20trailer"
+      },
+      {
+        "title": "Romancham",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/9p8ux2AGYn3U2mEAbKmizAh6PL1.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Romancham%202023%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2023 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2023%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2023 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2023%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2023",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2023%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Spider-Man: Across the Spider-Verse",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Spider-Man%3A%20Across%20the%20Spider-Verse%202023%20official%20trailer"
+      },
+      {
+        "title": "Oppenheimer",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Oppenheimer%202023%20official%20trailer"
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 3",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Guardians%20of%20the%20Galaxy%20Vol.%203%202023%20official%20trailer"
+      },
+      {
+        "title": "Graphic Desires",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/3BjLdTWRiHc1ISIZMFvToOmghOM.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Graphic%20Desires%202023%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2023 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2023%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2023 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2023%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2023",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2023%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Spider-Man: Across the Spider-Verse",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Spider-Man%3A%20Across%20the%20Spider-Verse%202023%20official%20trailer"
+      },
+      {
+        "title": "Oppenheimer",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Oppenheimer%202023%20official%20trailer"
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 3",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Guardians%20of%20the%20Galaxy%20Vol.%203%202023%20official%20trailer"
+      },
+      {
+        "title": "Graphic Desires",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/3BjLdTWRiHc1ISIZMFvToOmghOM.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Graphic%20Desires%202023%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2023 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2023%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2023 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2023%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 2023",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2023"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

@@ -1,0 +1,153 @@
+{
+  "year": 2001,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Dhosth",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/dVnFoIKQGmi30pxan0XvrcVE3iU.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Dhosth%202001%20official%20trailer"
+      },
+      {
+        "title": "One Man Show",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/5LpRZsweJDp6MXprc4pTrQVraLX.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=One%20Man%20Show%202001%20official%20trailer"
+      },
+      {
+        "title": "Dubai",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/morjPaI1bvaXeHzcnYS8BS97O4c.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Dubai%202001%20official%20trailer"
+      },
+      {
+        "title": "Meghamalhar",
+        "language": "Malayalam cinema",
+        "posterUrl": "",
+        "watchUrl": "https://www.youtube.com/results?search_query=Meghamalhar%202001%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2001 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2001%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2001 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2001%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2001",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2001%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Harry Potter and the Philosopher's Stone",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Harry%20Potter%20and%20the%20Philosopher's%20Stone%202001%20official%20trailer"
+      },
+      {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Lord%20of%20the%20Rings%3A%20The%20Fellowship%20of%20the%20Ring%202001%20official%20trailer"
+      },
+      {
+        "title": "Monsters, Inc.",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Monsters%2C%20Inc.%202001%20official%20trailer"
+      },
+      {
+        "title": "Spirited Away",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Spirited%20Away%202001%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2001 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2001%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2001 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2001%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2001",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2001%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Harry Potter and the Philosopher's Stone",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Harry%20Potter%20and%20the%20Philosopher's%20Stone%202001%20official%20trailer"
+      },
+      {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Lord%20of%20the%20Rings%3A%20The%20Fellowship%20of%20the%20Ring%202001%20official%20trailer"
+      },
+      {
+        "title": "Monsters, Inc.",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Monsters%2C%20Inc.%202001%20official%20trailer"
+      },
+      {
+        "title": "Spirited Away",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Spirited%20Away%202001%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2001 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2001%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2001 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2001%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 2001",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2001"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

@@ -1,0 +1,128 @@
+{
+  "year": 1976,
+  "regional": {
+    "state": "Kerala",
+    "movies": [],
+    "music": [
+      {
+        "title": "1976 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1976%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1976 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1976%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1976",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1976%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Taxi Driver",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Taxi%20Driver%201976%20official%20trailer"
+      },
+      {
+        "title": "A Bull for Mounts",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/7fgRBVd4h0uttG9thu3rD8u22md.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=A%20Bull%20for%20Mounts%201976%20official%20trailer"
+      },
+      {
+        "title": "In the Realm of the Senses",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/AiFQbgjgSXWPfbi9iIYT39iXWMW.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=In%20the%20Realm%20of%20the%20Senses%201976%20official%20trailer"
+      },
+      {
+        "title": "Rocky",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/xSI0dbKLDETwhiVUy6hGE8KXUln.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Rocky%201976%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1976 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1976%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1976 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1976%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1976",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1976%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Taxi Driver",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Taxi%20Driver%201976%20official%20trailer"
+      },
+      {
+        "title": "A Bull for Mounts",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/7fgRBVd4h0uttG9thu3rD8u22md.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=A%20Bull%20for%20Mounts%201976%20official%20trailer"
+      },
+      {
+        "title": "In the Realm of the Senses",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/AiFQbgjgSXWPfbi9iIYT39iXWMW.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=In%20the%20Realm%20of%20the%20Senses%201976%20official%20trailer"
+      },
+      {
+        "title": "Rocky",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/xSI0dbKLDETwhiVUy6hGE8KXUln.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Rocky%201976%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1976 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1976%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1976 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1976%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 1976",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1976"
+      }
+    ]
+  },
+  "dataConfidence": "sparse"
+}

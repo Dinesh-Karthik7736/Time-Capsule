@@ -1,0 +1,128 @@
+{
+  "year": 1955,
+  "regional": {
+    "state": "Kerala",
+    "movies": [],
+    "music": [
+      {
+        "title": "1955 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1955%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1955 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1955%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "1955 in India",
+        "detail": "Events in the year 1955 in the Republic of India.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1955_in_India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "A Generation",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/zUQKN61bjCxSgubchybgzExMCNR.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=A%20Generation%201955%20official%20trailer"
+      },
+      {
+        "title": "Forever a Woman",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/jVgyXSZezUneww0FIXR6cdzgGNq.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Forever%20a%20Woman%201955%20official%20trailer"
+      },
+      {
+        "title": "Lady and the Tramp",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/340NcWz9SQXWQyf4oicMxjbrLOb.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Lady%20and%20the%20Tramp%201955%20official%20trailer"
+      },
+      {
+        "title": "The Maid's Kid",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/eZq5n6cFoXcpByU7rrZSiQAOANs.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Maid's%20Kid%201955%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1955 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1955%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1955 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1955%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "1955 in India",
+        "detail": "Events in the year 1955 in the Republic of India.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1955_in_India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "A Generation",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/zUQKN61bjCxSgubchybgzExMCNR.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=A%20Generation%201955%20official%20trailer"
+      },
+      {
+        "title": "Forever a Woman",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/jVgyXSZezUneww0FIXR6cdzgGNq.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Forever%20a%20Woman%201955%20official%20trailer"
+      },
+      {
+        "title": "Lady and the Tramp",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/340NcWz9SQXWQyf4oicMxjbrLOb.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Lady%20and%20the%20Tramp%201955%20official%20trailer"
+      },
+      {
+        "title": "The Maid's Kid",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/eZq5n6cFoXcpByU7rrZSiQAOANs.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Maid's%20Kid%201955%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1955 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1955%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1955 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1955%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "1955",
+        "detail": "1955 (MCMLV) was a common year starting on Saturday of the Gregorian calendar, the 1955th year of the Common Era (CE) and Anno Domini (AD) designations, the 955th year of the 2nd millennium, the 55th year of the 20th century, and the 6th year of the 1950s deca",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1955"
+      }
+    ]
+  },
+  "dataConfidence": "sparse"
+}

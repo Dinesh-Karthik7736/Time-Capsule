@@ -1,0 +1,153 @@
+{
+  "year": 1987,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Sreedharante Onnam Thirumurivu",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/mE4v6CWsaov6TXGzdPZqztVCZPH.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Sreedharante%20Onnam%20Thirumurivu%201987%20official%20trailer"
+      },
+      {
+        "title": "January Oru Orma",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/t10J99CI4bOyFnSobegQqi7wiL8.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=January%20Oru%20Orma%201987%20official%20trailer"
+      },
+      {
+        "title": "Sarvakalashala",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/2xVRf6Vq62o9rCizrTePU6peLVX.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Sarvakalashala%201987%20official%20trailer"
+      },
+      {
+        "title": "Cheppu",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/cEdsVwJpkKeJPuIyd7w12g5t6TJ.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Cheppu%201987%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1987 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1987%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1987 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1987%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1987",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1987%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Prison on Fire",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/59o7OyB8J37GwOAod9mhgJjhgH2.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Prison%20on%20Fire%201987%20official%20trailer"
+      },
+      {
+        "title": "Who's That Girl",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/2Yu6ciKKgSWIZAzUg4IrrifO23z.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Who's%20That%20Girl%201987%20official%20trailer"
+      },
+      {
+        "title": "Predator",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Predator%201987%20official%20trailer"
+      },
+      {
+        "title": "Lethal Weapon",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/6gt44oqb4nE8vflPElffeGwsHVl.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Lethal%20Weapon%201987%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1987 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1987%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1987 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1987%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1987",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1987%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Prison on Fire",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/59o7OyB8J37GwOAod9mhgJjhgH2.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Prison%20on%20Fire%201987%20official%20trailer"
+      },
+      {
+        "title": "Who's That Girl",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/2Yu6ciKKgSWIZAzUg4IrrifO23z.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Who's%20That%20Girl%201987%20official%20trailer"
+      },
+      {
+        "title": "Predator",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Predator%201987%20official%20trailer"
+      },
+      {
+        "title": "Lethal Weapon",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/6gt44oqb4nE8vflPElffeGwsHVl.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Lethal%20Weapon%201987%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1987 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1987%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1987 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1987%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "1987",
+        "detail": "1987 (MCMLXXXVII) was a common year starting on Thursday of the Gregorian calendar, the 1987th year of the Common Era (CE) and Anno Domini (AD) designations, the 987th year of the 2nd millennium, the 87th year of the 20th century, and the 8th year of the 1980s",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1987"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

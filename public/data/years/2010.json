@@ -1,0 +1,153 @@
+{
+  "year": 2010,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Ring Tone",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/1XrzHzPl8ga6CNR1dHt7CxPj99d.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Ring%20Tone%202010%20official%20trailer"
+      },
+      {
+        "title": "The Thriller",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/y3nUqiBLjRluM0GkTrdrtXuSUgv.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Thriller%202010%20official%20trailer"
+      },
+      {
+        "title": "Happy Husbands",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/iKirqW8WF8z0bYB3mdOuZ3pUq99.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Happy%20Husbands%202010%20official%20trailer"
+      },
+      {
+        "title": "Paappi Appachaa",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/voI3mU9wzzVRoaHBLocxd5tu5gX.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Paappi%20Appachaa%202010%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2010 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2010%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2010 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2010%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2010",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2010%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Inception",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Inception%202010%20official%20trailer"
+      },
+      {
+        "title": "Harry Potter and the Deathly Hallows: Part 1",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Harry%20Potter%20and%20the%20Deathly%20Hallows%3A%20Part%201%202010%20official%20trailer"
+      },
+      {
+        "title": "Iron Man 2",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Iron%20Man%202%202010%20official%20trailer"
+      },
+      {
+        "title": "Toy Story 3",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Toy%20Story%203%202010%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2010 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2010%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2010 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2010%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2010",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2010%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Inception",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Inception%202010%20official%20trailer"
+      },
+      {
+        "title": "Harry Potter and the Deathly Hallows: Part 1",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Harry%20Potter%20and%20the%20Deathly%20Hallows%3A%20Part%201%202010%20official%20trailer"
+      },
+      {
+        "title": "Iron Man 2",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Iron%20Man%202%202010%20official%20trailer"
+      },
+      {
+        "title": "Toy Story 3",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Toy%20Story%203%202010%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2010 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2010%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2010 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2010%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 2010",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2010"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

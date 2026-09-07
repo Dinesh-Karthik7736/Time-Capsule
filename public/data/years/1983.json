@@ -1,0 +1,153 @@
+{
+  "year": 1983,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Kattathe Kilikkoodu",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/zIkrJiXLQFYN2LMI94cyZloSGKb.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Kattathe%20Kilikkoodu%201983%20official%20trailer"
+      },
+      {
+        "title": "Aa Raathri",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/xgnP9YPYqibvpz5VR1RzG7x8v05.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Aa%20Raathri%201983%20official%20trailer"
+      },
+      {
+        "title": "Lekhayude Maranam Oru Flashback",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/kizdYDFyJ7EccbLjWJIb7y1F5sa.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Lekhayude%20Maranam%20Oru%20Flashback%201983%20official%20trailer"
+      },
+      {
+        "title": "Kinnaram",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/QYJZI8vteE1JIYvA3kPxPnv9Z7.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Kinnaram%201983%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1983 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1983%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1983 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1983%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1983",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1983%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Scarface",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Scarface%201983%20official%20trailer"
+      },
+      {
+        "title": "Trading Places",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/8mBuLCOcpWnmYtZc4aqtvDXslv6.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Trading%20Places%201983%20official%20trailer"
+      },
+      {
+        "title": "National Lampoon's Vacation",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/q3DvoqY06yZnRp9faH6uge7n7VP.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=National%20Lampoon's%20Vacation%201983%20official%20trailer"
+      },
+      {
+        "title": "Return of the Jedi",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Return%20of%20the%20Jedi%201983%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1983 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1983%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1983 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1983%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1983",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1983%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Scarface",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Scarface%201983%20official%20trailer"
+      },
+      {
+        "title": "Trading Places",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/8mBuLCOcpWnmYtZc4aqtvDXslv6.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Trading%20Places%201983%20official%20trailer"
+      },
+      {
+        "title": "National Lampoon's Vacation",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/q3DvoqY06yZnRp9faH6uge7n7VP.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=National%20Lampoon's%20Vacation%201983%20official%20trailer"
+      },
+      {
+        "title": "Return of the Jedi",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Return%20of%20the%20Jedi%201983%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1983 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1983%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1983 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1983%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 1983",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1983"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

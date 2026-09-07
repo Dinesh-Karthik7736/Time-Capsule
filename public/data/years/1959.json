@@ -1,0 +1,128 @@
+{
+  "year": 1959,
+  "regional": {
+    "state": "Kerala",
+    "movies": [],
+    "music": [
+      {
+        "title": "1959 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1959%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1959 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1959%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1959",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1959%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Sleeping Beauty",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/pO9YMLSmj3essVSWSGygjGxX6Kw.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Sleeping%20Beauty%201959%20official%20trailer"
+      },
+      {
+        "title": "Ben-Hur",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Ben-Hur%201959%20official%20trailer"
+      },
+      {
+        "title": "Some Like It Hot",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Some%20Like%20It%20Hot%201959%20official%20trailer"
+      },
+      {
+        "title": "The Most Valuable Wife",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/p5pb5udkuCYuMl4GnxKZ4zlyTZi.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Most%20Valuable%20Wife%201959%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1959 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1959%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1959 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1959%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1959",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1959%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Sleeping Beauty",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/pO9YMLSmj3essVSWSGygjGxX6Kw.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Sleeping%20Beauty%201959%20official%20trailer"
+      },
+      {
+        "title": "Ben-Hur",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Ben-Hur%201959%20official%20trailer"
+      },
+      {
+        "title": "Some Like It Hot",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Some%20Like%20It%20Hot%201959%20official%20trailer"
+      },
+      {
+        "title": "The Most Valuable Wife",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/p5pb5udkuCYuMl4GnxKZ4zlyTZi.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Most%20Valuable%20Wife%201959%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1959 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1959%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1959 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1959%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "1959",
+        "detail": "1959 (MCMLIX) was a common year starting on Thursday of the Gregorian calendar, the 1959th year of the Common Era (CE) and Anno Domini (AD) designations, the 959th year of the 2nd millennium, the 59th year of the 20th century, and the 10th and last year of the",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1959"
+      }
+    ]
+  },
+  "dataConfidence": "sparse"
+}

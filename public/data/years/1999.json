@@ -1,0 +1,153 @@
+{
+  "year": 1999,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "My Dear Karady",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/92yGTInL5b1bjhrgEY8ZDrPiQe0.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=My%20Dear%20Karady%201999%20official%20trailer"
+      },
+      {
+        "title": "Aakasha Ganga",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/l20nWalBow5XbQx3s4rtFHFdGge.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Aakasha%20Ganga%201999%20official%20trailer"
+      },
+      {
+        "title": "The Godman",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/kSBuKfYPZSitHt4D5ZQW89zol5u.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Godman%201999%20official%20trailer"
+      },
+      {
+        "title": "English Medium",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/u0lO3JuOxrPP3fHaPUxZUXZHlgk.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=English%20Medium%201999%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1999 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1999%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1999 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1999%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1999",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1999%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "The Matrix",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Matrix%201999%20official%20trailer"
+      },
+      {
+        "title": "Fight Club",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Fight%20Club%201999%20official%20trailer"
+      },
+      {
+        "title": "The Green Mile",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Green%20Mile%201999%20official%20trailer"
+      },
+      {
+        "title": "Toy Story 2",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Toy%20Story%202%201999%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1999 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1999%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1999 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1999%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1999",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1999%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "The Matrix",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Matrix%201999%20official%20trailer"
+      },
+      {
+        "title": "Fight Club",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Fight%20Club%201999%20official%20trailer"
+      },
+      {
+        "title": "The Green Mile",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Green%20Mile%201999%20official%20trailer"
+      },
+      {
+        "title": "Toy Story 2",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Toy%20Story%202%201999%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1999 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1999%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1999 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1999%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 1999",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1999"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

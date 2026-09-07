@@ -1,0 +1,153 @@
+{
+  "year": 1992,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Makkal Mahathmyam",
+        "language": "Malayalam cinema",
+        "posterUrl": "",
+        "watchUrl": "https://www.youtube.com/results?search_query=Makkal%20Mahathmyam%201992%20official%20trailer"
+      },
+      {
+        "title": "Kasarkode Khaderbhai",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/muCH6hUaHsSLPK2BttnZFi9l8OQ.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Kasarkode%20Khaderbhai%201992%20official%20trailer"
+      },
+      {
+        "title": "Ootty Pattanam",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/pa9dJl0GW6XttV7AFZ43mMRY9uT.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Ootty%20Pattanam%201992%20official%20trailer"
+      },
+      {
+        "title": "Mahanagaram",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/tVTLi4XQtmSzw1JdspKtNvQtBhI.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Mahanagaram%201992%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1992 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1992%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1992 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1992%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1992",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1992%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Home Alone 2: Lost in New York",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Home%20Alone%202%3A%20Lost%20in%20New%20York%201992%20official%20trailer"
+      },
+      {
+        "title": "Aladdin",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Aladdin%201992%20official%20trailer"
+      },
+      {
+        "title": "Reservoir Dogs",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Reservoir%20Dogs%201992%20official%20trailer"
+      },
+      {
+        "title": "Basic Instinct",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/76Ts0yoHk8kVQj9MMnoMixhRWoh.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Basic%20Instinct%201992%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1992 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1992%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1992 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1992%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1992",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1992%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Home Alone 2: Lost in New York",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Home%20Alone%202%3A%20Lost%20in%20New%20York%201992%20official%20trailer"
+      },
+      {
+        "title": "Aladdin",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Aladdin%201992%20official%20trailer"
+      },
+      {
+        "title": "Reservoir Dogs",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Reservoir%20Dogs%201992%20official%20trailer"
+      },
+      {
+        "title": "Basic Instinct",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/76Ts0yoHk8kVQj9MMnoMixhRWoh.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Basic%20Instinct%201992%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1992 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1992%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1992 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1992%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 1992",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1992"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

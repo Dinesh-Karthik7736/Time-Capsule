@@ -1,0 +1,153 @@
+{
+  "year": 1989,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Chakkikotha Chankaran",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/gh3DnsBkNeQj2hAIUUIZJHP41WO.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Chakkikotha%20Chankaran%201989%20official%20trailer"
+      },
+      {
+        "title": "Artham",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/11p051zPfY6vFlG0m7CKb7fF5fK.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Artham%201989%20official%20trailer"
+      },
+      {
+        "title": "Oru Vadakkan Veeragatha",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/zAHyfIpg9dLCfxCtZYTUyUjoCLb.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Oru%20Vadakkan%20Veeragatha%201989%20official%20trailer"
+      },
+      {
+        "title": "Utharam",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/mCWLWbbCzXimZdCWPEAGpmCrLdt.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Utharam%201989%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1989 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1989%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1989 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1989%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1989",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1989%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Dead Poets Society",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/tNvKkSnnn4Z6RCBThyK1gfCSSvv.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Dead%20Poets%20Society%201989%20official%20trailer"
+      },
+      {
+        "title": "Kiki's Delivery Service",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/Aufa4YdZIv4AXpR9rznwVA5SEfd.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Kiki's%20Delivery%20Service%201989%20official%20trailer"
+      },
+      {
+        "title": "The Little Mermaid",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/plcZXvI310FkbwIptvd6rqk63LP.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Little%20Mermaid%201989%20official%20trailer"
+      },
+      {
+        "title": "Indiana Jones and the Last Crusade",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Indiana%20Jones%20and%20the%20Last%20Crusade%201989%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1989 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1989%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1989 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1989%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1989",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1989%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Dead Poets Society",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/tNvKkSnnn4Z6RCBThyK1gfCSSvv.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Dead%20Poets%20Society%201989%20official%20trailer"
+      },
+      {
+        "title": "Kiki's Delivery Service",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/Aufa4YdZIv4AXpR9rznwVA5SEfd.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Kiki's%20Delivery%20Service%201989%20official%20trailer"
+      },
+      {
+        "title": "The Little Mermaid",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/plcZXvI310FkbwIptvd6rqk63LP.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Little%20Mermaid%201989%20official%20trailer"
+      },
+      {
+        "title": "Indiana Jones and the Last Crusade",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Indiana%20Jones%20and%20the%20Last%20Crusade%201989%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1989 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1989%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1989 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1989%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 1989",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1989"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

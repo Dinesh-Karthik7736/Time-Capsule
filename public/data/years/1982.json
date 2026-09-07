@@ -1,0 +1,153 @@
+{
+  "year": 1982,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Yavanika",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/buEMJVo78Inr9S8asTzZyQpKHcP.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Yavanika%201982%20official%20trailer"
+      },
+      {
+        "title": "Padayottam",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/guaQmiy4vyewBylEPMwQX9Q3v8D.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Padayottam%201982%20official%20trailer"
+      },
+      {
+        "title": "Elippathayam",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/2f5QZHESCo6JEQSAFIrzFrEKNKU.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Elippathayam%201982%20official%20trailer"
+      },
+      {
+        "title": "Pokkuveyil",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/z8rOQNmKmpN1yw57RMysmR6qVf7.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Pokkuveyil%201982%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1982 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1982%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1982 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1982%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1982",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1982%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Blade Runner",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Blade%20Runner%201982%20official%20trailer"
+      },
+      {
+        "title": "First Blood",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/a9sa6ERZCpplbPEO7OMWE763CLD.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=First%20Blood%201982%20official%20trailer"
+      },
+      {
+        "title": "The Evil Dead",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/54C1qdaiSijIU5NeNb4WsPJdNkG.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Evil%20Dead%201982%20official%20trailer"
+      },
+      {
+        "title": "The Thing",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Thing%201982%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1982 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1982%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1982 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1982%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1982",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1982%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Blade Runner",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Blade%20Runner%201982%20official%20trailer"
+      },
+      {
+        "title": "First Blood",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/a9sa6ERZCpplbPEO7OMWE763CLD.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=First%20Blood%201982%20official%20trailer"
+      },
+      {
+        "title": "The Evil Dead",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/54C1qdaiSijIU5NeNb4WsPJdNkG.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Evil%20Dead%201982%20official%20trailer"
+      },
+      {
+        "title": "The Thing",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Thing%201982%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1982 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1982%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1982 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1982%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "1982",
+        "detail": "1982 (MCMLXXXII) was a common year starting on Friday of the Gregorian calendar, the 1982nd year of the Common Era (CE) and Anno Domini (AD) designations, the 982nd year of the 2nd millennium, the 82nd year of the 20th century, and the 3rd year of the 1980s de",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1982"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

@@ -1,0 +1,153 @@
+{
+  "year": 1991,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Adwaytham",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/tuOxwSCpSeH3nj9Pab74eit8wnU.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Adwaytham%201991%20official%20trailer"
+      },
+      {
+        "title": "Pookkalam Varavayi",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/jlRAgSe5Pr3aBucxaaEz9DmVTTG.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Pookkalam%20Varavayi%201991%20official%20trailer"
+      },
+      {
+        "title": "Georgekutty C/O Georgekutty",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/6sbFODej5cFD4kVdQywd3I7dqiC.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Georgekutty%20C%2FO%20Georgekutty%201991%20official%20trailer"
+      },
+      {
+        "title": "Sandhesam",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/tF1Y52WGqX7t3Lj35oQC6IL3ENB.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Sandhesam%201991%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1991 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1991%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1991 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1991%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1991",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1991%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Terminator 2: Judgment Day",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Terminator%202%3A%20Judgment%20Day%201991%20official%20trailer"
+      },
+      {
+        "title": "Beauty and the Beast",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Beauty%20and%20the%20Beast%201991%20official%20trailer"
+      },
+      {
+        "title": "Door II: Tokyo Diary",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/lskJ34j4VKwbMwcvFSQeNYEdt8g.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Door%20II%3A%20Tokyo%20Diary%201991%20official%20trailer"
+      },
+      {
+        "title": "Doraemon: Nobita's Dorabian Nights",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/gJL5GgPWOvtcGo8ozEXCkFv3ub0.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Doraemon%3A%20Nobita's%20Dorabian%20Nights%201991%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1991 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1991%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1991 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1991%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1991",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1991%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Terminator 2: Judgment Day",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Terminator%202%3A%20Judgment%20Day%201991%20official%20trailer"
+      },
+      {
+        "title": "Beauty and the Beast",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Beauty%20and%20the%20Beast%201991%20official%20trailer"
+      },
+      {
+        "title": "Door II: Tokyo Diary",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/lskJ34j4VKwbMwcvFSQeNYEdt8g.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Door%20II%3A%20Tokyo%20Diary%201991%20official%20trailer"
+      },
+      {
+        "title": "Doraemon: Nobita's Dorabian Nights",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/gJL5GgPWOvtcGo8ozEXCkFv3ub0.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Doraemon%3A%20Nobita's%20Dorabian%20Nights%201991%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1991 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1991%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1991 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1991%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 1991",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1991"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

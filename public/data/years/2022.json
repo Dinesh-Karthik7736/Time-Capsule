@@ -1,0 +1,153 @@
+{
+  "year": 2022,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "John Luther",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/cJoQGHkdimCfYizm4e4onSAKa4U.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=John%20Luther%202022%20official%20trailer"
+      },
+      {
+        "title": "19(1)(a)",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/i9KffYGqL9vPF6lbj1NHfma4wLR.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=19(1)(a)%202022%20official%20trailer"
+      },
+      {
+        "title": "Jana Gana Mana",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/1bSPVn6HlkGYTQ4tJYJ0UGWnQM9.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Jana%20Gana%20Mana%202022%20official%20trailer"
+      },
+      {
+        "title": "Meri Awas Suno",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/pJ4A6j53P3XuUbQpQdKMPOZ5o8A.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Meri%20Awas%20Suno%202022%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2022 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2022%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2022 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2022%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "2022 in India",
+        "detail": "The following is a list of events for the year 2022 in India.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2022_in_India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Fatal Conspiracy",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/zpj3nNoc5xaUZTIdnuhwXwUcRag.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Fatal%20Conspiracy%202022%20official%20trailer"
+      },
+      {
+        "title": "Fall",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/spCAxD99U1A6jsiePFoqdEcY0dG.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Fall%202022%20official%20trailer"
+      },
+      {
+        "title": "Top Gun: Maverick",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Top%20Gun%3A%20Maverick%202022%20official%20trailer"
+      },
+      {
+        "title": "The Batman",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Batman%202022%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2022 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2022%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2022 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2022%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "2022 in India",
+        "detail": "The following is a list of events for the year 2022 in India.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2022_in_India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Fatal Conspiracy",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/zpj3nNoc5xaUZTIdnuhwXwUcRag.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Fatal%20Conspiracy%202022%20official%20trailer"
+      },
+      {
+        "title": "Fall",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/spCAxD99U1A6jsiePFoqdEcY0dG.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Fall%202022%20official%20trailer"
+      },
+      {
+        "title": "Top Gun: Maverick",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Top%20Gun%3A%20Maverick%202022%20official%20trailer"
+      },
+      {
+        "title": "The Batman",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Batman%202022%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2022 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2022%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2022 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2022%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "2022",
+        "detail": "2022 (MMXXII) was a common year starting on Saturday of the Gregorian calendar, the 2022nd year of the Common Era (CE) and Anno Domini (AD) designations, the 22nd year of the 3rd millennium and the 21st century, and the 3rd year of the 2020s decade. ",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2022"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

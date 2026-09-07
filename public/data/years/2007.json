@@ -1,0 +1,153 @@
+{
+  "year": 2007,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Chotta Mumbai",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/4lvX5OvpI7YyoBKmSOolWJKu8Oh.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Chotta%20Mumbai%202007%20official%20trailer"
+      },
+      {
+        "title": "July 4",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/iXS4A2vOWa9GqRpGrJs49wUXBpB.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=July%204%202007%20official%20trailer"
+      },
+      {
+        "title": "Romeoo",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/l6CGJmA8XokrHwyjwAzVxkn0xfX.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Romeoo%202007%20official%20trailer"
+      },
+      {
+        "title": "Ore Kadal",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/iYuS4W7eOOB47dObZKNU4rACQXn.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Ore%20Kadal%202007%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2007 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2007%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2007 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2007%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2007",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2007%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Spider-Man 3",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Spider-Man%203%202007%20official%20trailer"
+      },
+      {
+        "title": "Harry Potter and the Order of the Phoenix",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix%202007%20official%20trailer"
+      },
+      {
+        "title": "Ratatouille",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Ratatouille%202007%20official%20trailer"
+      },
+      {
+        "title": "Pirates of the Caribbean: At World's End",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Pirates%20of%20the%20Caribbean%3A%20At%20World's%20End%202007%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2007 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2007%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2007 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2007%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2007",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2007%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Spider-Man 3",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Spider-Man%203%202007%20official%20trailer"
+      },
+      {
+        "title": "Harry Potter and the Order of the Phoenix",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix%202007%20official%20trailer"
+      },
+      {
+        "title": "Ratatouille",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Ratatouille%202007%20official%20trailer"
+      },
+      {
+        "title": "Pirates of the Caribbean: At World's End",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Pirates%20of%20the%20Caribbean%3A%20At%20World's%20End%202007%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2007 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2007%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2007 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2007%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 2007",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2007"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

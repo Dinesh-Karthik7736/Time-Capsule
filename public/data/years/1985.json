@@ -1,0 +1,153 @@
+{
+  "year": 1985,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Mutharamkunnu P.O.",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/iq1pVmZP053H31rqgBbEJjlkChA.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Mutharamkunnu%20P.O.%201985%20official%20trailer"
+      },
+      {
+        "title": "Nirakkoottu",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/nWtHLK2WZoc6wOnau0QiT9kneZj.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Nirakkoottu%201985%20official%20trailer"
+      },
+      {
+        "title": "Boeing Boeing",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/5K3KUz4EWcBACPPY4jkIG6IdFLD.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Boeing%20Boeing%201985%20official%20trailer"
+      },
+      {
+        "title": "Anubandham",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/eqHdE9lClr9JkzudLtrJt6JUZYR.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Anubandham%201985%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1985 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1985%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1985 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1985%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1985",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1985%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Cavegirl",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/kONbgktPKsm3EMj3MiES0IP8BRr.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Cavegirl%201985%20official%20trailer"
+      },
+      {
+        "title": "Back to the Future",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Back%20to%20the%20Future%201985%20official%20trailer"
+      },
+      {
+        "title": "On the Beach",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/ksl1d50FUHaqNuNnmHSNdPrYyYl.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=On%20the%20Beach%201985%20official%20trailer"
+      },
+      {
+        "title": "The Goonies",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Goonies%201985%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1985 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1985%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1985 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1985%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1985",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1985%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Cavegirl",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/kONbgktPKsm3EMj3MiES0IP8BRr.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Cavegirl%201985%20official%20trailer"
+      },
+      {
+        "title": "Back to the Future",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Back%20to%20the%20Future%201985%20official%20trailer"
+      },
+      {
+        "title": "On the Beach",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/ksl1d50FUHaqNuNnmHSNdPrYyYl.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=On%20the%20Beach%201985%20official%20trailer"
+      },
+      {
+        "title": "The Goonies",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Goonies%201985%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1985 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1985%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1985 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1985%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 1985",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1985"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

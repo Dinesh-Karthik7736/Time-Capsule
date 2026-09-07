@@ -1,0 +1,128 @@
+{
+  "year": 1952,
+  "regional": {
+    "state": "Kerala",
+    "movies": [],
+    "music": [
+      {
+        "title": "1952 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1952%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1952 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1952%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "1952 in India",
+        "detail": "Events in the year 1952 in the Republic of India.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1952_in_India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "The Flavor of Green Tea Over Rice",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/mCXg9AfQlcwCR7E7vJCI96n4nLv.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Flavor%20of%20Green%20Tea%20Over%20Rice%201952%20official%20trailer"
+      },
+      {
+        "title": "Singin' in the Rain",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Singin'%20in%20the%20Rain%201952%20official%20trailer"
+      },
+      {
+        "title": "High Noon",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qETSMQ4IXBSAS409Z9OL0ppXWTW.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=High%20Noon%201952%20official%20trailer"
+      },
+      {
+        "title": "Ikiru",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/dgNTS4EQDDVfkzJI5msKuHu2Ei3.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Ikiru%201952%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1952 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1952%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1952 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1952%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "1952 in India",
+        "detail": "Events in the year 1952 in the Republic of India.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1952_in_India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "The Flavor of Green Tea Over Rice",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/mCXg9AfQlcwCR7E7vJCI96n4nLv.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Flavor%20of%20Green%20Tea%20Over%20Rice%201952%20official%20trailer"
+      },
+      {
+        "title": "Singin' in the Rain",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Singin'%20in%20the%20Rain%201952%20official%20trailer"
+      },
+      {
+        "title": "High Noon",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qETSMQ4IXBSAS409Z9OL0ppXWTW.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=High%20Noon%201952%20official%20trailer"
+      },
+      {
+        "title": "Ikiru",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/dgNTS4EQDDVfkzJI5msKuHu2Ei3.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Ikiru%201952%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1952 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1952%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1952 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1952%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "1952",
+        "detail": "1952 (MCMLII) was a leap year starting on Tuesday of the Gregorian calendar, the 1952nd year of the Common Era (CE) and Anno Domini (AD) designations, the 952nd year of the 2nd millennium, the 52nd year of the 20th century, and the 3rd year of the 1950s decade",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1952"
+      }
+    ]
+  },
+  "dataConfidence": "sparse"
+}

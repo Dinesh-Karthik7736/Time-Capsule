@@ -1,0 +1,128 @@
+{
+  "year": 1970,
+  "regional": {
+    "state": "Kerala",
+    "movies": [],
+    "music": [
+      {
+        "title": "1970 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1970%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1970 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1970%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1970",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1970%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "The Novices",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/a2SnSbRxMB4vktOxZapaspY2fTC.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Novices%201970%20official%20trailer"
+      },
+      {
+        "title": "The Aristocats",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/aOWs5XMJEABN6SKCTJBCoeD1kCA.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Aristocats%201970%20official%20trailer"
+      },
+      {
+        "title": "A Kamikaze Cop",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/v9GgJ2DK2uBv4E3rZudoKuwqNLn.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=A%20Kamikaze%20Cop%201970%20official%20trailer"
+      },
+      {
+        "title": "Delinquent Girl Boss: Blossoming Night Dreams",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/e7ZDPPWYoWI1d57BsWgqlrVH1Tj.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Delinquent%20Girl%20Boss%3A%20Blossoming%20Night%20Dreams%201970%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1970 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1970%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1970 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1970%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1970",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1970%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "The Novices",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/a2SnSbRxMB4vktOxZapaspY2fTC.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Novices%201970%20official%20trailer"
+      },
+      {
+        "title": "The Aristocats",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/aOWs5XMJEABN6SKCTJBCoeD1kCA.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Aristocats%201970%20official%20trailer"
+      },
+      {
+        "title": "A Kamikaze Cop",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/v9GgJ2DK2uBv4E3rZudoKuwqNLn.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=A%20Kamikaze%20Cop%201970%20official%20trailer"
+      },
+      {
+        "title": "Delinquent Girl Boss: Blossoming Night Dreams",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/e7ZDPPWYoWI1d57BsWgqlrVH1Tj.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Delinquent%20Girl%20Boss%3A%20Blossoming%20Night%20Dreams%201970%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1970 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1970%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1970 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1970%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "1970",
+        "detail": "1970 (MCMLXX) was a common year starting on Thursday of the Gregorian calendar, the 1970th year of the Common Era (CE) and Anno Domini (AD) designations, the 970th year of the 2nd millennium, the 70th year of the 20th century, and the 1st year of the 1970s dec",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1970"
+      }
+    ]
+  },
+  "dataConfidence": "sparse"
+}

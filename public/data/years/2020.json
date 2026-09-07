@@ -1,0 +1,153 @@
+{
+  "year": 2020,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Halal Love Story",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/4vkle9iPfE1eSsHJQf14nyzSQ19.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Halal%20Love%20Story%202020%20official%20trailer"
+      },
+      {
+        "title": "Shylock",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/irfywGm8kWiQphsSLaKQES3pCJ6.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Shylock%202020%20official%20trailer"
+      },
+      {
+        "title": "Love",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/6OTbY5WaCdrRawglIYDxavovE6p.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Love%202020%20official%20trailer"
+      },
+      {
+        "title": "Dhamaka",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/yk3Lb70tZ5NH6mTf90E9e1NQDht.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Dhamaka%202020%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2020 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2020%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2020 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2020%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2020",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2020%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Dreamchild",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/mdLNmqIehGximKCHZre65hCcYxb.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Dreamchild%202020%20official%20trailer"
+      },
+      {
+        "title": "The Gentlemen",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/jtrhTYB7xSrJxR1vusu99nvnZ1g.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Gentlemen%202020%20official%20trailer"
+      },
+      {
+        "title": "Love and Monsters",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/718NnyxyQuBQcGWt9sdelA1Zc3h.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Love%20and%20Monsters%202020%20official%20trailer"
+      },
+      {
+        "title": "Soul",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Soul%202020%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2020 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2020%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2020 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2020%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2020",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2020%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Dreamchild",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/mdLNmqIehGximKCHZre65hCcYxb.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Dreamchild%202020%20official%20trailer"
+      },
+      {
+        "title": "The Gentlemen",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/jtrhTYB7xSrJxR1vusu99nvnZ1g.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Gentlemen%202020%20official%20trailer"
+      },
+      {
+        "title": "Love and Monsters",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/718NnyxyQuBQcGWt9sdelA1Zc3h.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Love%20and%20Monsters%202020%20official%20trailer"
+      },
+      {
+        "title": "Soul",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Soul%202020%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2020 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2020%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2020 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2020%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "2020",
+        "detail": "2020 (MMXX) was a leap year starting on Wednesday of the Gregorian calendar, the 2020th year of the Common Era (CE) and Anno Domini (AD) designations, the 20th year of the 3rd millennium and the 21st century, and the 1st year of the 2020s decade. ",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2020"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

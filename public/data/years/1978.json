@@ -1,0 +1,153 @@
+{
+  "year": 1978,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Avalude Ravukal",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/4UeeyH3uTKbp1PeKtJS7xpOkqeT.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Avalude%20Ravukal%201978%20official%20trailer"
+      },
+      {
+        "title": "Rathinirvedam",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/388Y7gxMb6vULNamoTNv1AKVVV9.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Rathinirvedam%201978%20official%20trailer"
+      },
+      {
+        "title": "Kodiyettam",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/w5Uhedn8rzbr0oElVwA2epaao6W.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Kodiyettam%201978%20official%20trailer"
+      },
+      {
+        "title": "The Circus Tent",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/d1ZJGcEka8AfwFcFsUYVpBYezGc.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Circus%20Tent%201978%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1978 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1978%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1978 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1978%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1978",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1978%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Halloween",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Halloween%201978%20official%20trailer"
+      },
+      {
+        "title": "Superman",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Superman%201978%20official%20trailer"
+      },
+      {
+        "title": "Grease",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/2rM7fQKpb7cs1Iq7IBqub9LFDzJ.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Grease%201978%20official%20trailer"
+      },
+      {
+        "title": "Drunken Master",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/cf43J2SH8tECZVl9N5n0Q6Ckche.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Drunken%20Master%201978%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1978 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1978%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1978 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1978%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1978",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1978%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Halloween",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Halloween%201978%20official%20trailer"
+      },
+      {
+        "title": "Superman",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Superman%201978%20official%20trailer"
+      },
+      {
+        "title": "Grease",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/2rM7fQKpb7cs1Iq7IBqub9LFDzJ.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Grease%201978%20official%20trailer"
+      },
+      {
+        "title": "Drunken Master",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/cf43J2SH8tECZVl9N5n0Q6Ckche.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Drunken%20Master%201978%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1978 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1978%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1978 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1978%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 1978",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1978"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

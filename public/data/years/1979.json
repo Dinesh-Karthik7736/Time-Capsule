@@ -1,0 +1,147 @@
+{
+  "year": 1979,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Allauddinum Albhutha Vilakkum",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/lcug0QdQPk6LxrLrSCYMfh9ozCL.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Allauddinum%20Albhutha%20Vilakkum%201979%20official%20trailer"
+      },
+      {
+        "title": "Peruvazhiyambalam",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/rz3cGjEkFh5Lvd1hcE0ehz8NmGM.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Peruvazhiyambalam%201979%20official%20trailer"
+      },
+      {
+        "title": "Kummatty",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/8o8SY5jk1I2AyEz76yEr1mpidrA.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Kummatty%201979%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1979 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1979%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1979 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1979%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1979",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1979%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Alien",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Alien%201979%20official%20trailer"
+      },
+      {
+        "title": "Apocalypse Now",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Apocalypse%20Now%201979%20official%20trailer"
+      },
+      {
+        "title": "The Adolescent",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/v7yCEzF9BCF82lbp42X5ZLjIieo.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Adolescent%201979%20official%20trailer"
+      },
+      {
+        "title": "The Foxy Ladies",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/5dkH3CiTPppP8CqPWUPCS7sIvFh.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Foxy%20Ladies%201979%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1979 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1979%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1979 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1979%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1979",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1979%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Alien",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Alien%201979%20official%20trailer"
+      },
+      {
+        "title": "Apocalypse Now",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Apocalypse%20Now%201979%20official%20trailer"
+      },
+      {
+        "title": "The Adolescent",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/v7yCEzF9BCF82lbp42X5ZLjIieo.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Adolescent%201979%20official%20trailer"
+      },
+      {
+        "title": "The Foxy Ladies",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/5dkH3CiTPppP8CqPWUPCS7sIvFh.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Foxy%20Ladies%201979%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1979 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1979%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1979 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1979%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 1979",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1979"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

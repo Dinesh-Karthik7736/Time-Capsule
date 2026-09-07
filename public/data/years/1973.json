@@ -1,0 +1,141 @@
+{
+  "year": 1973,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Ponnapuram Kotta",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/5Kabdjs1U44rPvedCOLT2clqVjL.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Ponnapuram%20Kotta%201973%20official%20trailer"
+      },
+      {
+        "title": "Nirmalyam",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/pOhLGCQHfaOMxcK2E1kBjvYRNth.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Nirmalyam%201973%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1973 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1973%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1973 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1973%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1973",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1973%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "The Exorcist",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Exorcist%201973%20official%20trailer"
+      },
+      {
+        "title": "Enter the Dragon",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/zN7OOSARMLVzl9xJqkW2CcZ3xhY.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Enter%20the%20Dragon%201973%20official%20trailer"
+      },
+      {
+        "title": "Men and War III: The Final Chapter",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/za9elml2fBLy3SBoVLfj9FwCTFG.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Men%20and%20War%20III%3A%20The%20Final%20Chapter%201973%20official%20trailer"
+      },
+      {
+        "title": "The Sting",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/ckmYng37zey8INYf6d10cVgIG93.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Sting%201973%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1973 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1973%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1973 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1973%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1973",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1973%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "The Exorcist",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Exorcist%201973%20official%20trailer"
+      },
+      {
+        "title": "Enter the Dragon",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/zN7OOSARMLVzl9xJqkW2CcZ3xhY.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Enter%20the%20Dragon%201973%20official%20trailer"
+      },
+      {
+        "title": "Men and War III: The Final Chapter",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/za9elml2fBLy3SBoVLfj9FwCTFG.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Men%20and%20War%20III%3A%20The%20Final%20Chapter%201973%20official%20trailer"
+      },
+      {
+        "title": "The Sting",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/ckmYng37zey8INYf6d10cVgIG93.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Sting%201973%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1973 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1973%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1973 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1973%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "1973",
+        "detail": "1973 (MCMLXXIII) was a common year starting on Monday of the Gregorian calendar, the 1973rd year of the Common Era (CE) and Anno Domini (AD) designations, the 973rd year of the 2nd millennium, the 73rd year of the 20th century, and the 4th year of the 1970s de",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1973"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

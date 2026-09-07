@@ -5,54 +5,133 @@
     "movies": [
       {
         "title": "Udayananu Tharam",
-        "language": "Malayalam"
+        "language": "Malayalam",
+        "watchUrl": "https://www.youtube.com/results?search_query=Udayananu%20Tharam%20official%20trailer"
       },
       {
         "title": "Naran",
-        "language": "Malayalam"
+        "language": "Malayalam",
+        "watchUrl": "https://www.youtube.com/results?search_query=Naran%20official%20trailer"
       }
     ],
     "music": [
       {
         "title": "Karale Karalinte",
-        "artist": "Vidyasagar"
+        "artist": "Vidyasagar",
+        "playUrl": "https://www.youtube.com/results?search_query=Karale%20Karalinte%20Vidyasagar"
       }
     ],
     "sports": [
       {
         "headline": "Cricket was the common language",
-        "detail": "Every tea shop had a match recap."
+        "detail": "Every tea shop had a match recap.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2005%20Kerala%20sports%20highlights"
       }
     ],
     "events": [
       {
         "headline": "A new Kerala was taking shape",
-        "detail": "The state’s cultural scene stayed brilliantly busy."
+        "detail": "The state’s cultural scene stayed brilliantly busy.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2005%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Chronicles%20of%20Narnia%3A%20The%20Lion%2C%20the%20Witch%20and%20the%20Wardrobe%202005%20official%20trailer"
+      },
+      {
+        "title": "Harry Potter and the Goblet of Fire",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Harry%20Potter%20and%20the%20Goblet%20of%20Fire%202005%20official%20trailer"
+      },
+      {
+        "title": "Corpse Bride",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/3RAoVTxUk1OzZClscAsynuu670p.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Corpse%20Bride%202005%20official%20trailer"
+      },
+      {
+        "title": "Batman Begins",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Batman%20Begins%202005%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2005 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2005%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2005 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2005%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2005",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2005%20in%20India"
       }
     ]
   },
   "international": {
     "movies": [
       {
-        "title": "Star Wars: Episode III – Revenge of the Sith"
+        "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Chronicles%20of%20Narnia%3A%20The%20Lion%2C%20the%20Witch%20and%20the%20Wardrobe%202005%20official%20trailer"
+      },
+      {
+        "title": "Harry Potter and the Goblet of Fire",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Harry%20Potter%20and%20the%20Goblet%20of%20Fire%202005%20official%20trailer"
+      },
+      {
+        "title": "Corpse Bride",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/3RAoVTxUk1OzZClscAsynuu670p.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Corpse%20Bride%202005%20official%20trailer"
+      },
+      {
+        "title": "Batman Begins",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Batman%20Begins%202005%20official%20trailer"
       }
     ],
     "music": [
       {
-        "title": "We Belong Together",
-        "artist": "Mariah Carey"
+        "title": "2005 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2005%20biggest%20songs%20playlist"
       }
     ],
     "sports": [
       {
-        "headline": "Liverpool win in Istanbul",
-        "detail": "The Champions League final became an instant classic."
+        "headline": "2005 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2005%20best%20sports%20highlights"
       }
     ],
     "events": [
       {
-        "headline": "YouTube launches",
-        "detail": "The internet was about to get a whole lot more watchable."
+        "headline": "2005",
+        "detail": "2005 (MMV) was a common year starting on Saturday of the Gregorian calendar, the 2005th year of the Common Era (CE) and Anno Domini (AD) designations, the 5th year of the 3rd millennium and the 21st century, and the 6th year of the 2000s decade. ",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2005"
       }
     ]
   },

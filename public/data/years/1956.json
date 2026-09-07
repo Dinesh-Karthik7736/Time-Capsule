@@ -1,0 +1,128 @@
+{
+  "year": 1956,
+  "regional": {
+    "state": "Kerala",
+    "movies": [],
+    "music": [
+      {
+        "title": "1956 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1956%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1956 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1956%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1956",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1956%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "The Harder They Fall",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/93pUA2kAOeVlyvO1EeW8YmYIapt.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Harder%20They%20Fall%201956%20official%20trailer"
+      },
+      {
+        "title": "The Ten Commandments",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/3Ei59AR64x6dMZfWobPCkZjbqTL.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Ten%20Commandments%201956%20official%20trailer"
+      },
+      {
+        "title": "Hungry Soul",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/gt5u2qi5xDS46qPpGI5TvKlNr1Y.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Hungry%20Soul%201956%20official%20trailer"
+      },
+      {
+        "title": "Forbidden Planet",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/aq0OQfRS7hDDI8vyD0ICbH9eguC.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Forbidden%20Planet%201956%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1956 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1956%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1956 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1956%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1956",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1956%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "The Harder They Fall",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/93pUA2kAOeVlyvO1EeW8YmYIapt.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Harder%20They%20Fall%201956%20official%20trailer"
+      },
+      {
+        "title": "The Ten Commandments",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/3Ei59AR64x6dMZfWobPCkZjbqTL.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Ten%20Commandments%201956%20official%20trailer"
+      },
+      {
+        "title": "Hungry Soul",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/gt5u2qi5xDS46qPpGI5TvKlNr1Y.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Hungry%20Soul%201956%20official%20trailer"
+      },
+      {
+        "title": "Forbidden Planet",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/aq0OQfRS7hDDI8vyD0ICbH9eguC.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Forbidden%20Planet%201956%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1956 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1956%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1956 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1956%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 1956",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1956"
+      }
+    ]
+  },
+  "dataConfidence": "sparse"
+}

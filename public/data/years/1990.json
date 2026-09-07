@@ -1,0 +1,153 @@
+{
+  "year": 1990,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Nagarangalil Chennu Raparkam",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/3h7eLfSfer179QnfFagWnmDdcEy.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Nagarangalil%20Chennu%20Raparkam%201990%20official%20trailer"
+      },
+      {
+        "title": "Kottayam Kunjachan",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/i3cw2LCELL4EELRJu13W0hx5TZ8.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Kottayam%20Kunjachan%201990%20official%20trailer"
+      },
+      {
+        "title": "No. 20 Madras Mail",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/roD8sGzZzr8vuBL0d5OTJWa95wH.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=No.%2020%20Madras%20Mail%201990%20official%20trailer"
+      },
+      {
+        "title": "In Harihar Nagar",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/4GpZdkgxmURLUxEv2FtmLqjm6Zj.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=In%20Harihar%20Nagar%201990%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1990 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1990%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1990 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1990%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1990",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1990%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "GoodFellas",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=GoodFellas%201990%20official%20trailer"
+      },
+      {
+        "title": "Total Recall",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Total%20Recall%201990%20official%20trailer"
+      },
+      {
+        "title": "The Hunt for Red October",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/yVl7zidse4KiWtGMqHFtZCx4X3N.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Hunt%20for%20Red%20October%201990%20official%20trailer"
+      },
+      {
+        "title": "Dances with Wolves",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Dances%20with%20Wolves%201990%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1990 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1990%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1990 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1990%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1990",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1990%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "GoodFellas",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=GoodFellas%201990%20official%20trailer"
+      },
+      {
+        "title": "Total Recall",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Total%20Recall%201990%20official%20trailer"
+      },
+      {
+        "title": "The Hunt for Red October",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/yVl7zidse4KiWtGMqHFtZCx4X3N.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Hunt%20for%20Red%20October%201990%20official%20trailer"
+      },
+      {
+        "title": "Dances with Wolves",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Dances%20with%20Wolves%201990%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1990 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1990%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1990 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1990%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 1990",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1990"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

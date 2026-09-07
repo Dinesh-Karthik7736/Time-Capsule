@@ -1,0 +1,128 @@
+{
+  "year": 1954,
+  "regional": {
+    "state": "Kerala",
+    "movies": [],
+    "music": [
+      {
+        "title": "1954 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1954%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1954 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1954%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "1954 in India",
+        "detail": "Events in the year 1954 in the Republic of India.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1954_in_India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Rear Window",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/ILVF0eJxHMddjxeQhswFtpMtqx.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Rear%20Window%201954%20official%20trailer"
+      },
+      {
+        "title": "Seven Samurai",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/lOMGc8bnSwQhS4XyE1S99uH8NXf.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Seven%20Samurai%201954%20official%20trailer"
+      },
+      {
+        "title": "The Queen of Babylon",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/jwIW6wtgmDDNlDRG9xrtwU0nbpE.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Queen%20of%20Babylon%201954%20official%20trailer"
+      },
+      {
+        "title": "Poverty and Nobility",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/yOwn3agwatgzHtEGJ8Dda9hANGj.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Poverty%20and%20Nobility%201954%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1954 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1954%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1954 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1954%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "1954 in India",
+        "detail": "Events in the year 1954 in the Republic of India.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1954_in_India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Rear Window",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/ILVF0eJxHMddjxeQhswFtpMtqx.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Rear%20Window%201954%20official%20trailer"
+      },
+      {
+        "title": "Seven Samurai",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/lOMGc8bnSwQhS4XyE1S99uH8NXf.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Seven%20Samurai%201954%20official%20trailer"
+      },
+      {
+        "title": "The Queen of Babylon",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/jwIW6wtgmDDNlDRG9xrtwU0nbpE.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Queen%20of%20Babylon%201954%20official%20trailer"
+      },
+      {
+        "title": "Poverty and Nobility",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/yOwn3agwatgzHtEGJ8Dda9hANGj.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Poverty%20and%20Nobility%201954%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1954 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1954%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1954 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1954%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "1954",
+        "detail": "1954 (MCMLIV) was a common year starting on Friday of the Gregorian calendar, the 1954th year of the Common Era (CE) and Anno Domini (AD) designations, the 954th year of the 2nd millennium, the 54th year of the 20th century, and the 5th year of the 1950s decad",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1954"
+      }
+    ]
+  },
+  "dataConfidence": "sparse"
+}

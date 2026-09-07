@@ -1,0 +1,153 @@
+{
+  "year": 2013,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Philips and the Monkey Pen",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/rTjAkAKuXrFrFp4XmubRqBMNxvG.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Philips%20and%20the%20Monkey%20Pen%202013%20official%20trailer"
+      },
+      {
+        "title": "Mumbai Police",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/9DfBCt9eeHHXATtWvMV7ZA2Z1bs.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Mumbai%20Police%202013%20official%20trailer"
+      },
+      {
+        "title": "5 Sundarikal",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/gaekdc41iSm4BNt1iYc66bs82oZ.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=5%20Sundarikal%202013%20official%20trailer"
+      },
+      {
+        "title": "David and Goliath",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/4e3COZ5caDNZlZrLx3AIbRI5VXQ.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=David%20and%20Goliath%202013%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2013 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2013%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2013 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2013%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "2013 in India",
+        "detail": "Events in the year 2013 in the Republic of India.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2013_in_India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "The Conjuring",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Conjuring%202013%20official%20trailer"
+      },
+      {
+        "title": "The Wolf of Wall Street",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Wolf%20of%20Wall%20Street%202013%20official%20trailer"
+      },
+      {
+        "title": "Iron Man 3",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Iron%20Man%203%202013%20official%20trailer"
+      },
+      {
+        "title": "Frozen",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/itAKcobTYGpYT8Phwjd8c9hleTo.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Frozen%202013%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2013 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2013%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2013 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2013%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "2013 in India",
+        "detail": "Events in the year 2013 in the Republic of India.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2013_in_India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "The Conjuring",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Conjuring%202013%20official%20trailer"
+      },
+      {
+        "title": "The Wolf of Wall Street",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Wolf%20of%20Wall%20Street%202013%20official%20trailer"
+      },
+      {
+        "title": "Iron Man 3",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Iron%20Man%203%202013%20official%20trailer"
+      },
+      {
+        "title": "Frozen",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/itAKcobTYGpYT8Phwjd8c9hleTo.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Frozen%202013%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2013 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2013%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2013 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2013%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "2013",
+        "detail": "2013 (MMXIII) was a common year starting on Tuesday of the Gregorian calendar, the 2013th year of the Common Era (CE) and Anno Domini (AD) designations, the 13th year of the 3rd millennium and the 21st century, and the 4th year of the 2010s decade. ",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2013"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

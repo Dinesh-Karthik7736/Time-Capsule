@@ -1,0 +1,153 @@
+{
+  "year": 2004,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Mayilattam",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/8nJXSer8vCpOpS8BZWCAeUCXlca.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Mayilattam%202004%20official%20trailer"
+      },
+      {
+        "title": "Vellinakshatram",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/wDSP2Rz3DSoGb9myqRvCX2ogDZQ.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Vellinakshatram%202004%20official%20trailer"
+      },
+      {
+        "title": "Rasikan",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/eij7pPGlVTDYI5kRNHRgsvhVzGi.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Rasikan%202004%20official%20trailer"
+      },
+      {
+        "title": "Wanted",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qxuAuCTefepUypJVd3lvZnnOPsW.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Wanted%202004%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2004 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2004%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2004 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2004%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2004",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2004%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban%202004%20official%20trailer"
+      },
+      {
+        "title": "Troy",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/a07wLy4ONfpsjnBqMwhlWTJTcm.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Troy%202004%20official%20trailer"
+      },
+      {
+        "title": "White Chicks",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/aHTUpo45qy9QYIOnVITGGqLoVcA.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=White%20Chicks%202004%20official%20trailer"
+      },
+      {
+        "title": "Howl's Moving Castle",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/13kOl2v0nD2OLbVSHnHk8GUFEhO.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Howl's%20Moving%20Castle%202004%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2004 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2004%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2004 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2004%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2004",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2004%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban%202004%20official%20trailer"
+      },
+      {
+        "title": "Troy",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/a07wLy4ONfpsjnBqMwhlWTJTcm.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Troy%202004%20official%20trailer"
+      },
+      {
+        "title": "White Chicks",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/aHTUpo45qy9QYIOnVITGGqLoVcA.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=White%20Chicks%202004%20official%20trailer"
+      },
+      {
+        "title": "Howl's Moving Castle",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/13kOl2v0nD2OLbVSHnHk8GUFEhO.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Howl's%20Moving%20Castle%202004%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2004 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2004%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2004 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2004%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 2004",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2004"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

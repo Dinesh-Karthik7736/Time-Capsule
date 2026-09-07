@@ -1,0 +1,128 @@
+{
+  "year": 1960,
+  "regional": {
+    "state": "Kerala",
+    "movies": [],
+    "music": [
+      {
+        "title": "1960 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1960%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1960 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1960%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1960",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1960%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Psycho",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Psycho%201960%20official%20trailer"
+      },
+      {
+        "title": "Spartacus",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/nqU4xAn3ygWA4fvXSBufRwdGhpr.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Spartacus%201960%20official%20trailer"
+      },
+      {
+        "title": "The Magnificent Seven",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/e5ToxOyJwuZD4VOfI0qEn5uIjeJ.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Magnificent%20Seven%201960%20official%20trailer"
+      },
+      {
+        "title": "The Drifter from the Sea",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/s8Bgb5K0u3BhdG8OUvJCYG6G8NM.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Drifter%20from%20the%20Sea%201960%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1960 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1960%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1960 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1960%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1960",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1960%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Psycho",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Psycho%201960%20official%20trailer"
+      },
+      {
+        "title": "Spartacus",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/nqU4xAn3ygWA4fvXSBufRwdGhpr.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Spartacus%201960%20official%20trailer"
+      },
+      {
+        "title": "The Magnificent Seven",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/e5ToxOyJwuZD4VOfI0qEn5uIjeJ.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Magnificent%20Seven%201960%20official%20trailer"
+      },
+      {
+        "title": "The Drifter from the Sea",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/s8Bgb5K0u3BhdG8OUvJCYG6G8NM.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Drifter%20from%20the%20Sea%201960%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1960 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1960%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1960 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1960%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 1960",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1960"
+      }
+    ]
+  },
+  "dataConfidence": "sparse"
+}

@@ -1,0 +1,128 @@
+{
+  "year": 1966,
+  "regional": {
+    "state": "Kerala",
+    "movies": [],
+    "music": [
+      {
+        "title": "1966 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1966%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1966 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1966%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1966",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1966%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "The Good, the Bad and the Ugly",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Good%2C%20the%20Bad%20and%20the%20Ugly%201966%20official%20trailer"
+      },
+      {
+        "title": "Africa Blood and Guts",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/fPLzCid2gk7eOCrYlXIBU24bTpO.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Africa%20Blood%20and%20Guts%201966%20official%20trailer"
+      },
+      {
+        "title": "Tokyo Drifter",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/dkscSldTB6FGUMMLnInUfKYLfPR.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Tokyo%20Drifter%201966%20official%20trailer"
+      },
+      {
+        "title": "Pretty Devil Yoko",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qCBQ08SQakKCG9se0cg6ElDoYQ5.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Pretty%20Devil%20Yoko%201966%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1966 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1966%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1966 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1966%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1966",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1966%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "The Good, the Bad and the Ugly",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Good%2C%20the%20Bad%20and%20the%20Ugly%201966%20official%20trailer"
+      },
+      {
+        "title": "Africa Blood and Guts",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/fPLzCid2gk7eOCrYlXIBU24bTpO.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Africa%20Blood%20and%20Guts%201966%20official%20trailer"
+      },
+      {
+        "title": "Tokyo Drifter",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/dkscSldTB6FGUMMLnInUfKYLfPR.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Tokyo%20Drifter%201966%20official%20trailer"
+      },
+      {
+        "title": "Pretty Devil Yoko",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qCBQ08SQakKCG9se0cg6ElDoYQ5.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Pretty%20Devil%20Yoko%201966%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1966 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1966%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1966 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1966%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "1966",
+        "detail": "1966 (MCMLXVI) was a common year starting on Saturday of the Gregorian calendar, the 1966th year of the Common Era (CE) and Anno Domini (AD) designations, the 966th year of the 2nd millennium, the 66th year of the 20th century, and the 7th year of the 1960s de",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1966"
+      }
+    ]
+  },
+  "dataConfidence": "sparse"
+}

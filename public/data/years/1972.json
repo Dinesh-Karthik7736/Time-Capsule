@@ -1,0 +1,141 @@
+{
+  "year": 1972,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Swayamvaram",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/kQCRLo2MhI6kcUnuOZsu3SYFHdt.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Swayamvaram%201972%20official%20trailer"
+      },
+      {
+        "title": "Gandharavakshetram",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/eMIiha6jKJQXjf9c4Rx3FwYtVx2.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Gandharavakshetram%201972%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1972 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1972%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1972 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1972%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1972",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1972%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "The Godfather",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Godfather%201972%20official%20trailer"
+      },
+      {
+        "title": "Loves of a French Pussycat",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/1WGq9cMuj09tnTJ5wdkINOJff04.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Loves%20of%20a%20French%20Pussycat%201972%20official%20trailer"
+      },
+      {
+        "title": "Fist of Fury",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/dlcipCOa9hlfBBz7kCAyjsf3q0E.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Fist%20of%20Fury%201972%20official%20trailer"
+      },
+      {
+        "title": "The Way of the Dragon",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/m7AIITQ624sfldI4SsX4htXPH1f.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Way%20of%20the%20Dragon%201972%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1972 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1972%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1972 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1972%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1972",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1972%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "The Godfather",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Godfather%201972%20official%20trailer"
+      },
+      {
+        "title": "Loves of a French Pussycat",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/1WGq9cMuj09tnTJ5wdkINOJff04.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Loves%20of%20a%20French%20Pussycat%201972%20official%20trailer"
+      },
+      {
+        "title": "Fist of Fury",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/dlcipCOa9hlfBBz7kCAyjsf3q0E.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Fist%20of%20Fury%201972%20official%20trailer"
+      },
+      {
+        "title": "The Way of the Dragon",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/m7AIITQ624sfldI4SsX4htXPH1f.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Way%20of%20the%20Dragon%201972%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1972 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1972%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1972 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1972%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "1972",
+        "detail": "1972 (MCMLXXII) was a leap year starting on Saturday of the Gregorian calendar, the 1972nd year of the Common Era (CE) and Anno Domini (AD) designations, the 972nd year of the 2nd millennium, the 72nd year of the 20th century, and the 3rd year of the 1970s dec",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1972"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

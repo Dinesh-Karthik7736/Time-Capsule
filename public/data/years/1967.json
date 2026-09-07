@@ -1,0 +1,147 @@
+{
+  "year": 1967,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Cochin Express",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/91XLgHLwCB2CYjRTlSrmtGxLUZc.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Cochin%20Express%201967%20official%20trailer"
+      },
+      {
+        "title": "Iruttinte Athmavu",
+        "language": "Malayalam cinema",
+        "posterUrl": "",
+        "watchUrl": "https://www.youtube.com/results?search_query=Iruttinte%20Athmavu%201967%20official%20trailer"
+      },
+      {
+        "title": "Karutha Rathrikal",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/9Mj1y5EfaihavmTqkz3nOexyRUz.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Karutha%20Rathrikal%201967%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1967 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1967%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1967 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1967%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1967",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1967%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "The Jungle Book",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/yN1kuupnPTLUprgfvC5WapgrxG4.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Jungle%20Book%201967%20official%20trailer"
+      },
+      {
+        "title": "You Only Live Twice",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/gIhS0VC7YzI8pj6zfS3KxsxV0dS.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=You%20Only%20Live%20Twice%201967%20official%20trailer"
+      },
+      {
+        "title": "Casino Royale",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/9wdw5H018bgIM8bK2HuDvh8BwOh.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Casino%20Royale%201967%20official%20trailer"
+      },
+      {
+        "title": "Tutto Totò - Don Giovannino",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/zPfw7wrybCoAJlLQQS6jgQOIJv0.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Tutto%20Tot%C3%B2%20-%20Don%20Giovannino%201967%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1967 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1967%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1967 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1967%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1967",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1967%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "The Jungle Book",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/yN1kuupnPTLUprgfvC5WapgrxG4.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Jungle%20Book%201967%20official%20trailer"
+      },
+      {
+        "title": "You Only Live Twice",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/gIhS0VC7YzI8pj6zfS3KxsxV0dS.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=You%20Only%20Live%20Twice%201967%20official%20trailer"
+      },
+      {
+        "title": "Casino Royale",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/9wdw5H018bgIM8bK2HuDvh8BwOh.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Casino%20Royale%201967%20official%20trailer"
+      },
+      {
+        "title": "Tutto Totò - Don Giovannino",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/zPfw7wrybCoAJlLQQS6jgQOIJv0.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Tutto%20Tot%C3%B2%20-%20Don%20Giovannino%201967%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1967 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1967%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1967 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1967%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 1967",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1967"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

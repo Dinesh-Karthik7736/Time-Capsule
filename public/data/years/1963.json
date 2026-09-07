@@ -1,0 +1,128 @@
+{
+  "year": 1963,
+  "regional": {
+    "state": "Kerala",
+    "movies": [],
+    "music": [
+      {
+        "title": "1963 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1963%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1963 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1963%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1963",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1963%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Apache Gold",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/hHS5Bf4zliMzYj9WqTdr1exZHUS.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Apache%20Gold%201963%20official%20trailer"
+      },
+      {
+        "title": "Landmine Warfare",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/3WZrLXWE8mno97BFGO3UTODymAy.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Landmine%20Warfare%201963%20official%20trailer"
+      },
+      {
+        "title": "The Great Escape",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/gBH4H8UMFxl139HaLz6lRuvsel8.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Great%20Escape%201963%20official%20trailer"
+      },
+      {
+        "title": "The Pink Panther",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/aCjJ0sKayks2uL7MJBzdp2i67NI.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Pink%20Panther%201963%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1963 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1963%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1963 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1963%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1963",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1963%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Apache Gold",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/hHS5Bf4zliMzYj9WqTdr1exZHUS.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Apache%20Gold%201963%20official%20trailer"
+      },
+      {
+        "title": "Landmine Warfare",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/3WZrLXWE8mno97BFGO3UTODymAy.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Landmine%20Warfare%201963%20official%20trailer"
+      },
+      {
+        "title": "The Great Escape",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/gBH4H8UMFxl139HaLz6lRuvsel8.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Great%20Escape%201963%20official%20trailer"
+      },
+      {
+        "title": "The Pink Panther",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/aCjJ0sKayks2uL7MJBzdp2i67NI.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Pink%20Panther%201963%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1963 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1963%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1963 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1963%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "1963",
+        "detail": "1963 (MCMLXIII) was a common year starting on Tuesday of the Gregorian calendar, the 1963rd year of the Common Era (CE) and Anno Domini (AD) designations, the 963rd year of the 2nd millennium, the 63rd year of the 20th century, and the 4th year of the 1960s de",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1963"
+      }
+    ]
+  },
+  "dataConfidence": "sparse"
+}

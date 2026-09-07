@@ -1,0 +1,153 @@
+{
+  "year": 2011,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Ulakam Chuttum Valiban",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/j0B7s9o457GLyDPyIOrJVU1u8BO.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Ulakam%20Chuttum%20Valiban%202011%20official%20trailer"
+      },
+      {
+        "title": "Ithu Nammude Katha",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/f96ulOTA69KUYKDyPQ6brJBBLd3.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Ithu%20Nammude%20Katha%202011%20official%20trailer"
+      },
+      {
+        "title": "Adaminte Makan Abu",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/pHDJNc798sdonF78TanRxHfWneC.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Adaminte%20Makan%20Abu%202011%20official%20trailer"
+      },
+      {
+        "title": "Doctor Love",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/yITK86jQXB6qlVhLcyPwPCqQjw2.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Doctor%20Love%202011%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2011 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2011%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2011 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2011%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2011",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2011%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Hotel Desire",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/47XRWH95ATv4szxdWHl723guWXP.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Hotel%20Desire%202011%20official%20trailer"
+      },
+      {
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/c54HpQmuwXjHq2C9wmoACjxoom3.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Harry%20Potter%20and%20the%20Deathly%20Hallows%3A%20Part%202%202011%20official%20trailer"
+      },
+      {
+        "title": "Insidious",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/1egpmVXuXed58TH2UOnX1nATTrf.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Insidious%202011%20official%20trailer"
+      },
+      {
+        "title": "Kill Bill: The Whole Bloody Affair",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/nSOJfWJCdVFZQwXQA7RXn7FIIiY.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Kill%20Bill%3A%20The%20Whole%20Bloody%20Affair%202011%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2011 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2011%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2011 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2011%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2011",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2011%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Hotel Desire",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/47XRWH95ATv4szxdWHl723guWXP.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Hotel%20Desire%202011%20official%20trailer"
+      },
+      {
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/c54HpQmuwXjHq2C9wmoACjxoom3.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Harry%20Potter%20and%20the%20Deathly%20Hallows%3A%20Part%202%202011%20official%20trailer"
+      },
+      {
+        "title": "Insidious",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/1egpmVXuXed58TH2UOnX1nATTrf.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Insidious%202011%20official%20trailer"
+      },
+      {
+        "title": "Kill Bill: The Whole Bloody Affair",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/nSOJfWJCdVFZQwXQA7RXn7FIIiY.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Kill%20Bill%3A%20The%20Whole%20Bloody%20Affair%202011%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2011 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2011%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2011 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2011%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "2011",
+        "detail": "2011 (MMXI) was a common year starting on Saturday of the Gregorian calendar, the 2011th year of the Common Era (CE) and Anno Domini (AD) designations, the 11th year of the 3rd millennium and the 21st century, and the 2nd year of the 2010s decade. ",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2011"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

@@ -1,0 +1,153 @@
+{
+  "year": 1994,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Thenmavin Kombath",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/i3HzOXGv3tfwiVJJiYqeUYZw48q.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Thenmavin%20Kombath%201994%20official%20trailer"
+      },
+      {
+        "title": "Pingami",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/tSuMxvLkAlGqBCgv4LIiYCqRCSy.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Pingami%201994%20official%20trailer"
+      },
+      {
+        "title": "Varaphalam",
+        "language": "Malayalam cinema",
+        "posterUrl": "",
+        "watchUrl": "https://www.youtube.com/results?search_query=Varaphalam%201994%20official%20trailer"
+      },
+      {
+        "title": "Pakshe",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/izWbDJ67nZePawXCUV0tmk8Qq6X.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Pakshe%201994%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1994 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1994%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1994 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1994%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1994",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1994%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "The Shawshank Redemption",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Shawshank%20Redemption%201994%20official%20trailer"
+      },
+      {
+        "title": "Pulp Fiction",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Pulp%20Fiction%201994%20official%20trailer"
+      },
+      {
+        "title": "The Lion King",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Lion%20King%201994%20official%20trailer"
+      },
+      {
+        "title": "Forrest Gump",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Forrest%20Gump%201994%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1994 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1994%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1994 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1994%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1994",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1994%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "The Shawshank Redemption",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Shawshank%20Redemption%201994%20official%20trailer"
+      },
+      {
+        "title": "Pulp Fiction",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Pulp%20Fiction%201994%20official%20trailer"
+      },
+      {
+        "title": "The Lion King",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Lion%20King%201994%20official%20trailer"
+      },
+      {
+        "title": "Forrest Gump",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Forrest%20Gump%201994%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1994 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1994%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1994 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1994%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 1994",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1994"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

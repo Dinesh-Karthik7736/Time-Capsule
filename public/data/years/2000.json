@@ -1,0 +1,153 @@
+{
+  "year": 2000,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Kochu Kochu Santhoshangal",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/oxHwnplUXMIxYTDQWZ4G8oUM35g.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Kochu%20Kochu%20Santhoshangal%202000%20official%20trailer"
+      },
+      {
+        "title": "Oru Cheru Punchiri",
+        "language": "Malayalam cinema",
+        "posterUrl": "",
+        "watchUrl": "https://www.youtube.com/results?search_query=Oru%20Cheru%20Punchiri%202000%20official%20trailer"
+      },
+      {
+        "title": "Swayamvarapanthal",
+        "language": "Malayalam cinema",
+        "posterUrl": "",
+        "watchUrl": "https://www.youtube.com/results?search_query=Swayamvarapanthal%202000%20official%20trailer"
+      },
+      {
+        "title": "Nadan Pennum Natupramaniyum",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/7zB4KFzF2NsERsp15hWatcUIyWB.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Nadan%20Pennum%20Natupramaniyum%202000%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2000 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2000%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2000 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2000%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2000",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2000%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Gladiator",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/wN2xWp1eIwCKOD0BHTcErTBv1Uq.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Gladiator%202000%20official%20trailer"
+      },
+      {
+        "title": "Malena",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/3OyQTl0IGkbnjDxd3MhztfPE34g.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Malena%202000%20official%20trailer"
+      },
+      {
+        "title": "Scary Movie",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/fVQFPRuw3yWXojYDJvA5EoFjUOY.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Scary%20Movie%202000%20official%20trailer"
+      },
+      {
+        "title": "The Emperor's New Groove",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/wwbgkXQBEKtnyIJapk6gUgWkVw8.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Emperor's%20New%20Groove%202000%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2000 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2000%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2000 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2000%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2000",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2000%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Gladiator",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/wN2xWp1eIwCKOD0BHTcErTBv1Uq.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Gladiator%202000%20official%20trailer"
+      },
+      {
+        "title": "Malena",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/3OyQTl0IGkbnjDxd3MhztfPE34g.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Malena%202000%20official%20trailer"
+      },
+      {
+        "title": "Scary Movie",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/fVQFPRuw3yWXojYDJvA5EoFjUOY.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Scary%20Movie%202000%20official%20trailer"
+      },
+      {
+        "title": "The Emperor's New Groove",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/wwbgkXQBEKtnyIJapk6gUgWkVw8.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Emperor's%20New%20Groove%202000%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2000 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2000%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2000 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2000%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "2000",
+        "detail": "2000 (MM) was a century leap year starting on Saturday of the Gregorian calendar, the 2000th year of the Common Era (CE) and Anno Domini (AD) designations, the 1000th and last year of the 2nd millennium, the 100th and last year of the 20th century, and the 1st",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2000"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

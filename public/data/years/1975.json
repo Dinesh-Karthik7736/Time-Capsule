@@ -1,0 +1,135 @@
+{
+  "year": 1975,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Throne of Capricorn",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/4b0By9LE0e50H0qleuidAomOwFf.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Throne%20of%20Capricorn%201975%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1975 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1975%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1975 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1975%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1975",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1975%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Jaws",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Jaws%201975%20official%20trailer"
+      },
+      {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=One%20Flew%20Over%20the%20Cuckoo's%20Nest%201975%20official%20trailer"
+      },
+      {
+        "title": "The Old Gun",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/hLoEBn5kbMlnLA30Y5M3H6lwyUp.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Old%20Gun%201975%20official%20trailer"
+      },
+      {
+        "title": "The Rocky Horror Picture Show",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Rocky%20Horror%20Picture%20Show%201975%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1975 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1975%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1975 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1975%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1975",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1975%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Jaws",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Jaws%201975%20official%20trailer"
+      },
+      {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=One%20Flew%20Over%20the%20Cuckoo's%20Nest%201975%20official%20trailer"
+      },
+      {
+        "title": "The Old Gun",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/hLoEBn5kbMlnLA30Y5M3H6lwyUp.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Old%20Gun%201975%20official%20trailer"
+      },
+      {
+        "title": "The Rocky Horror Picture Show",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Rocky%20Horror%20Picture%20Show%201975%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1975 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1975%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1975 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1975%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "1975",
+        "detail": "1975 (MCMLXXV) was a common year starting on Wednesday of the Gregorian calendar, the 1975th year of the Common Era (CE) and Anno Domini (AD) designations, the 975th year of the 2nd millennium, the 75th year of the 20th century, and the 6th year of the 1970s d",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1975"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

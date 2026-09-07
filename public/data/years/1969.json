@@ -1,0 +1,128 @@
+{
+  "year": 1969,
+  "regional": {
+    "state": "Kerala",
+    "movies": [],
+    "music": [
+      {
+        "title": "1969 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1969%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1969 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1969%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1969",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1969%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Poppea's Hot Nights",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/g1kB4f7aZBJnU2XZILZ8TsyDVVM.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Poppea's%20Hot%20Nights%201969%20official%20trailer"
+      },
+      {
+        "title": "Willst du ewig Jungfrau bleiben?",
+        "language": "Indian cinema",
+        "posterUrl": "",
+        "watchUrl": "https://www.youtube.com/results?search_query=Willst%20du%20ewig%20Jungfrau%20bleiben%3F%201969%20official%20trailer"
+      },
+      {
+        "title": "On Her Majesty's Secret Service",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/m3KfbxvqaiAvRJ6MpguA3GuLdDQ.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=On%20Her%20Majesty's%20Secret%20Service%201969%20official%20trailer"
+      },
+      {
+        "title": "Butch Cassidy and the Sundance Kid",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/gFmmykF1Ym3OGzENo50nZQaD1dx.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Butch%20Cassidy%20and%20the%20Sundance%20Kid%201969%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1969 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1969%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1969 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1969%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1969",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1969%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Poppea's Hot Nights",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/g1kB4f7aZBJnU2XZILZ8TsyDVVM.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Poppea's%20Hot%20Nights%201969%20official%20trailer"
+      },
+      {
+        "title": "Willst du ewig Jungfrau bleiben?",
+        "language": "International cinema",
+        "posterUrl": "",
+        "watchUrl": "https://www.youtube.com/results?search_query=Willst%20du%20ewig%20Jungfrau%20bleiben%3F%201969%20official%20trailer"
+      },
+      {
+        "title": "On Her Majesty's Secret Service",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/m3KfbxvqaiAvRJ6MpguA3GuLdDQ.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=On%20Her%20Majesty's%20Secret%20Service%201969%20official%20trailer"
+      },
+      {
+        "title": "Butch Cassidy and the Sundance Kid",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/gFmmykF1Ym3OGzENo50nZQaD1dx.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Butch%20Cassidy%20and%20the%20Sundance%20Kid%201969%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1969 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1969%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1969 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1969%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "1969",
+        "detail": "1969 (MCMLXIX) was a common year starting on Wednesday of the Gregorian calendar, the 1969th year of the Common Era (CE) and Anno Domini (AD) designations, the 969th year of the 2nd millennium, the 69th year of the 20th century, and the 10th and last year of t",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1969"
+      }
+    ]
+  },
+  "dataConfidence": "sparse"
+}

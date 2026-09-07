@@ -1,0 +1,153 @@
+{
+  "year": 2024,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "A.R.M - Ajayante Randam Moshanam",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/OClpEeRlHK3DrFO7QtWXtpDIOK.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=A.R.M%20-%20Ajayante%20Randam%20Moshanam%202024%20official%20trailer"
+      },
+      {
+        "title": "All We Imagine as Light",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/ruImrzB4POsrgwCMozmOBV67zs5.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=All%20We%20Imagine%20as%20Light%202024%20official%20trailer"
+      },
+      {
+        "title": "Thundu",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/lAmO3qw7k4bARLVgIHJMNMEtnmT.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Thundu%202024%20official%20trailer"
+      },
+      {
+        "title": "Vaazha",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/6SFL0Z5x4FQTNYoDCp6SbbyydQm.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Vaazha%202024%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2024 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2024%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2024 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2024%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2024",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2024%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Shape of My Heart",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/3r0O6BW9USoZ9mteCVyNKMQriRL.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Shape%20of%20My%20Heart%202024%20official%20trailer"
+      },
+      {
+        "title": "Deadpool & Wolverine",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Deadpool%20%26%20Wolverine%202024%20official%20trailer"
+      },
+      {
+        "title": "Dune: Part Two",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Dune%3A%20Part%20Two%202024%20official%20trailer"
+      },
+      {
+        "title": "The Wild Robot",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Wild%20Robot%202024%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2024 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2024%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2024 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2024%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2024",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2024%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Shape of My Heart",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/3r0O6BW9USoZ9mteCVyNKMQriRL.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Shape%20of%20My%20Heart%202024%20official%20trailer"
+      },
+      {
+        "title": "Deadpool & Wolverine",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Deadpool%20%26%20Wolverine%202024%20official%20trailer"
+      },
+      {
+        "title": "Dune: Part Two",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Dune%3A%20Part%20Two%202024%20official%20trailer"
+      },
+      {
+        "title": "The Wild Robot",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Wild%20Robot%202024%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2024 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2024%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2024 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2024%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 2024",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2024"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

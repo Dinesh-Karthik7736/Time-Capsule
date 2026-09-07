@@ -1,0 +1,128 @@
+{
+  "year": 1968,
+  "regional": {
+    "state": "Kerala",
+    "movies": [],
+    "music": [
+      {
+        "title": "1968 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1968%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1968 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1968%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1968",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1968%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "2001: A Space Odyssey",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=2001%3A%20A%20Space%20Odyssey%201968%20official%20trailer"
+      },
+      {
+        "title": "Vixen!",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/9KMZWDA3xTrlgrScqdMisINQmsh.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Vixen!%201968%20official%20trailer"
+      },
+      {
+        "title": "Once Upon a Time in the West",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qbYgqOczabWNn2XKwgMtVrntD6P.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Once%20Upon%20a%20Time%20in%20the%20West%201968%20official%20trailer"
+      },
+      {
+        "title": "Planet of the Apes",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Planet%20of%20the%20Apes%201968%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1968 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1968%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1968 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1968%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1968",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1968%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "2001: A Space Odyssey",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=2001%3A%20A%20Space%20Odyssey%201968%20official%20trailer"
+      },
+      {
+        "title": "Vixen!",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/9KMZWDA3xTrlgrScqdMisINQmsh.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Vixen!%201968%20official%20trailer"
+      },
+      {
+        "title": "Once Upon a Time in the West",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qbYgqOczabWNn2XKwgMtVrntD6P.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Once%20Upon%20a%20Time%20in%20the%20West%201968%20official%20trailer"
+      },
+      {
+        "title": "Planet of the Apes",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Planet%20of%20the%20Apes%201968%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1968 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1968%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1968 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1968%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 1968",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1968"
+      }
+    ]
+  },
+  "dataConfidence": "sparse"
+}

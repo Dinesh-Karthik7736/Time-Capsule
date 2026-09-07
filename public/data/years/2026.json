@@ -1,0 +1,153 @@
+{
+  "year": 2026,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Unmadham",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Unmadham%202026%20official%20trailer"
+      },
+      {
+        "title": "Bethlehem Kudumba Unit",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/rZPu64VDDftnU7NU1d2wrWuhOHm.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Bethlehem%20Kudumba%20Unit%202026%20official%20trailer"
+      },
+      {
+        "title": "Khalifa: The Ruler",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/cAl7uuRojdxysptYBj9Mg0czGmI.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Khalifa%3A%20The%20Ruler%202026%20official%20trailer"
+      },
+      {
+        "title": "I, Nobody",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qFJl3w9KpVXpfZ3rpmv7p0UYZkP.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=I%2C%20Nobody%202026%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2026 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2026%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2026 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2026%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2026",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2026%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Spider-Man: Brand New Day",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Spider-Man%3A%20Brand%20New%20Day%202026%20official%20trailer"
+      },
+      {
+        "title": "Coyote vs. Acme",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Coyote%20vs.%20Acme%202026%20official%20trailer"
+      },
+      {
+        "title": "The Odyssey",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Odyssey%202026%20official%20trailer"
+      },
+      {
+        "title": "Mutiny",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Mutiny%202026%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2026 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2026%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2026 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2026%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2026",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2026%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Spider-Man: Brand New Day",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Spider-Man%3A%20Brand%20New%20Day%202026%20official%20trailer"
+      },
+      {
+        "title": "Coyote vs. Acme",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Coyote%20vs.%20Acme%202026%20official%20trailer"
+      },
+      {
+        "title": "The Odyssey",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Odyssey%202026%20official%20trailer"
+      },
+      {
+        "title": "Mutiny",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Mutiny%202026%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2026 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2026%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2026 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2026%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "2026",
+        "detail": "2026 (MMXXVI) is the current year, and is a common year starting on Thursday of the Gregorian calendar, the 2026th year of the Common Era (CE) and Anno Domini (AD) designations, the 26th year of the 3rd millennium and the 21st century, and the 7th year of the ",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2026"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

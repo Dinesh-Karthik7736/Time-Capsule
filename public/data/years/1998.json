@@ -5,58 +5,138 @@
     "movies": [
       {
         "title": "Harikrishnans",
-        "language": "Malayalam"
+        "language": "Malayalam",
+        "watchUrl": "https://www.youtube.com/results?search_query=Harikrishnans%20official%20trailer"
       },
       {
         "title": "Summer in Bethlehem",
-        "language": "Malayalam"
+        "language": "Malayalam",
+        "watchUrl": "https://www.youtube.com/results?search_query=Summer%20in%20Bethlehem%20official%20trailer"
       }
     ],
     "music": [
       {
         "title": "Kudajaadriyil",
-        "artist": "M. G. Sreekumar"
+        "artist": "M. G. Sreekumar",
+        "playUrl": "https://www.youtube.com/results?search_query=Kudajaadriyil%20M.%20G.%20Sreekumar"
       },
       {
         "title": "Oru Raathri Koodi",
-        "artist": "K. J. Yesudas"
+        "artist": "K. J. Yesudas",
+        "playUrl": "https://www.youtube.com/results?search_query=Oru%20Raathri%20Koodi%20K.%20J.%20Yesudas"
       }
     ],
     "sports": [
       {
         "headline": "Kerala’s football fever",
-        "detail": "Local grounds kept the beautiful game loud and lively."
+        "detail": "Local grounds kept the beautiful game loud and lively.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1998%20Kerala%20sports%20highlights"
       }
     ],
     "events": [
       {
         "headline": "Kochi’s culture was in full colour",
-        "detail": "Malayalam cinema and music were the conversation-starters."
+        "detail": "Malayalam cinema and music were the conversation-starters.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1998%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Practical Magic",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/AwmToSgf2IL3aHv0QRVsR5KvChv.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Practical%20Magic%201998%20official%20trailer"
+      },
+      {
+        "title": "The Truman Show",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Truman%20Show%201998%20official%20trailer"
+      },
+      {
+        "title": "Saving Private Ryan",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Saving%20Private%20Ryan%201998%20official%20trailer"
+      },
+      {
+        "title": "Rush Hour",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/nwPhAsfnb7f46bZkWLG7IRP5HXr.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Rush%20Hour%201998%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1998 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1998%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1998 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1998%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1998",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1998%20in%20India"
       }
     ]
   },
   "international": {
     "movies": [
       {
-        "title": "Titanic"
+        "title": "Practical Magic",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/AwmToSgf2IL3aHv0QRVsR5KvChv.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Practical%20Magic%201998%20official%20trailer"
+      },
+      {
+        "title": "The Truman Show",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Truman%20Show%201998%20official%20trailer"
+      },
+      {
+        "title": "Saving Private Ryan",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Saving%20Private%20Ryan%201998%20official%20trailer"
+      },
+      {
+        "title": "Rush Hour",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/nwPhAsfnb7f46bZkWLG7IRP5HXr.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Rush%20Hour%201998%20official%20trailer"
       }
     ],
     "music": [
       {
-        "title": "The Boy Is Mine",
-        "artist": "Brandy & Monica"
+        "title": "1998 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1998%20biggest%20songs%20playlist"
       }
     ],
     "sports": [
       {
-        "headline": "France wins the FIFA World Cup",
-        "detail": "A home-tournament triumph in Paris."
+        "headline": "1998 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1998%20best%20sports%20highlights"
       }
     ],
     "events": [
       {
-        "headline": "Good Friday Agreement signed",
-        "detail": "A landmark accord in Northern Ireland."
+        "headline": "The world in 1998",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1998"
       }
     ]
   },

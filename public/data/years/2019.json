@@ -1,0 +1,153 @@
+{
+  "year": 2019,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Madura Raja",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/1zR6dr7FXk3TPHeoS3LeaLsP30.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Madura%20Raja%202019%20official%20trailer"
+      },
+      {
+        "title": "Mr. & Ms. Rowdy",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/rm6pm6RpOIS0rbYcIrIirWO3fFv.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Mr.%20%26%20Ms.%20Rowdy%202019%20official%20trailer"
+      },
+      {
+        "title": "Ganagandharvan",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/jQLjwkNUmqjwDFcFv9ClhzajtLq.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Ganagandharvan%202019%20official%20trailer"
+      },
+      {
+        "title": "Lonappante Mammodisa",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/6POvbbOdw3odEJIc62L7QGjdmbA.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Lonappante%20Mammodisa%202019%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2019 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2019%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2019 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2019%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2019",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2019%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Avengers: Endgame",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Avengers%3A%20Endgame%202019%20official%20trailer"
+      },
+      {
+        "title": "The Legendary Lighter",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/h5fCwKCnKAKxdX6onTnrU6MeYe8.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Legendary%20Lighter%202019%20official%20trailer"
+      },
+      {
+        "title": "Joker",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Joker%202019%20official%20trailer"
+      },
+      {
+        "title": "Spider-Man: Far From Home",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Spider-Man%3A%20Far%20From%20Home%202019%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2019 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2019%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2019 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2019%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2019",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2019%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Avengers: Endgame",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Avengers%3A%20Endgame%202019%20official%20trailer"
+      },
+      {
+        "title": "The Legendary Lighter",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/h5fCwKCnKAKxdX6onTnrU6MeYe8.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Legendary%20Lighter%202019%20official%20trailer"
+      },
+      {
+        "title": "Joker",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Joker%202019%20official%20trailer"
+      },
+      {
+        "title": "Spider-Man: Far From Home",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Spider-Man%3A%20Far%20From%20Home%202019%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2019 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2019%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2019 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2019%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 2019",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2019"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

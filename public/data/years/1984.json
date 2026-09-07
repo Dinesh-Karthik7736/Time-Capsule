@@ -1,0 +1,153 @@
+{
+  "year": 1984,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Athirathram",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/tvd8K7MUk8urlrJ5vPuDpt9HwWy.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Athirathram%201984%20official%20trailer"
+      },
+      {
+        "title": "My Dear Kuttichathan",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/r8s7MdmOtU79olhABBx4IsjnoVW.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=My%20Dear%20Kuttichathan%201984%20official%20trailer"
+      },
+      {
+        "title": "Nokkethadhoorathu Kannum Nattu",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/pm518izbDuUcs8SHqst13j2HNx7.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Nokkethadhoorathu%20Kannum%20Nattu%201984%20official%20trailer"
+      },
+      {
+        "title": "Poochakkoru Mookkuthi",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/uZ6DlsUE7JEanvIvHROJRIyFiBS.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Poochakkoru%20Mookkuthi%201984%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1984 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1984%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1984 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1984%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1984",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1984%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "The Terminator",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Terminator%201984%20official%20trailer"
+      },
+      {
+        "title": "Once Upon a Time in America",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Once%20Upon%20a%20Time%20in%20America%201984%20official%20trailer"
+      },
+      {
+        "title": "Dune",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/4kJmUCE7mkVJjXa7A0g2rY4IGTm.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Dune%201984%20official%20trailer"
+      },
+      {
+        "title": "A Nightmare on Elm Street",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/tI0RQFYevX97NSdDSYmn0Z19i3r.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=A%20Nightmare%20on%20Elm%20Street%201984%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1984 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1984%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1984 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1984%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1984",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1984%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "The Terminator",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Terminator%201984%20official%20trailer"
+      },
+      {
+        "title": "Once Upon a Time in America",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Once%20Upon%20a%20Time%20in%20America%201984%20official%20trailer"
+      },
+      {
+        "title": "Dune",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/4kJmUCE7mkVJjXa7A0g2rY4IGTm.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Dune%201984%20official%20trailer"
+      },
+      {
+        "title": "A Nightmare on Elm Street",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/tI0RQFYevX97NSdDSYmn0Z19i3r.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=A%20Nightmare%20on%20Elm%20Street%201984%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1984 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1984%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1984 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1984%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "1984",
+        "detail": "1984 (MCMLXXXIV) was a leap year starting on Sunday of the Gregorian calendar, the 1984th year of the Common Era (CE) and Anno Domini (AD) designations, the 984th year of the 2nd millennium, the 84th year of the 20th century, and the 5th year of the 1980s deca",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1984"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

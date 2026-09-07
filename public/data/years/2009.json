@@ -1,0 +1,153 @@
+{
+  "year": 2009,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Dr. Patient",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/lI67I96NtVEVZKOFBO4bDM7gmvM.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Dr.%20Patient%202009%20official%20trailer"
+      },
+      {
+        "title": "Robin Hood",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/78yV6TqDM7DWRp83aplGbCeOU9u.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Robin%20Hood%202009%20official%20trailer"
+      },
+      {
+        "title": "Puthiya Mugham",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/lJxS7NtnoRg72062Dnp6frwosxg.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Puthiya%20Mugham%202009%20official%20trailer"
+      },
+      {
+        "title": "Currency",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/jbjIEjFTyazc62460yXq5It0b0e.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Currency%202009%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2009 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2009%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2009 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2009%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2009",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2009%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Avatar",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Avatar%202009%20official%20trailer"
+      },
+      {
+        "title": "Coraline",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Coraline%202009%20official%20trailer"
+      },
+      {
+        "title": "Up",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Up%202009%20official%20trailer"
+      },
+      {
+        "title": "Harry Potter and the Half-Blood Prince",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Harry%20Potter%20and%20the%20Half-Blood%20Prince%202009%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2009 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2009%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2009 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2009%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2009",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2009%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Avatar",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Avatar%202009%20official%20trailer"
+      },
+      {
+        "title": "Coraline",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Coraline%202009%20official%20trailer"
+      },
+      {
+        "title": "Up",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Up%202009%20official%20trailer"
+      },
+      {
+        "title": "Harry Potter and the Half-Blood Prince",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Harry%20Potter%20and%20the%20Half-Blood%20Prince%202009%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2009 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2009%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2009 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2009%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 2009",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2009"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

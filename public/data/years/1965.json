@@ -1,0 +1,135 @@
+{
+  "year": 1965,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Chemmeen",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/jOAjmEQD4LUYFVgR41fAEutaVQb.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Chemmeen%201965%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1965 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1965%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1965 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1965%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1965",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1965%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "The Sound of Music",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/c6CrUZypAsBCaRWX0M3RVRDbhNS.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Sound%20of%20Music%201965%20official%20trailer"
+      },
+      {
+        "title": "Prison Walls of Abashiri, Part 2",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/df3nlxtFZlaabkL7xCuTM5SZWVq.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Prison%20Walls%20of%20Abashiri%2C%20Part%202%201965%20official%20trailer"
+      },
+      {
+        "title": "Thunderball",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/wCc4qllaTDsQN8zgGkAgQrKO6N9.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Thunderball%201965%20official%20trailer"
+      },
+      {
+        "title": "For a Few Dollars More",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/ooqASvA7qxlTVKL3KwOzBwy57Dh.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=For%20a%20Few%20Dollars%20More%201965%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1965 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1965%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1965 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1965%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1965",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1965%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "The Sound of Music",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/c6CrUZypAsBCaRWX0M3RVRDbhNS.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Sound%20of%20Music%201965%20official%20trailer"
+      },
+      {
+        "title": "Prison Walls of Abashiri, Part 2",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/df3nlxtFZlaabkL7xCuTM5SZWVq.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Prison%20Walls%20of%20Abashiri%2C%20Part%202%201965%20official%20trailer"
+      },
+      {
+        "title": "Thunderball",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/wCc4qllaTDsQN8zgGkAgQrKO6N9.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Thunderball%201965%20official%20trailer"
+      },
+      {
+        "title": "For a Few Dollars More",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/ooqASvA7qxlTVKL3KwOzBwy57Dh.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=For%20a%20Few%20Dollars%20More%201965%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1965 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1965%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1965 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1965%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 1965",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1965"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

@@ -1,0 +1,128 @@
+{
+  "year": 1961,
+  "regional": {
+    "state": "Kerala",
+    "movies": [],
+    "music": [
+      {
+        "title": "1961 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1961%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1961 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1961%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1961",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1961%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "One Hundred and One Dalmatians",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/kSlYq6FrBUviGSEh8v4L9nrSnBT.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=One%20Hundred%20and%20One%20Dalmatians%201961%20official%20trailer"
+      },
+      {
+        "title": "When the Trees Were Tall",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/nHEaBfnrA6ZbFeo1m9hZnIsvgc8.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=When%20the%20Trees%20Were%20Tall%201961%20official%20trailer"
+      },
+      {
+        "title": "The Wind-of-Youth Group Crosses the Mountain Pass",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/7VlyJDxUDEd7SsUxwGeyuMF38NL.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Wind-of-Youth%20Group%20Crosses%20the%20Mountain%20Pass%201961%20official%20trailer"
+      },
+      {
+        "title": "Breakfast at Tiffany's",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Breakfast%20at%20Tiffany's%201961%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1961 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1961%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1961 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1961%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1961",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1961%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "One Hundred and One Dalmatians",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/kSlYq6FrBUviGSEh8v4L9nrSnBT.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=One%20Hundred%20and%20One%20Dalmatians%201961%20official%20trailer"
+      },
+      {
+        "title": "When the Trees Were Tall",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/nHEaBfnrA6ZbFeo1m9hZnIsvgc8.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=When%20the%20Trees%20Were%20Tall%201961%20official%20trailer"
+      },
+      {
+        "title": "The Wind-of-Youth Group Crosses the Mountain Pass",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/7VlyJDxUDEd7SsUxwGeyuMF38NL.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Wind-of-Youth%20Group%20Crosses%20the%20Mountain%20Pass%201961%20official%20trailer"
+      },
+      {
+        "title": "Breakfast at Tiffany's",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Breakfast%20at%20Tiffany's%201961%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1961 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1961%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1961 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1961%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "1961",
+        "detail": "1961 (MCMLXI) was a common year starting on Sunday of the Gregorian calendar, the 1961st year of the Common Era (CE) and Anno Domini (AD) designations, the 961st year of the 2nd millennium, the 61st year of the 20th century, and the 2nd year of the 1960s decad",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1961"
+      }
+    ]
+  },
+  "dataConfidence": "sparse"
+}

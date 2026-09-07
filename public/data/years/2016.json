@@ -1,0 +1,153 @@
+{
+  "year": 2016,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Pretham",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/gzjXkR4nxfNz0AWCJgS7lZ49nlP.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Pretham%202016%20official%20trailer"
+      },
+      {
+        "title": "Oru Muthassi Gadha",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/uM1Vg15Nl1nCGQtiL5AKZwR7jnL.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Oru%20Muthassi%20Gadha%202016%20official%20trailer"
+      },
+      {
+        "title": "Shajahanum Pareekuttiyum",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/aPrj6R9e3ZJJL8lXguz0MNNJpCd.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Shajahanum%20Pareekuttiyum%202016%20official%20trailer"
+      },
+      {
+        "title": "Thoppil Joppan",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qIVko33XkOWk79P6cHHhuLZv9Oj.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Thoppil%20Joppan%202016%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2016 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2016%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2016 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2016%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2016",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2016%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Captain America: Civil War",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Captain%20America%3A%20Civil%20War%202016%20official%20trailer"
+      },
+      {
+        "title": "Zootopia",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Zootopia%202016%20official%20trailer"
+      },
+      {
+        "title": "Hacksaw Ridge",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/fnOMP6mjmOmZwmlC1n0K7ivrzt1.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Hacksaw%20Ridge%202016%20official%20trailer"
+      },
+      {
+        "title": "Doctor Strange",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Doctor%20Strange%202016%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2016 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2016%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2016 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2016%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2016",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2016%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Captain America: Civil War",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Captain%20America%3A%20Civil%20War%202016%20official%20trailer"
+      },
+      {
+        "title": "Zootopia",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Zootopia%202016%20official%20trailer"
+      },
+      {
+        "title": "Hacksaw Ridge",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/fnOMP6mjmOmZwmlC1n0K7ivrzt1.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Hacksaw%20Ridge%202016%20official%20trailer"
+      },
+      {
+        "title": "Doctor Strange",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Doctor%20Strange%202016%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2016 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2016%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2016 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2016%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "2016",
+        "detail": "2016 (MMXVI) was a leap year starting on Friday of the Gregorian calendar, the 2016th year of the Common Era (CE) and Anno Domini (AD) designations, the 16th year of the 3rd millennium and the 21st century, and the 7th year of the 2010s decade. ",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2016"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

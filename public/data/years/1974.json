@@ -1,0 +1,135 @@
+{
+  "year": 1974,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Chattakkari",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/f0bTW0dhTcCVcMmfMN9todS6Vtx.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Chattakkari%201974%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1974 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1974%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1974 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1974%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1974",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1974%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Country Hooker",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/xNb6s2uCSv7PnLyNyqAGAmmI3Fk.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Country%20Hooker%201974%20official%20trailer"
+      },
+      {
+        "title": "The Godfather Part II",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/sSuQTCZwqKrNBNIsksO9IAUoWP9.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Godfather%20Part%20II%201974%20official%20trailer"
+      },
+      {
+        "title": "The Cousin",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/4EGglGdHpMdDX6w07t6Ns6gidrx.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Cousin%201974%20official%20trailer"
+      },
+      {
+        "title": "The Texas Chain Saw Massacre",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Texas%20Chain%20Saw%20Massacre%201974%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1974 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1974%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1974 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1974%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1974",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1974%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Country Hooker",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/xNb6s2uCSv7PnLyNyqAGAmmI3Fk.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Country%20Hooker%201974%20official%20trailer"
+      },
+      {
+        "title": "The Godfather Part II",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/sSuQTCZwqKrNBNIsksO9IAUoWP9.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Godfather%20Part%20II%201974%20official%20trailer"
+      },
+      {
+        "title": "The Cousin",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/4EGglGdHpMdDX6w07t6Ns6gidrx.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Cousin%201974%20official%20trailer"
+      },
+      {
+        "title": "The Texas Chain Saw Massacre",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Texas%20Chain%20Saw%20Massacre%201974%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1974 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1974%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1974 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1974%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "1974",
+        "detail": "1974 (MCMLXXIV) was a common year starting on Tuesday of the Gregorian calendar, the 1974th year of the Common Era (CE) and Anno Domini (AD) designations, the 974th year of the 2nd millennium, the 74th year of the 20th century, and the 5th year of the 1970s de",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1974"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

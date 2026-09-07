@@ -1,0 +1,153 @@
+{
+  "year": 2006,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Classmates",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/dJlCWyOdQek6so8sbHNeeizfDhP.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Classmates%202006%20official%20trailer"
+      },
+      {
+        "title": "Vaasthavam",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/lYScKmmly2StMKm3madxLl5UqT5.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Vaasthavam%202006%20official%20trailer"
+      },
+      {
+        "title": "Yes Your Honour",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/730OWAPvv2KxcOuFmRpOAcVqh9g.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Yes%20Your%20Honour%202006%20official%20trailer"
+      },
+      {
+        "title": "Vadakkumnadhan",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/dZYBOZH6G8ahnSBSil4xjW8UPOB.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Vadakkumnadhan%202006%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2006 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2006%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2006 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2006%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2006",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2006%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Pirates of the Caribbean: Dead Man's Chest",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Pirates%20of%20the%20Caribbean%3A%20Dead%20Man's%20Chest%202006%20official%20trailer"
+      },
+      {
+        "title": "The Devil Wears Prada",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Devil%20Wears%20Prada%202006%20official%20trailer"
+      },
+      {
+        "title": "Cars",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Cars%202006%20official%20trailer"
+      },
+      {
+        "title": "The Departed",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Departed%202006%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2006 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2006%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2006 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2006%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 2006",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2006%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Pirates of the Caribbean: Dead Man's Chest",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Pirates%20of%20the%20Caribbean%3A%20Dead%20Man's%20Chest%202006%20official%20trailer"
+      },
+      {
+        "title": "The Devil Wears Prada",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Devil%20Wears%20Prada%202006%20official%20trailer"
+      },
+      {
+        "title": "Cars",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Cars%202006%20official%20trailer"
+      },
+      {
+        "title": "The Departed",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Departed%202006%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2006 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2006%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2006 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2006%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "2006",
+        "detail": "2006 (MMVI) was a common year starting on Sunday of the Gregorian calendar, the 2006th year of the Common Era (CE) and Anno Domini (AD) designations, the 6th year of the 3rd millennium and the 21st century, and the 7th year of the 2000s decade. ",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2006"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

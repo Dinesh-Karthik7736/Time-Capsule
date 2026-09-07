@@ -1,0 +1,128 @@
+{
+  "year": 1957,
+  "regional": {
+    "state": "Kerala",
+    "movies": [],
+    "music": [
+      {
+        "title": "1957 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1957%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1957 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1957%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1957",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1957%20in%20India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "12 Angry Men",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=12%20Angry%20Men%201957%20official%20trailer"
+      },
+      {
+        "title": "Temptation",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/jCt6vAcBO3CxC9ERqZ0J2CWAVTb.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Temptation%201957%20official%20trailer"
+      },
+      {
+        "title": "Witness for the Prosecution",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/bCj4EfuehAlgBwVd3diyWyhuuau.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Witness%20for%20the%20Prosecution%201957%20official%20trailer"
+      },
+      {
+        "title": "The Bridge on the River Kwai",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Bridge%20on%20the%20River%20Kwai%201957%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1957 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1957%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1957 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1957%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "India in 1957",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1957%20in%20India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "12 Angry Men",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=12%20Angry%20Men%201957%20official%20trailer"
+      },
+      {
+        "title": "Temptation",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/jCt6vAcBO3CxC9ERqZ0J2CWAVTb.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Temptation%201957%20official%20trailer"
+      },
+      {
+        "title": "Witness for the Prosecution",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/bCj4EfuehAlgBwVd3diyWyhuuau.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Witness%20for%20the%20Prosecution%201957%20official%20trailer"
+      },
+      {
+        "title": "The Bridge on the River Kwai",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Bridge%20on%20the%20River%20Kwai%201957%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "1957 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=1957%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "1957 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=1957%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "The world in 1957",
+        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1957"
+      }
+    ]
+  },
+  "dataConfidence": "sparse"
+}

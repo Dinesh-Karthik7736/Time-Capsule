@@ -1,0 +1,153 @@
+{
+  "year": 2018,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Aravindante Athidhikal",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/8Z3vKWh7xBazJTuJBZMAojnVI4R.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Aravindante%20Athidhikal%202018%20official%20trailer"
+      },
+      {
+        "title": "Mohanlal",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/ch2SDxd53QeBYk2y2QIl5E6Zn8o.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Mohanlal%202018%20official%20trailer"
+      },
+      {
+        "title": "Aanakallan",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/b8swjymdf6xa8m302CJ9pvJw1y9.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Aanakallan%202018%20official%20trailer"
+      },
+      {
+        "title": "Kammara Sambhavam",
+        "language": "Malayalam cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/m7E6l7OfuDfbCbnFpW0QluQhdhS.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Kammara%20Sambhavam%202018%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2018 on repeat",
+        "artist": "Malayalam throwback mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2018%20Malayalam%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2018 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2018%20Kerala%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "2018 in India",
+        "detail": "Events in the year 2018 in the Republic of India.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2018_in_India"
+      }
+    ]
+  },
+  "india": {
+    "state": "India",
+    "movies": [
+      {
+        "title": "Avengers: Infinity War",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Avengers%3A%20Infinity%20War%202018%20official%20trailer"
+      },
+      {
+        "title": "Spider-Man: Into the Spider-Verse",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Spider-Man%3A%20Into%20the%20Spider-Verse%202018%20official%20trailer"
+      },
+      {
+        "title": "Insidious: The Last Key",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/6c9ti2JcR3dHyR3qFXoZqVMx0SH.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Insidious%3A%20The%20Last%20Key%202018%20official%20trailer"
+      },
+      {
+        "title": "Deadpool 2",
+        "language": "Indian cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Deadpool%202%202018%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2018 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2018%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2018 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2018%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "2018 in India",
+        "detail": "Events in the year 2018 in the Republic of India.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2018_in_India"
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Avengers: Infinity War",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Avengers%3A%20Infinity%20War%202018%20official%20trailer"
+      },
+      {
+        "title": "Spider-Man: Into the Spider-Verse",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Spider-Man%3A%20Into%20the%20Spider-Verse%202018%20official%20trailer"
+      },
+      {
+        "title": "Insidious: The Last Key",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/6c9ti2JcR3dHyR3qFXoZqVMx0SH.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Insidious%3A%20The%20Last%20Key%202018%20official%20trailer"
+      },
+      {
+        "title": "Deadpool 2",
+        "language": "International cinema",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Deadpool%202%202018%20official%20trailer"
+      }
+    ],
+    "music": [
+      {
+        "title": "2018 on repeat",
+        "artist": "A year-defining music mix",
+        "playUrl": "https://www.youtube.com/results?search_query=2018%20biggest%20songs%20playlist"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "2018 sports reel",
+        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "videoUrl": "https://www.youtube.com/results?search_query=2018%20best%20sports%20highlights"
+      }
+    ],
+    "events": [
+      {
+        "headline": "2018",
+        "detail": "2018 (MMXVIII) was a common year starting on Monday of the Gregorian calendar, the 2018th year of the Common Era (CE) and Anno Domini (AD) designations, the 18th year of the 3rd millennium and the 21st century, and the 9th year of the 2010s decade. ",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2018"
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}
