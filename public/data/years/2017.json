@@ -31,24 +31,135 @@
     "music": [
       {
         "title": "2017 on repeat",
-        "artist": "Malayalam throwback mix",
+        "artist": "Malayalam throwback mix — zero skips, no cap.",
+        "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EMALAYALAM%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E2017%3C%2Ftext%3E%3C%2Fsvg%3E",
         "playUrl": "https://www.youtube.com/results?search_query=2017%20Malayalam%20songs%20playlist"
       }
     ],
     "sports": [
       {
         "headline": "2017 sports reel",
-        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+        "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E2017%3C%2Ftext%3E%3C%2Fsvg%3E",
         "videoUrl": "https://www.youtube.com/results?search_query=2017%20Kerala%20sports%20highlights"
       }
     ],
     "events": [
       {
         "headline": "India in 2017",
-        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
-        "sourceUrl": "https://en.wikipedia.org/wiki/2017%20in%20India"
+        "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+        "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E2017%3C%2Ftext%3E%3C%2Fsvg%3E",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2017_in_India"
       }
     ]
+  },
+  "regionalByState": {
+    "Tamil Nadu": {
+      "state": "Tamil Nadu",
+      "movies": [
+        {
+          "title": "Vaigai Express",
+          "language": "Tamil cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/wVI1t5sCXtMyS6HUiDKBAprVUdu.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Vaigai%20Express%202017%20official%20trailer"
+        },
+        {
+          "title": "Yaakkai",
+          "language": "Tamil cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/sCA9EKeVHENuCoqlyOma9M2elBn.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Yaakkai%202017%20official%20trailer"
+        },
+        {
+          "title": "Vikram Vedha",
+          "language": "Tamil cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ob9YxdzRu5lfKgz0PNrlL45dorf.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Vikram%20Vedha%202017%20official%20trailer"
+        },
+        {
+          "title": "Oru Kidayin Karunai Manu",
+          "language": "Tamil cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/1nXoANO1zWqaoW9NeIVHNalmCqd.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Oru%20Kidayin%20Karunai%20Manu%202017%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "2017 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E2017%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=2017%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "2017 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E2017%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=2017%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 2017",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E2017%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/2017_in_India"
+        }
+      ]
+    },
+    "Puducherry": {
+      "state": "Tamil Nadu",
+      "movies": [
+        {
+          "title": "Vaigai Express",
+          "language": "Tamil cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/wVI1t5sCXtMyS6HUiDKBAprVUdu.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Vaigai%20Express%202017%20official%20trailer"
+        },
+        {
+          "title": "Yaakkai",
+          "language": "Tamil cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/sCA9EKeVHENuCoqlyOma9M2elBn.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Yaakkai%202017%20official%20trailer"
+        },
+        {
+          "title": "Vikram Vedha",
+          "language": "Tamil cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ob9YxdzRu5lfKgz0PNrlL45dorf.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Vikram%20Vedha%202017%20official%20trailer"
+        },
+        {
+          "title": "Oru Kidayin Karunai Manu",
+          "language": "Tamil cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/1nXoANO1zWqaoW9NeIVHNalmCqd.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Oru%20Kidayin%20Karunai%20Manu%202017%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "2017 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E2017%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=2017%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "2017 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E2017%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=2017%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 2017",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E2017%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/2017_in_India"
+        }
+      ]
+    }
   },
   "india": {
     "state": "India",
@@ -81,22 +192,25 @@
     "music": [
       {
         "title": "2017 on repeat",
-        "artist": "A year-defining music mix",
+        "artist": "A year-defining music mix — certified vibe check.",
+        "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E2017%3C%2Ftext%3E%3C%2Fsvg%3E",
         "playUrl": "https://www.youtube.com/results?search_query=2017%20biggest%20songs%20playlist"
       }
     ],
     "sports": [
       {
         "headline": "2017 sports reel",
-        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+        "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E2017%3C%2Ftext%3E%3C%2Fsvg%3E",
         "videoUrl": "https://www.youtube.com/results?search_query=2017%20best%20sports%20highlights"
       }
     ],
     "events": [
       {
         "headline": "India in 2017",
-        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
-        "sourceUrl": "https://en.wikipedia.org/wiki/2017%20in%20India"
+        "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+        "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E2017%3C%2Ftext%3E%3C%2Fsvg%3E",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2017_in_India"
       }
     ]
   },
@@ -130,21 +244,24 @@
     "music": [
       {
         "title": "2017 on repeat",
-        "artist": "A year-defining music mix",
+        "artist": "A year-defining music mix — certified vibe check.",
+        "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E2017%3C%2Ftext%3E%3C%2Fsvg%3E",
         "playUrl": "https://www.youtube.com/results?search_query=2017%20biggest%20songs%20playlist"
       }
     ],
     "sports": [
       {
         "headline": "2017 sports reel",
-        "detail": "Open the highlight reel and relive the season’s unforgettable moments.",
+        "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+        "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E2017%3C%2Ftext%3E%3C%2Fsvg%3E",
         "videoUrl": "https://www.youtube.com/results?search_query=2017%20best%20sports%20highlights"
       }
     ],
     "events": [
       {
         "headline": "The world in 2017",
-        "detail": "The archive is still being catalogued. Explore the year’s films, playlists, and video reels.",
+        "detail": "The headlines were serving plot twists. Open the archive for the full lore.",
+        "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23e23744%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23e23744%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EWORLD%20NEWS%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E2017%3C%2Ftext%3E%3C%2Fsvg%3E",
         "sourceUrl": "https://en.wikipedia.org/wiki/2017"
       }
     ]
