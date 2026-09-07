@@ -8,9 +8,10 @@ const international = {
   2005: { movies: [{ title: 'Star Wars: Episode III – Revenge of the Sith' }], music: [{ title: 'We Belong Together', artist: 'Mariah Carey' }], sports: [{ headline: 'Liverpool win in Istanbul', detail: 'The Champions League final became an instant classic.' }], events: [{ headline: 'YouTube launches', detail: 'The internet was about to get a whole lot more watchable.' }] },
   2015: { movies: [{ title: 'Star Wars: The Force Awakens' }], music: [{ title: 'Uptown Funk', artist: 'Mark Ronson ft. Bruno Mars' }], sports: [{ headline: 'Australia win the Cricket World Cup', detail: 'The hosts lifted the trophy at the MCG.' }], events: [{ headline: 'Paris Agreement adopted', detail: 'Countries agreed on a shared climate framework.' }] }
 }
-await mkdir(resolve(root, 'years'), { recursive: true })
+const output = resolve(root, '../public/data/years')
+await mkdir(output, { recursive: true })
 for (const year of Object.keys(curated)) {
   const document = { year: Number(year), regional: { state: 'Kerala', ...curated[year] }, international: international[year], dataConfidence: 'partial' }
-  await writeFile(resolve(root, `years/${year}.json`), `${JSON.stringify(document, null, 2)}\n`)
+  await writeFile(resolve(output, `${year}.json`), `${JSON.stringify(document, null, 2)}\n`)
 }
 console.log(`Generated ${Object.keys(curated).length} static year files.`)

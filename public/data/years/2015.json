@@ -1,0 +1,60 @@
+{
+  "year": 2015,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Premam",
+        "language": "Malayalam"
+      },
+      {
+        "title": "Ennu Ninte Moideen",
+        "language": "Malayalam"
+      }
+    ],
+    "music": [
+      {
+        "title": "Malare",
+        "artist": "Vijay Yesudas"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "Kerala Blasters electrified Kochi",
+        "detail": "Yellow jerseys became the uniform of the weekend."
+      }
+    ],
+    "events": [
+      {
+        "headline": "The New Wave found its audience",
+        "detail": "Malayalam cinema was impossible to ignore."
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Star Wars: The Force Awakens"
+      }
+    ],
+    "music": [
+      {
+        "title": "Uptown Funk",
+        "artist": "Mark Ronson ft. Bruno Mars"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "Australia win the Cricket World Cup",
+        "detail": "The hosts lifted the trophy at the MCG."
+      }
+    ],
+    "events": [
+      {
+        "headline": "Paris Agreement adopted",
+        "detail": "Countries agreed on a shared climate framework."
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

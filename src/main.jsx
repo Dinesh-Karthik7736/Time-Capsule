@@ -14,7 +14,7 @@ const fallback = {
 }
 
 function App() {
-  const [year, setYear] = useState('1998')
+  const [birthDate, setBirthDate] = useState('1998-01-01')
   const [state, setState] = useState('Kerala')
   const [data, setData] = useState(null)
   const [mode, setMode] = useState('regional')
@@ -23,9 +23,10 @@ function App() {
 
   async function reveal(event) {
     event.preventDefault()
-    const value = Number(year)
-    if (!Number.isInteger(value) || value < 1950 || value > now) {
-      setNotice(`Choose a year from 1950 to ${now}.`)
+    const selected = new Date(`${birthDate}T12:00:00`)
+    const value = selected.getFullYear()
+    if (!birthDate || Number.isNaN(selected.valueOf()) || value < 1950 || value > now) {
+      setNotice(`Choose a birth date from 1950 to ${now}.`)
       return
     }
     setNotice('')
@@ -33,9 +34,9 @@ function App() {
       const response = await fetch(`/data/years/${value}.json`)
       if (!response.ok) throw new Error('Not curated yet')
       const found = await response.json()
-      setData({ ...found, selectedState: state })
+      setData({ ...found, selectedState: state, birthDate })
     } catch {
-      setData({ year: value, regional: fallback, international: fallback, dataConfidence: 'sparse', selectedState: state })
+      setData({ year: value, regional: fallback, international: fallback, dataConfidence: 'sparse', selectedState: state, birthDate })
     }
   }
 
@@ -46,8 +47,8 @@ function App() {
         <div className="stamp" aria-hidden="true">YEAR<br />ZERO</div>
         <div className="intro"><p className="kicker">Open the box</p><h1 id="headline">What was the world like when <em>you</em> arrived?</h1><p>Movies, music, headlines and sporting glory — filed by birth year.</p></div>
         <form className="catalogue" onSubmit={reveal}>
-          <label htmlFor="year">Year of birth</label>
-          <input id="year" value={year} onChange={e => setYear(e.target.value)} inputMode="numeric" min="1950" max={now} required />
+          <label htmlFor="birth-date">Your birth date</label>
+          <input id="birth-date" type="date" value={birthDate} onChange={e => setBirthDate(e.target.value)} min="1950-01-01" max={new Date().toISOString().slice(0, 10)} required />
           <label htmlFor="state">Your home state</label>
           <select id="state" value={state} onChange={e => setState(e.target.value)}>{states.map(item => <option key={item}>{item}</option>)}</select>
           {notice && <p className="error" role="alert">{notice}</p>}
@@ -66,7 +67,7 @@ function Dashboard({ data, mode, setMode, onReset, reduce }) {
     <header className="dashboard-head"><button className="wordmark" onClick={onReset}>TIME CAPSULE</button><button className="back" onClick={onReset}>Start over</button></header>
     <AnimatePresence mode="wait">
       <motion.div key={`${data.year}-${mode}`} initial={reduce ? false : { scale: .75, rotate: -4, opacity: 0 }} animate={{ scale: 1, rotate: 0, opacity: 1 }} transition={{ type: 'spring', stiffness: 240, damping: 17 }}>
-        <section className="year-banner"><span>Filed under</span><strong>{data.year}</strong><p>{mode === 'regional' ? data.selectedState : 'International edition'}</p></section>
+        <section className="year-banner"><span>Filed under</span><strong>{data.year}</strong><p>{formatBirthday(data.birthDate)} · {mode === 'regional' ? data.selectedState : 'International edition'}</p></section>
         <div className="mode-switch" role="group" aria-label="Content region"><button className={mode === 'regional' ? 'active' : ''} onClick={() => setMode('regional')}>Regional</button><button className={mode === 'international' ? 'active' : ''} onClick={() => setMode('international')}>International</button></div>
         {sparse && <p className="digging">We’re still digging up {data.year}’s records — here’s what we’ve got so far{mode === 'regional' && data.selectedState !== 'Kerala' ? ` for ${data.selectedState}` : ''}.</p>}
         <section className="capsule-grid">
@@ -84,13 +85,23 @@ function MusicShelf({ items }) { return <section className="music section"><h2>M
 function Scoreboard({ items }) { return <section className="sports section"><h2>Sports</h2>{items.map((x, i) => <article className="score" key={i}><strong>{x.headline}</strong><span>{x.detail}</span></article>)}</section> }
 function ClippingStrip({ items }) { return <section className="events section"><h2>Big events</h2>{items.map((x, i) => <article className="clipping" key={i}><strong>{x.headline}</strong><p>{x.detail}</p></article>)}</section> }
 
+function formatBirthday(value) {
+  if (!value) return 'A date worth filing'
+  return new Intl.DateTimeFormat('en-IN', { day: 'numeric', month: 'long', year: 'numeric' }).format(new Date(`${value}T12:00:00`))
+}
+
 function ShareCard({ data, mode, content }) {
   const ref = useRef(null)
   async function download() {
-    const url = await toPng(ref.current, { pixelRatio: 2 })
-    const link = document.createElement('a'); link.download = `timecapsule-${data.year}.png`; link.href = url; link.click()
+    try {
+      await document.fonts?.ready
+      const url = await toPng(ref.current, { pixelRatio: 3, cacheBust: true, width: 1080, height: 1080, style: { width: '1080px', height: '1080px', maxWidth: 'none', padding: '92px', borderWidth: '10px', boxShadow: '20px 20px #1c1b19' } })
+      const link = document.createElement('a'); link.download = `my-time-capsule-${data.birthDate || data.year}.png`; link.href = url; document.body.appendChild(link); link.click(); link.remove()
+    } catch {
+      alert('The card could not be exported. Please try again after the page finishes loading.')
+    }
   }
-  return <section className="share-wrap"><div className="share-card" ref={ref}><span>TIME CAPSULE</span><strong>I arrived in {data.year}</strong><p>{mode === 'regional' ? data.selectedState : 'The world'} was watching <b>{content.movies[0]?.title}</b>, listening to <b>{content.music[0]?.title}</b>, and making headlines.</p></div><button className="download" onClick={download}>Download your capsule card</button></section>
+  return <section className="share-wrap"><div className="share-card" ref={ref}><span>TIME CAPSULE · {formatBirthday(data.birthDate)}</span><strong>I arrived in {data.year}</strong><p>{mode === 'regional' ? data.selectedState : 'The world'} was watching <b>{content.movies[0]?.title}</b>, listening to <b>{content.music[0]?.title}</b>, and making headlines.</p><i>Open the box. Keep the story.</i></div><button className="download" onClick={download}>Download your capsule card</button></section>
 }
 
 createRoot(document.getElementById('root')).render(<App />)

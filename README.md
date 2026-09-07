@@ -10,7 +10,7 @@ npm run generate:data
 npm run dev
 ```
 
-The pipeline intentionally starts with three hand-curated sample years. Add verified Kerala content to `data/curated/kerala.json`, then run `npm run generate:data` to publish static year files.
+The pipeline intentionally starts with three hand-curated sample years. Add verified Kerala content to `data/curated/kerala.json`, then run `npm run generate:data` to publish static year files under `public/data/years` (the location served by Vite and static hosting).
 
 ## Publishing
 

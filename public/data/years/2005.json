@@ -1,0 +1,60 @@
+{
+  "year": 2005,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Udayananu Tharam",
+        "language": "Malayalam"
+      },
+      {
+        "title": "Naran",
+        "language": "Malayalam"
+      }
+    ],
+    "music": [
+      {
+        "title": "Karale Karalinte",
+        "artist": "Vidyasagar"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "Cricket was the common language",
+        "detail": "Every tea shop had a match recap."
+      }
+    ],
+    "events": [
+      {
+        "headline": "A new Kerala was taking shape",
+        "detail": "The state’s cultural scene stayed brilliantly busy."
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Star Wars: Episode III – Revenge of the Sith"
+      }
+    ],
+    "music": [
+      {
+        "title": "We Belong Together",
+        "artist": "Mariah Carey"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "Liverpool win in Istanbul",
+        "detail": "The Champions League final became an instant classic."
+      }
+    ],
+    "events": [
+      {
+        "headline": "YouTube launches",
+        "detail": "The internet was about to get a whole lot more watchable."
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}

@@ -1,0 +1,64 @@
+{
+  "year": 1998,
+  "regional": {
+    "state": "Kerala",
+    "movies": [
+      {
+        "title": "Harikrishnans",
+        "language": "Malayalam"
+      },
+      {
+        "title": "Summer in Bethlehem",
+        "language": "Malayalam"
+      }
+    ],
+    "music": [
+      {
+        "title": "Kudajaadriyil",
+        "artist": "M. G. Sreekumar"
+      },
+      {
+        "title": "Oru Raathri Koodi",
+        "artist": "K. J. Yesudas"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "Kerala’s football fever",
+        "detail": "Local grounds kept the beautiful game loud and lively."
+      }
+    ],
+    "events": [
+      {
+        "headline": "Kochi’s culture was in full colour",
+        "detail": "Malayalam cinema and music were the conversation-starters."
+      }
+    ]
+  },
+  "international": {
+    "movies": [
+      {
+        "title": "Titanic"
+      }
+    ],
+    "music": [
+      {
+        "title": "The Boy Is Mine",
+        "artist": "Brandy & Monica"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "France wins the FIFA World Cup",
+        "detail": "A home-tournament triumph in Paris."
+      }
+    ],
+    "events": [
+      {
+        "headline": "Good Friday Agreement signed",
+        "detail": "A landmark accord in Northern Ireland."
+      }
+    ]
+  },
+  "dataConfidence": "partial"
+}
