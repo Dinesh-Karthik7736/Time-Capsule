@@ -108,7 +108,7 @@
       ]
     },
     "Puducherry": {
-      "state": "Tamil Nadu",
+      "state": "Puducherry",
       "movies": [
         {
           "title": "Dharmathin Thalaivan",
@@ -159,34 +159,1047 @@
           "sourceUrl": "https://en.wikipedia.org/wiki/1988_in_India"
         }
       ]
+    },
+    "Andhra Pradesh": {
+      "state": "Andhra Pradesh",
+      "movies": [
+        {
+          "title": "Rudraveena",
+          "language": "Telugu cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/eJrcSDsXmHrazUeQfCluZLqd0uT.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Rudraveena%201988%20official%20trailer"
+        },
+        {
+          "title": "Aakhari Poratam",
+          "language": "Telugu cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/bJa85qycGJ9sQbxq5Q0zy1JBmwt.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Aakhari%20Poratam%201988%20official%20trailer"
+        },
+        {
+          "title": "Mugguru Kodukulu",
+          "language": "Telugu cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/2P5jgo5VJRak2wkEPlBcpDqqdW9.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Mugguru%20Kodukulu%201988%20official%20trailer"
+        },
+        {
+          "title": "Swarnakamalam",
+          "language": "Telugu cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/9tH4KWOtKdsZlqGgvSdYCPiUkHS.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Swarnakamalam%201988%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1988 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1988%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1988 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1988%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1988",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1988_in_India"
+        }
+      ]
+    },
+    "Telangana": {
+      "state": "Telangana",
+      "movies": [
+        {
+          "title": "Rudraveena",
+          "language": "Telugu cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/eJrcSDsXmHrazUeQfCluZLqd0uT.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Rudraveena%201988%20official%20trailer"
+        },
+        {
+          "title": "Aakhari Poratam",
+          "language": "Telugu cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/bJa85qycGJ9sQbxq5Q0zy1JBmwt.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Aakhari%20Poratam%201988%20official%20trailer"
+        },
+        {
+          "title": "Mugguru Kodukulu",
+          "language": "Telugu cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/2P5jgo5VJRak2wkEPlBcpDqqdW9.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Mugguru%20Kodukulu%201988%20official%20trailer"
+        },
+        {
+          "title": "Swarnakamalam",
+          "language": "Telugu cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/9tH4KWOtKdsZlqGgvSdYCPiUkHS.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Swarnakamalam%201988%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1988 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1988%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1988 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1988%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1988",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1988_in_India"
+        }
+      ]
+    },
+    "Karnataka": {
+      "state": "Karnataka",
+      "movies": [
+        {
+          "title": "Ranadheera",
+          "language": "Kannada cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/4CEUj5Ue0Rkix7AjKRcB6upFtgM.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Ranadheera%201988%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1988 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1988%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1988 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1988%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1988",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1988_in_India"
+        }
+      ]
+    },
+    "Maharashtra": {
+      "state": "Maharashtra",
+      "movies": [
+        {
+          "title": "My Husband Is a Millionaire",
+          "language": "Marathi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/4hVJN4WCGMSTWUaOpea9YR4Mc4r.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=My%20Husband%20Is%20a%20Millionaire%201988%20official%20trailer"
+        },
+        {
+          "title": "Ashi Hi Banwa Banwi",
+          "language": "Marathi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/yhrlCDfGHfVuqaBeJyGJUtOZO75.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Ashi%20Hi%20Banwa%20Banwi%201988%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1988 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1988%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1988 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1988%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1988",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1988_in_India"
+        }
+      ]
+    },
+    "Goa": {
+      "state": "Goa",
+      "movies": [
+        {
+          "title": "My Husband Is a Millionaire",
+          "language": "Marathi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/4hVJN4WCGMSTWUaOpea9YR4Mc4r.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=My%20Husband%20Is%20a%20Millionaire%201988%20official%20trailer"
+        },
+        {
+          "title": "Ashi Hi Banwa Banwi",
+          "language": "Marathi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/yhrlCDfGHfVuqaBeJyGJUtOZO75.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Ashi%20Hi%20Banwa%20Banwi%201988%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1988 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1988%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1988 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1988%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1988",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1988_in_India"
+        }
+      ]
+    },
+    "West Bengal": {
+      "state": "West Bengal",
+      "movies": [
+        {
+          "title": "The Return",
+          "language": "Bengali cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/lxpRTD3QnXsUf3B4caQoScTahIL.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=The%20Return%201988%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1988 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1988%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1988 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1988%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1988",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1988_in_India"
+        }
+      ]
+    },
+    "Tripura": {
+      "state": "Tripura",
+      "movies": [
+        {
+          "title": "The Return",
+          "language": "Bengali cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/lxpRTD3QnXsUf3B4caQoScTahIL.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=The%20Return%201988%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1988 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1988%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1988 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1988%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1988",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1988_in_India"
+        }
+      ]
+    },
+    "Punjab": {
+      "state": "Punjab",
+      "movies": [],
+      "music": [
+        {
+          "title": "1988 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1988%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1988 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1988%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1988",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1988_in_India"
+        }
+      ]
+    },
+    "Odisha": {
+      "state": "Odisha",
+      "movies": [],
+      "music": [
+        {
+          "title": "1988 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1988%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1988 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1988%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1988",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1988_in_India"
+        }
+      ]
+    },
+    "Assam": {
+      "state": "Assam",
+      "movies": [],
+      "music": [
+        {
+          "title": "1988 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1988%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1988 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1988%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1988",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1988_in_India"
+        }
+      ]
+    },
+    "Bihar": {
+      "state": "Bihar",
+      "movies": [
+        {
+          "title": "The Deceivers",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/dwno7eKJbzNZ2prc5wI1istvnyj.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=The%20Deceivers%201988%20official%20trailer"
+        },
+        {
+          "title": "Dayavan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/fxsxZQxCKeRsWavVr572MXFxaBT.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dayavan%201988%20official%20trailer"
+        },
+        {
+          "title": "Sagar Sangam",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/d7buPYUyUsMqe8EMtVXDht1Hdjj.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Sagar%20Sangam%201988%20official%20trailer"
+        },
+        {
+          "title": "Rukhsat",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/tJZhZyE6Cexq8lq3plH1OTERHyA.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Rukhsat%201988%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1988 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1988%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1988 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1988%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1988",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1988_in_India"
+        }
+      ]
+    },
+    "Chhattisgarh": {
+      "state": "Chhattisgarh",
+      "movies": [
+        {
+          "title": "The Deceivers",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/dwno7eKJbzNZ2prc5wI1istvnyj.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=The%20Deceivers%201988%20official%20trailer"
+        },
+        {
+          "title": "Dayavan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/fxsxZQxCKeRsWavVr572MXFxaBT.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dayavan%201988%20official%20trailer"
+        },
+        {
+          "title": "Sagar Sangam",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/d7buPYUyUsMqe8EMtVXDht1Hdjj.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Sagar%20Sangam%201988%20official%20trailer"
+        },
+        {
+          "title": "Rukhsat",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/tJZhZyE6Cexq8lq3plH1OTERHyA.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Rukhsat%201988%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1988 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1988%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1988 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1988%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1988",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1988_in_India"
+        }
+      ]
+    },
+    "Delhi": {
+      "state": "Delhi",
+      "movies": [
+        {
+          "title": "The Deceivers",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/dwno7eKJbzNZ2prc5wI1istvnyj.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=The%20Deceivers%201988%20official%20trailer"
+        },
+        {
+          "title": "Dayavan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/fxsxZQxCKeRsWavVr572MXFxaBT.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dayavan%201988%20official%20trailer"
+        },
+        {
+          "title": "Sagar Sangam",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/d7buPYUyUsMqe8EMtVXDht1Hdjj.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Sagar%20Sangam%201988%20official%20trailer"
+        },
+        {
+          "title": "Rukhsat",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/tJZhZyE6Cexq8lq3plH1OTERHyA.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Rukhsat%201988%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1988 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1988%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1988 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1988%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1988",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1988_in_India"
+        }
+      ]
+    },
+    "Haryana": {
+      "state": "Haryana",
+      "movies": [
+        {
+          "title": "The Deceivers",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/dwno7eKJbzNZ2prc5wI1istvnyj.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=The%20Deceivers%201988%20official%20trailer"
+        },
+        {
+          "title": "Dayavan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/fxsxZQxCKeRsWavVr572MXFxaBT.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dayavan%201988%20official%20trailer"
+        },
+        {
+          "title": "Sagar Sangam",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/d7buPYUyUsMqe8EMtVXDht1Hdjj.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Sagar%20Sangam%201988%20official%20trailer"
+        },
+        {
+          "title": "Rukhsat",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/tJZhZyE6Cexq8lq3plH1OTERHyA.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Rukhsat%201988%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1988 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1988%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1988 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1988%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1988",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1988_in_India"
+        }
+      ]
+    },
+    "Himachal Pradesh": {
+      "state": "Himachal Pradesh",
+      "movies": [
+        {
+          "title": "The Deceivers",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/dwno7eKJbzNZ2prc5wI1istvnyj.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=The%20Deceivers%201988%20official%20trailer"
+        },
+        {
+          "title": "Dayavan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/fxsxZQxCKeRsWavVr572MXFxaBT.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dayavan%201988%20official%20trailer"
+        },
+        {
+          "title": "Sagar Sangam",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/d7buPYUyUsMqe8EMtVXDht1Hdjj.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Sagar%20Sangam%201988%20official%20trailer"
+        },
+        {
+          "title": "Rukhsat",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/tJZhZyE6Cexq8lq3plH1OTERHyA.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Rukhsat%201988%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1988 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1988%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1988 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1988%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1988",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1988_in_India"
+        }
+      ]
+    },
+    "Jharkhand": {
+      "state": "Jharkhand",
+      "movies": [
+        {
+          "title": "The Deceivers",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/dwno7eKJbzNZ2prc5wI1istvnyj.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=The%20Deceivers%201988%20official%20trailer"
+        },
+        {
+          "title": "Dayavan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/fxsxZQxCKeRsWavVr572MXFxaBT.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dayavan%201988%20official%20trailer"
+        },
+        {
+          "title": "Sagar Sangam",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/d7buPYUyUsMqe8EMtVXDht1Hdjj.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Sagar%20Sangam%201988%20official%20trailer"
+        },
+        {
+          "title": "Rukhsat",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/tJZhZyE6Cexq8lq3plH1OTERHyA.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Rukhsat%201988%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1988 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1988%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1988 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1988%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1988",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1988_in_India"
+        }
+      ]
+    },
+    "Madhya Pradesh": {
+      "state": "Madhya Pradesh",
+      "movies": [
+        {
+          "title": "The Deceivers",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/dwno7eKJbzNZ2prc5wI1istvnyj.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=The%20Deceivers%201988%20official%20trailer"
+        },
+        {
+          "title": "Dayavan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/fxsxZQxCKeRsWavVr572MXFxaBT.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dayavan%201988%20official%20trailer"
+        },
+        {
+          "title": "Sagar Sangam",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/d7buPYUyUsMqe8EMtVXDht1Hdjj.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Sagar%20Sangam%201988%20official%20trailer"
+        },
+        {
+          "title": "Rukhsat",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/tJZhZyE6Cexq8lq3plH1OTERHyA.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Rukhsat%201988%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1988 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1988%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1988 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1988%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1988",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1988_in_India"
+        }
+      ]
+    },
+    "Rajasthan": {
+      "state": "Rajasthan",
+      "movies": [
+        {
+          "title": "The Deceivers",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/dwno7eKJbzNZ2prc5wI1istvnyj.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=The%20Deceivers%201988%20official%20trailer"
+        },
+        {
+          "title": "Dayavan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/fxsxZQxCKeRsWavVr572MXFxaBT.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dayavan%201988%20official%20trailer"
+        },
+        {
+          "title": "Sagar Sangam",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/d7buPYUyUsMqe8EMtVXDht1Hdjj.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Sagar%20Sangam%201988%20official%20trailer"
+        },
+        {
+          "title": "Rukhsat",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/tJZhZyE6Cexq8lq3plH1OTERHyA.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Rukhsat%201988%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1988 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1988%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1988 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1988%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1988",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1988_in_India"
+        }
+      ]
+    },
+    "Uttar Pradesh": {
+      "state": "Uttar Pradesh",
+      "movies": [
+        {
+          "title": "The Deceivers",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/dwno7eKJbzNZ2prc5wI1istvnyj.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=The%20Deceivers%201988%20official%20trailer"
+        },
+        {
+          "title": "Dayavan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/fxsxZQxCKeRsWavVr572MXFxaBT.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dayavan%201988%20official%20trailer"
+        },
+        {
+          "title": "Sagar Sangam",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/d7buPYUyUsMqe8EMtVXDht1Hdjj.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Sagar%20Sangam%201988%20official%20trailer"
+        },
+        {
+          "title": "Rukhsat",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/tJZhZyE6Cexq8lq3plH1OTERHyA.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Rukhsat%201988%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1988 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1988%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1988 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1988%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1988",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1988_in_India"
+        }
+      ]
+    },
+    "Uttarakhand": {
+      "state": "Uttarakhand",
+      "movies": [
+        {
+          "title": "The Deceivers",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/dwno7eKJbzNZ2prc5wI1istvnyj.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=The%20Deceivers%201988%20official%20trailer"
+        },
+        {
+          "title": "Dayavan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/fxsxZQxCKeRsWavVr572MXFxaBT.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dayavan%201988%20official%20trailer"
+        },
+        {
+          "title": "Sagar Sangam",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/d7buPYUyUsMqe8EMtVXDht1Hdjj.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Sagar%20Sangam%201988%20official%20trailer"
+        },
+        {
+          "title": "Rukhsat",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/tJZhZyE6Cexq8lq3plH1OTERHyA.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Rukhsat%201988%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1988 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1988%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1988 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1988%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1988",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1988_in_India"
+        }
+      ]
+    },
+    "Jammu and Kashmir": {
+      "state": "Jammu and Kashmir",
+      "movies": [
+        {
+          "title": "The Deceivers",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/dwno7eKJbzNZ2prc5wI1istvnyj.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=The%20Deceivers%201988%20official%20trailer"
+        },
+        {
+          "title": "Dayavan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/fxsxZQxCKeRsWavVr572MXFxaBT.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dayavan%201988%20official%20trailer"
+        },
+        {
+          "title": "Sagar Sangam",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/d7buPYUyUsMqe8EMtVXDht1Hdjj.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Sagar%20Sangam%201988%20official%20trailer"
+        },
+        {
+          "title": "Rukhsat",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/tJZhZyE6Cexq8lq3plH1OTERHyA.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Rukhsat%201988%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1988 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1988%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1988 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1988%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1988",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1988_in_India"
+        }
+      ]
+    },
+    "Ladakh": {
+      "state": "Ladakh",
+      "movies": [
+        {
+          "title": "The Deceivers",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/dwno7eKJbzNZ2prc5wI1istvnyj.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=The%20Deceivers%201988%20official%20trailer"
+        },
+        {
+          "title": "Dayavan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/fxsxZQxCKeRsWavVr572MXFxaBT.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dayavan%201988%20official%20trailer"
+        },
+        {
+          "title": "Sagar Sangam",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/d7buPYUyUsMqe8EMtVXDht1Hdjj.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Sagar%20Sangam%201988%20official%20trailer"
+        },
+        {
+          "title": "Rukhsat",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/tJZhZyE6Cexq8lq3plH1OTERHyA.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Rukhsat%201988%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1988 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1988%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1988 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1988%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1988",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1988%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1988_in_India"
+        }
+      ]
     }
   },
   "india": {
     "state": "India",
     "movies": [
       {
-        "title": "Summer Temptations",
+        "title": "The Deceivers",
         "language": "Indian cinema",
-        "posterUrl": "https://image.tmdb.org/t/p/w500/5xryGDSx1fImQbD0Z9BIXCSXftJ.jpg",
-        "watchUrl": "https://www.youtube.com/results?search_query=Summer%20Temptations%201988%20official%20trailer"
+        "posterUrl": "https://image.tmdb.org/t/p/w500/dwno7eKJbzNZ2prc5wI1istvnyj.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=The%20Deceivers%201988%20official%20trailer"
       },
       {
-        "title": "Door",
+        "title": "Dayavan",
         "language": "Indian cinema",
-        "posterUrl": "https://image.tmdb.org/t/p/w500/uNTZ9vp32AYd6kcAcm63jVg6u44.jpg",
-        "watchUrl": "https://www.youtube.com/results?search_query=Door%201988%20official%20trailer"
+        "posterUrl": "https://image.tmdb.org/t/p/w500/fxsxZQxCKeRsWavVr572MXFxaBT.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Dayavan%201988%20official%20trailer"
       },
       {
-        "title": "Woman in the Moon",
+        "title": "Sagar Sangam",
         "language": "Indian cinema",
-        "posterUrl": "https://image.tmdb.org/t/p/w500/6uiz2xx61qhGv3ZcZg0n5tgahY3.jpg",
-        "watchUrl": "https://www.youtube.com/results?search_query=Woman%20in%20the%20Moon%201988%20official%20trailer"
+        "posterUrl": "https://image.tmdb.org/t/p/w500/d7buPYUyUsMqe8EMtVXDht1Hdjj.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Sagar%20Sangam%201988%20official%20trailer"
       },
       {
-        "title": "School on Fire",
+        "title": "Rukhsat",
         "language": "Indian cinema",
-        "posterUrl": "https://image.tmdb.org/t/p/w500/uTVfcol62NROZw2W2Q7ykbFgPQ.jpg",
-        "watchUrl": "https://www.youtube.com/results?search_query=School%20on%20Fire%201988%20official%20trailer"
+        "posterUrl": "https://image.tmdb.org/t/p/w500/tJZhZyE6Cexq8lq3plH1OTERHyA.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Rukhsat%201988%20official%20trailer"
       }
     ],
     "music": [
@@ -266,5 +1279,6 @@
       }
     ]
   },
-  "dataConfidence": "partial"
+  "dataConfidence": "partial",
+  "vibeLine": "Your first day, instant plot twist."
 }

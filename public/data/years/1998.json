@@ -96,7 +96,7 @@
       ]
     },
     "Puducherry": {
-      "state": "Tamil Nadu",
+      "state": "Puducherry",
       "movies": [
         {
           "title": "Kadhal Kavithai",
@@ -147,34 +147,1045 @@
           "sourceUrl": "https://en.wikipedia.org/wiki/1998_in_India"
         }
       ]
+    },
+    "Andhra Pradesh": {
+      "state": "Andhra Pradesh",
+      "movies": [
+        {
+          "title": "Tholi Prema",
+          "language": "Telugu cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/jx7BcuTXozA58uVXA3Em6142zfa.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Tholi%20Prema%201998%20official%20trailer"
+        },
+        {
+          "title": "Suswagatham",
+          "language": "Telugu cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/1gscVao31bAb6Hr9uyuevOMb7vB.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Suswagatham%201998%20official%20trailer"
+        },
+        {
+          "title": "Choodalani Vundi",
+          "language": "Telugu cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/eps7UYs7gry5HCP6qCFsOUjC38Z.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Choodalani%20Vundi%201998%20official%20trailer"
+        },
+        {
+          "title": "Premante Ideraa",
+          "language": "Telugu cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/binkAHiIyzjAxHlbDxjvAnUotlr.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Premante%20Ideraa%201998%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1998 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1998%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1998 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1998%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1998",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1998_in_India"
+        }
+      ]
+    },
+    "Telangana": {
+      "state": "Telangana",
+      "movies": [
+        {
+          "title": "Tholi Prema",
+          "language": "Telugu cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/jx7BcuTXozA58uVXA3Em6142zfa.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Tholi%20Prema%201998%20official%20trailer"
+        },
+        {
+          "title": "Suswagatham",
+          "language": "Telugu cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/1gscVao31bAb6Hr9uyuevOMb7vB.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Suswagatham%201998%20official%20trailer"
+        },
+        {
+          "title": "Choodalani Vundi",
+          "language": "Telugu cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/eps7UYs7gry5HCP6qCFsOUjC38Z.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Choodalani%20Vundi%201998%20official%20trailer"
+        },
+        {
+          "title": "Premante Ideraa",
+          "language": "Telugu cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/binkAHiIyzjAxHlbDxjvAnUotlr.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Premante%20Ideraa%201998%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1998 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1998%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1998 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1998%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1998",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1998_in_India"
+        }
+      ]
+    },
+    "Karnataka": {
+      "state": "Karnataka",
+      "movies": [
+        {
+          "title": "A",
+          "language": "Kannada cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/y3DH68oWOGMZ637tqYHfTGU4Bif.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=A%201998%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1998 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1998%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1998 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1998%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1998",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1998_in_India"
+        }
+      ]
+    },
+    "Maharashtra": {
+      "state": "Maharashtra",
+      "movies": [],
+      "music": [
+        {
+          "title": "1998 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1998%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1998 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1998%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1998",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1998_in_India"
+        }
+      ]
+    },
+    "Goa": {
+      "state": "Goa",
+      "movies": [],
+      "music": [
+        {
+          "title": "1998 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1998%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1998 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1998%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1998",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1998_in_India"
+        }
+      ]
+    },
+    "West Bengal": {
+      "state": "West Bengal",
+      "movies": [
+        {
+          "title": "Chitra Nodir Pare",
+          "language": "Bengali cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/nhcCRxRVWoGND46jSAqFBnbH30x.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Chitra%20Nodir%20Pare%201998%20official%20trailer"
+        },
+        {
+          "title": "Hothat Brishti",
+          "language": "Bengali cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/aHKfeC8FZ2PTbCXGYWyVXy0JPL.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Hothat%20Brishti%201998%20official%20trailer"
+        },
+        {
+          "title": "Baba Keno Chakor",
+          "language": "Bengali cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/jKrQNx00sXgw48V7mrpKE5zQqWx.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Baba%20Keno%20Chakor%201998%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1998 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1998%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1998 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1998%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1998",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1998_in_India"
+        }
+      ]
+    },
+    "Tripura": {
+      "state": "Tripura",
+      "movies": [
+        {
+          "title": "Chitra Nodir Pare",
+          "language": "Bengali cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/nhcCRxRVWoGND46jSAqFBnbH30x.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Chitra%20Nodir%20Pare%201998%20official%20trailer"
+        },
+        {
+          "title": "Hothat Brishti",
+          "language": "Bengali cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/aHKfeC8FZ2PTbCXGYWyVXy0JPL.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Hothat%20Brishti%201998%20official%20trailer"
+        },
+        {
+          "title": "Baba Keno Chakor",
+          "language": "Bengali cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/jKrQNx00sXgw48V7mrpKE5zQqWx.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Baba%20Keno%20Chakor%201998%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1998 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1998%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1998 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1998%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1998",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1998_in_India"
+        }
+      ]
+    },
+    "Punjab": {
+      "state": "Punjab",
+      "movies": [],
+      "music": [
+        {
+          "title": "1998 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1998%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1998 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1998%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1998",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1998_in_India"
+        }
+      ]
+    },
+    "Odisha": {
+      "state": "Odisha",
+      "movies": [],
+      "music": [
+        {
+          "title": "1998 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1998%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1998 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1998%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1998",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1998_in_India"
+        }
+      ]
+    },
+    "Assam": {
+      "state": "Assam",
+      "movies": [],
+      "music": [
+        {
+          "title": "1998 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1998%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1998 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1998%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1998",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1998_in_India"
+        }
+      ]
+    },
+    "Bihar": {
+      "state": "Bihar",
+      "movies": [
+        {
+          "title": "Kuch Kuch Hota Hai",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/5FmtHHDGPofW5Zjns1EM1D8503c.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Kuch%20Kuch%20Hota%20Hai%201998%20official%20trailer"
+        },
+        {
+          "title": "Dil Se..",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/rdnkOPYlHf8WaPRllTz3dsuzpp8.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dil%20Se..%201998%20official%20trailer"
+        },
+        {
+          "title": "Hero Hindustani",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/4YI1Pn6QdAOhnI9ibpBRpijdslc.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Hero%20Hindustani%201998%20official%20trailer"
+        },
+        {
+          "title": "Duplicate",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ylBsNn4xkMlZPk1beZuuwFqrWUK.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Duplicate%201998%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1998 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1998%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1998 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1998%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1998",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1998_in_India"
+        }
+      ]
+    },
+    "Chhattisgarh": {
+      "state": "Chhattisgarh",
+      "movies": [
+        {
+          "title": "Kuch Kuch Hota Hai",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/5FmtHHDGPofW5Zjns1EM1D8503c.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Kuch%20Kuch%20Hota%20Hai%201998%20official%20trailer"
+        },
+        {
+          "title": "Dil Se..",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/rdnkOPYlHf8WaPRllTz3dsuzpp8.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dil%20Se..%201998%20official%20trailer"
+        },
+        {
+          "title": "Hero Hindustani",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/4YI1Pn6QdAOhnI9ibpBRpijdslc.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Hero%20Hindustani%201998%20official%20trailer"
+        },
+        {
+          "title": "Duplicate",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ylBsNn4xkMlZPk1beZuuwFqrWUK.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Duplicate%201998%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1998 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1998%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1998 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1998%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1998",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1998_in_India"
+        }
+      ]
+    },
+    "Delhi": {
+      "state": "Delhi",
+      "movies": [
+        {
+          "title": "Kuch Kuch Hota Hai",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/5FmtHHDGPofW5Zjns1EM1D8503c.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Kuch%20Kuch%20Hota%20Hai%201998%20official%20trailer"
+        },
+        {
+          "title": "Dil Se..",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/rdnkOPYlHf8WaPRllTz3dsuzpp8.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dil%20Se..%201998%20official%20trailer"
+        },
+        {
+          "title": "Hero Hindustani",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/4YI1Pn6QdAOhnI9ibpBRpijdslc.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Hero%20Hindustani%201998%20official%20trailer"
+        },
+        {
+          "title": "Duplicate",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ylBsNn4xkMlZPk1beZuuwFqrWUK.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Duplicate%201998%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1998 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1998%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1998 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1998%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1998",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1998_in_India"
+        }
+      ]
+    },
+    "Haryana": {
+      "state": "Haryana",
+      "movies": [
+        {
+          "title": "Kuch Kuch Hota Hai",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/5FmtHHDGPofW5Zjns1EM1D8503c.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Kuch%20Kuch%20Hota%20Hai%201998%20official%20trailer"
+        },
+        {
+          "title": "Dil Se..",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/rdnkOPYlHf8WaPRllTz3dsuzpp8.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dil%20Se..%201998%20official%20trailer"
+        },
+        {
+          "title": "Hero Hindustani",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/4YI1Pn6QdAOhnI9ibpBRpijdslc.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Hero%20Hindustani%201998%20official%20trailer"
+        },
+        {
+          "title": "Duplicate",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ylBsNn4xkMlZPk1beZuuwFqrWUK.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Duplicate%201998%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1998 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1998%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1998 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1998%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1998",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1998_in_India"
+        }
+      ]
+    },
+    "Himachal Pradesh": {
+      "state": "Himachal Pradesh",
+      "movies": [
+        {
+          "title": "Kuch Kuch Hota Hai",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/5FmtHHDGPofW5Zjns1EM1D8503c.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Kuch%20Kuch%20Hota%20Hai%201998%20official%20trailer"
+        },
+        {
+          "title": "Dil Se..",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/rdnkOPYlHf8WaPRllTz3dsuzpp8.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dil%20Se..%201998%20official%20trailer"
+        },
+        {
+          "title": "Hero Hindustani",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/4YI1Pn6QdAOhnI9ibpBRpijdslc.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Hero%20Hindustani%201998%20official%20trailer"
+        },
+        {
+          "title": "Duplicate",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ylBsNn4xkMlZPk1beZuuwFqrWUK.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Duplicate%201998%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1998 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1998%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1998 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1998%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1998",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1998_in_India"
+        }
+      ]
+    },
+    "Jharkhand": {
+      "state": "Jharkhand",
+      "movies": [
+        {
+          "title": "Kuch Kuch Hota Hai",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/5FmtHHDGPofW5Zjns1EM1D8503c.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Kuch%20Kuch%20Hota%20Hai%201998%20official%20trailer"
+        },
+        {
+          "title": "Dil Se..",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/rdnkOPYlHf8WaPRllTz3dsuzpp8.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dil%20Se..%201998%20official%20trailer"
+        },
+        {
+          "title": "Hero Hindustani",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/4YI1Pn6QdAOhnI9ibpBRpijdslc.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Hero%20Hindustani%201998%20official%20trailer"
+        },
+        {
+          "title": "Duplicate",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ylBsNn4xkMlZPk1beZuuwFqrWUK.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Duplicate%201998%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1998 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1998%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1998 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1998%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1998",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1998_in_India"
+        }
+      ]
+    },
+    "Madhya Pradesh": {
+      "state": "Madhya Pradesh",
+      "movies": [
+        {
+          "title": "Kuch Kuch Hota Hai",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/5FmtHHDGPofW5Zjns1EM1D8503c.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Kuch%20Kuch%20Hota%20Hai%201998%20official%20trailer"
+        },
+        {
+          "title": "Dil Se..",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/rdnkOPYlHf8WaPRllTz3dsuzpp8.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dil%20Se..%201998%20official%20trailer"
+        },
+        {
+          "title": "Hero Hindustani",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/4YI1Pn6QdAOhnI9ibpBRpijdslc.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Hero%20Hindustani%201998%20official%20trailer"
+        },
+        {
+          "title": "Duplicate",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ylBsNn4xkMlZPk1beZuuwFqrWUK.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Duplicate%201998%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1998 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1998%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1998 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1998%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1998",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1998_in_India"
+        }
+      ]
+    },
+    "Rajasthan": {
+      "state": "Rajasthan",
+      "movies": [
+        {
+          "title": "Kuch Kuch Hota Hai",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/5FmtHHDGPofW5Zjns1EM1D8503c.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Kuch%20Kuch%20Hota%20Hai%201998%20official%20trailer"
+        },
+        {
+          "title": "Dil Se..",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/rdnkOPYlHf8WaPRllTz3dsuzpp8.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dil%20Se..%201998%20official%20trailer"
+        },
+        {
+          "title": "Hero Hindustani",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/4YI1Pn6QdAOhnI9ibpBRpijdslc.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Hero%20Hindustani%201998%20official%20trailer"
+        },
+        {
+          "title": "Duplicate",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ylBsNn4xkMlZPk1beZuuwFqrWUK.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Duplicate%201998%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1998 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1998%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1998 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1998%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1998",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1998_in_India"
+        }
+      ]
+    },
+    "Uttar Pradesh": {
+      "state": "Uttar Pradesh",
+      "movies": [
+        {
+          "title": "Kuch Kuch Hota Hai",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/5FmtHHDGPofW5Zjns1EM1D8503c.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Kuch%20Kuch%20Hota%20Hai%201998%20official%20trailer"
+        },
+        {
+          "title": "Dil Se..",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/rdnkOPYlHf8WaPRllTz3dsuzpp8.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dil%20Se..%201998%20official%20trailer"
+        },
+        {
+          "title": "Hero Hindustani",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/4YI1Pn6QdAOhnI9ibpBRpijdslc.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Hero%20Hindustani%201998%20official%20trailer"
+        },
+        {
+          "title": "Duplicate",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ylBsNn4xkMlZPk1beZuuwFqrWUK.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Duplicate%201998%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1998 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1998%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1998 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1998%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1998",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1998_in_India"
+        }
+      ]
+    },
+    "Uttarakhand": {
+      "state": "Uttarakhand",
+      "movies": [
+        {
+          "title": "Kuch Kuch Hota Hai",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/5FmtHHDGPofW5Zjns1EM1D8503c.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Kuch%20Kuch%20Hota%20Hai%201998%20official%20trailer"
+        },
+        {
+          "title": "Dil Se..",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/rdnkOPYlHf8WaPRllTz3dsuzpp8.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dil%20Se..%201998%20official%20trailer"
+        },
+        {
+          "title": "Hero Hindustani",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/4YI1Pn6QdAOhnI9ibpBRpijdslc.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Hero%20Hindustani%201998%20official%20trailer"
+        },
+        {
+          "title": "Duplicate",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ylBsNn4xkMlZPk1beZuuwFqrWUK.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Duplicate%201998%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1998 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1998%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1998 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1998%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1998",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1998_in_India"
+        }
+      ]
+    },
+    "Jammu and Kashmir": {
+      "state": "Jammu and Kashmir",
+      "movies": [
+        {
+          "title": "Kuch Kuch Hota Hai",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/5FmtHHDGPofW5Zjns1EM1D8503c.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Kuch%20Kuch%20Hota%20Hai%201998%20official%20trailer"
+        },
+        {
+          "title": "Dil Se..",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/rdnkOPYlHf8WaPRllTz3dsuzpp8.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dil%20Se..%201998%20official%20trailer"
+        },
+        {
+          "title": "Hero Hindustani",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/4YI1Pn6QdAOhnI9ibpBRpijdslc.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Hero%20Hindustani%201998%20official%20trailer"
+        },
+        {
+          "title": "Duplicate",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ylBsNn4xkMlZPk1beZuuwFqrWUK.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Duplicate%201998%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1998 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1998%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1998 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1998%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1998",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1998_in_India"
+        }
+      ]
+    },
+    "Ladakh": {
+      "state": "Ladakh",
+      "movies": [
+        {
+          "title": "Kuch Kuch Hota Hai",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/5FmtHHDGPofW5Zjns1EM1D8503c.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Kuch%20Kuch%20Hota%20Hai%201998%20official%20trailer"
+        },
+        {
+          "title": "Dil Se..",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/rdnkOPYlHf8WaPRllTz3dsuzpp8.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dil%20Se..%201998%20official%20trailer"
+        },
+        {
+          "title": "Hero Hindustani",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/4YI1Pn6QdAOhnI9ibpBRpijdslc.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Hero%20Hindustani%201998%20official%20trailer"
+        },
+        {
+          "title": "Duplicate",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ylBsNn4xkMlZPk1beZuuwFqrWUK.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Duplicate%201998%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1998 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1998%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1998 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1998%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1998",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1998%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1998_in_India"
+        }
+      ]
     }
   },
   "india": {
     "state": "India",
     "movies": [
       {
-        "title": "Practical Magic",
+        "title": "Kuch Kuch Hota Hai",
         "language": "Indian cinema",
-        "posterUrl": "https://image.tmdb.org/t/p/w500/AwmToSgf2IL3aHv0QRVsR5KvChv.jpg",
-        "watchUrl": "https://www.youtube.com/results?search_query=Practical%20Magic%201998%20official%20trailer"
+        "posterUrl": "https://image.tmdb.org/t/p/w500/5FmtHHDGPofW5Zjns1EM1D8503c.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Kuch%20Kuch%20Hota%20Hai%201998%20official%20trailer"
       },
       {
-        "title": "The Truman Show",
+        "title": "Dil Se..",
         "language": "Indian cinema",
-        "posterUrl": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
-        "watchUrl": "https://www.youtube.com/results?search_query=The%20Truman%20Show%201998%20official%20trailer"
+        "posterUrl": "https://image.tmdb.org/t/p/w500/rdnkOPYlHf8WaPRllTz3dsuzpp8.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Dil%20Se..%201998%20official%20trailer"
       },
       {
-        "title": "Saving Private Ryan",
+        "title": "Hero Hindustani",
         "language": "Indian cinema",
-        "posterUrl": "https://image.tmdb.org/t/p/w500/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
-        "watchUrl": "https://www.youtube.com/results?search_query=Saving%20Private%20Ryan%201998%20official%20trailer"
+        "posterUrl": "https://image.tmdb.org/t/p/w500/4YI1Pn6QdAOhnI9ibpBRpijdslc.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Hero%20Hindustani%201998%20official%20trailer"
       },
       {
-        "title": "Rush Hour",
+        "title": "Duplicate",
         "language": "Indian cinema",
-        "posterUrl": "https://image.tmdb.org/t/p/w500/nwPhAsfnb7f46bZkWLG7IRP5HXr.jpg",
-        "watchUrl": "https://www.youtube.com/results?search_query=Rush%20Hour%201998%20official%20trailer"
+        "posterUrl": "https://image.tmdb.org/t/p/w500/ylBsNn4xkMlZPk1beZuuwFqrWUK.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Duplicate%201998%20official%20trailer"
       }
     ],
     "music": [
@@ -254,5 +1265,6 @@
       }
     ]
   },
-  "dataConfidence": "partial"
+  "dataConfidence": "partial",
+  "vibeLine": "Your first day, instant plot twist."
 }

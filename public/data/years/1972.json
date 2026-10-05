@@ -84,7 +84,7 @@
       ]
     },
     "Puducherry": {
-      "state": "Tamil Nadu",
+      "state": "Puducherry",
       "movies": [
         {
           "title": "Vasantha Maligai",
@@ -123,34 +123,1015 @@
           "sourceUrl": "https://en.wikipedia.org/wiki/1972_in_India"
         }
       ]
+    },
+    "Andhra Pradesh": {
+      "state": "Andhra Pradesh",
+      "movies": [],
+      "music": [
+        {
+          "title": "1972 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1972%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1972 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1972%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1972",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1972_in_India"
+        }
+      ]
+    },
+    "Telangana": {
+      "state": "Telangana",
+      "movies": [],
+      "music": [
+        {
+          "title": "1972 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1972%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1972 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1972%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1972",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1972_in_India"
+        }
+      ]
+    },
+    "Karnataka": {
+      "state": "Karnataka",
+      "movies": [
+        {
+          "title": "Naagarahaavu",
+          "language": "Kannada cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/eVZvHAqPdUflP3WS91yQH146ShR.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Naagarahaavu%201972%20official%20trailer"
+        },
+        {
+          "title": "Sipayi Ramu",
+          "language": "Kannada cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/1hdTcbVM7EXK7hCbUuKYMjPnVZf.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Sipayi%20Ramu%201972%20official%20trailer"
+        },
+        {
+          "title": "Jaga Mecchida Maga",
+          "language": "Kannada cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/mxSv9OLtCnZvsLRJQocAoSs1on9.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Jaga%20Mecchida%20Maga%201972%20official%20trailer"
+        },
+        {
+          "title": "Bangarada Manushya",
+          "language": "Kannada cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/jCpRwtMmS9xTyrifhqBoJAIHD0n.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Bangarada%20Manushya%201972%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1972 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1972%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1972 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1972%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1972",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1972_in_India"
+        }
+      ]
+    },
+    "Maharashtra": {
+      "state": "Maharashtra",
+      "movies": [
+        {
+          "title": "Pinjra",
+          "language": "Marathi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/2v8tAvIgmcIb1PY1irSsg1GPtln.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Pinjra%201972%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1972 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1972%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1972 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1972%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1972",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1972_in_India"
+        }
+      ]
+    },
+    "Goa": {
+      "state": "Goa",
+      "movies": [
+        {
+          "title": "Pinjra",
+          "language": "Marathi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/2v8tAvIgmcIb1PY1irSsg1GPtln.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Pinjra%201972%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1972 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1972%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1972 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1972%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1972",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1972_in_India"
+        }
+      ]
+    },
+    "West Bengal": {
+      "state": "West Bengal",
+      "movies": [
+        {
+          "title": "Letter from the Wife",
+          "language": "Bengali cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/6RCC9XGXGv9hYw6755A4svlgduc.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Letter%20from%20the%20Wife%201972%20official%20trailer"
+        },
+        {
+          "title": "Calcutta 71",
+          "language": "Bengali cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/kYB5d8NP5X0RsPHdLLLbl3KMWU0.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Calcutta%2071%201972%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1972 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1972%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1972 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1972%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1972",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1972_in_India"
+        }
+      ]
+    },
+    "Tripura": {
+      "state": "Tripura",
+      "movies": [
+        {
+          "title": "Letter from the Wife",
+          "language": "Bengali cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/6RCC9XGXGv9hYw6755A4svlgduc.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Letter%20from%20the%20Wife%201972%20official%20trailer"
+        },
+        {
+          "title": "Calcutta 71",
+          "language": "Bengali cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/kYB5d8NP5X0RsPHdLLLbl3KMWU0.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Calcutta%2071%201972%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1972 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1972%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1972 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1972%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1972",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1972_in_India"
+        }
+      ]
+    },
+    "Punjab": {
+      "state": "Punjab",
+      "movies": [],
+      "music": [
+        {
+          "title": "1972 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1972%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1972 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1972%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1972",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1972_in_India"
+        }
+      ]
+    },
+    "Odisha": {
+      "state": "Odisha",
+      "movies": [],
+      "music": [
+        {
+          "title": "1972 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1972%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1972 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1972%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1972",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1972_in_India"
+        }
+      ]
+    },
+    "Assam": {
+      "state": "Assam",
+      "movies": [],
+      "music": [
+        {
+          "title": "1972 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1972%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1972 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1972%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1972",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1972_in_India"
+        }
+      ]
+    },
+    "Bihar": {
+      "state": "Bihar",
+      "movies": [
+        {
+          "title": "Amar Prem",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ojV06b1ULi6PA1hJ3QsnhlX6N68.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Amar%20Prem%201972%20official%20trailer"
+        },
+        {
+          "title": "Yaar Mera",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/bfNf5Zqh5NCCoDOAUSEMb0Z8smf.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Yaar%20Mera%201972%20official%20trailer"
+        },
+        {
+          "title": "Dastaan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/4BCbS3pmwfYESabtkmZFKIgNHwl.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dastaan%201972%20official%20trailer"
+        },
+        {
+          "title": "Bawarchi",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/34zBSGpu8MnUlIF74PcWfrZZAG1.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Bawarchi%201972%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1972 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1972%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1972 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1972%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1972",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1972_in_India"
+        }
+      ]
+    },
+    "Chhattisgarh": {
+      "state": "Chhattisgarh",
+      "movies": [
+        {
+          "title": "Amar Prem",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ojV06b1ULi6PA1hJ3QsnhlX6N68.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Amar%20Prem%201972%20official%20trailer"
+        },
+        {
+          "title": "Yaar Mera",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/bfNf5Zqh5NCCoDOAUSEMb0Z8smf.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Yaar%20Mera%201972%20official%20trailer"
+        },
+        {
+          "title": "Dastaan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/4BCbS3pmwfYESabtkmZFKIgNHwl.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dastaan%201972%20official%20trailer"
+        },
+        {
+          "title": "Bawarchi",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/34zBSGpu8MnUlIF74PcWfrZZAG1.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Bawarchi%201972%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1972 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1972%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1972 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1972%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1972",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1972_in_India"
+        }
+      ]
+    },
+    "Delhi": {
+      "state": "Delhi",
+      "movies": [
+        {
+          "title": "Amar Prem",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ojV06b1ULi6PA1hJ3QsnhlX6N68.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Amar%20Prem%201972%20official%20trailer"
+        },
+        {
+          "title": "Yaar Mera",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/bfNf5Zqh5NCCoDOAUSEMb0Z8smf.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Yaar%20Mera%201972%20official%20trailer"
+        },
+        {
+          "title": "Dastaan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/4BCbS3pmwfYESabtkmZFKIgNHwl.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dastaan%201972%20official%20trailer"
+        },
+        {
+          "title": "Bawarchi",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/34zBSGpu8MnUlIF74PcWfrZZAG1.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Bawarchi%201972%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1972 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1972%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1972 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1972%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1972",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1972_in_India"
+        }
+      ]
+    },
+    "Haryana": {
+      "state": "Haryana",
+      "movies": [
+        {
+          "title": "Amar Prem",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ojV06b1ULi6PA1hJ3QsnhlX6N68.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Amar%20Prem%201972%20official%20trailer"
+        },
+        {
+          "title": "Yaar Mera",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/bfNf5Zqh5NCCoDOAUSEMb0Z8smf.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Yaar%20Mera%201972%20official%20trailer"
+        },
+        {
+          "title": "Dastaan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/4BCbS3pmwfYESabtkmZFKIgNHwl.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dastaan%201972%20official%20trailer"
+        },
+        {
+          "title": "Bawarchi",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/34zBSGpu8MnUlIF74PcWfrZZAG1.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Bawarchi%201972%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1972 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1972%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1972 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1972%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1972",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1972_in_India"
+        }
+      ]
+    },
+    "Himachal Pradesh": {
+      "state": "Himachal Pradesh",
+      "movies": [
+        {
+          "title": "Amar Prem",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ojV06b1ULi6PA1hJ3QsnhlX6N68.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Amar%20Prem%201972%20official%20trailer"
+        },
+        {
+          "title": "Yaar Mera",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/bfNf5Zqh5NCCoDOAUSEMb0Z8smf.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Yaar%20Mera%201972%20official%20trailer"
+        },
+        {
+          "title": "Dastaan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/4BCbS3pmwfYESabtkmZFKIgNHwl.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dastaan%201972%20official%20trailer"
+        },
+        {
+          "title": "Bawarchi",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/34zBSGpu8MnUlIF74PcWfrZZAG1.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Bawarchi%201972%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1972 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1972%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1972 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1972%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1972",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1972_in_India"
+        }
+      ]
+    },
+    "Jharkhand": {
+      "state": "Jharkhand",
+      "movies": [
+        {
+          "title": "Amar Prem",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ojV06b1ULi6PA1hJ3QsnhlX6N68.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Amar%20Prem%201972%20official%20trailer"
+        },
+        {
+          "title": "Yaar Mera",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/bfNf5Zqh5NCCoDOAUSEMb0Z8smf.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Yaar%20Mera%201972%20official%20trailer"
+        },
+        {
+          "title": "Dastaan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/4BCbS3pmwfYESabtkmZFKIgNHwl.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dastaan%201972%20official%20trailer"
+        },
+        {
+          "title": "Bawarchi",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/34zBSGpu8MnUlIF74PcWfrZZAG1.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Bawarchi%201972%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1972 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1972%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1972 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1972%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1972",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1972_in_India"
+        }
+      ]
+    },
+    "Madhya Pradesh": {
+      "state": "Madhya Pradesh",
+      "movies": [
+        {
+          "title": "Amar Prem",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ojV06b1ULi6PA1hJ3QsnhlX6N68.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Amar%20Prem%201972%20official%20trailer"
+        },
+        {
+          "title": "Yaar Mera",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/bfNf5Zqh5NCCoDOAUSEMb0Z8smf.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Yaar%20Mera%201972%20official%20trailer"
+        },
+        {
+          "title": "Dastaan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/4BCbS3pmwfYESabtkmZFKIgNHwl.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dastaan%201972%20official%20trailer"
+        },
+        {
+          "title": "Bawarchi",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/34zBSGpu8MnUlIF74PcWfrZZAG1.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Bawarchi%201972%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1972 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1972%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1972 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1972%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1972",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1972_in_India"
+        }
+      ]
+    },
+    "Rajasthan": {
+      "state": "Rajasthan",
+      "movies": [
+        {
+          "title": "Amar Prem",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ojV06b1ULi6PA1hJ3QsnhlX6N68.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Amar%20Prem%201972%20official%20trailer"
+        },
+        {
+          "title": "Yaar Mera",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/bfNf5Zqh5NCCoDOAUSEMb0Z8smf.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Yaar%20Mera%201972%20official%20trailer"
+        },
+        {
+          "title": "Dastaan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/4BCbS3pmwfYESabtkmZFKIgNHwl.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dastaan%201972%20official%20trailer"
+        },
+        {
+          "title": "Bawarchi",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/34zBSGpu8MnUlIF74PcWfrZZAG1.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Bawarchi%201972%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1972 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1972%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1972 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1972%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1972",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1972_in_India"
+        }
+      ]
+    },
+    "Uttar Pradesh": {
+      "state": "Uttar Pradesh",
+      "movies": [
+        {
+          "title": "Amar Prem",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ojV06b1ULi6PA1hJ3QsnhlX6N68.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Amar%20Prem%201972%20official%20trailer"
+        },
+        {
+          "title": "Yaar Mera",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/bfNf5Zqh5NCCoDOAUSEMb0Z8smf.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Yaar%20Mera%201972%20official%20trailer"
+        },
+        {
+          "title": "Dastaan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/4BCbS3pmwfYESabtkmZFKIgNHwl.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dastaan%201972%20official%20trailer"
+        },
+        {
+          "title": "Bawarchi",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/34zBSGpu8MnUlIF74PcWfrZZAG1.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Bawarchi%201972%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1972 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1972%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1972 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1972%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1972",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1972_in_India"
+        }
+      ]
+    },
+    "Uttarakhand": {
+      "state": "Uttarakhand",
+      "movies": [
+        {
+          "title": "Amar Prem",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ojV06b1ULi6PA1hJ3QsnhlX6N68.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Amar%20Prem%201972%20official%20trailer"
+        },
+        {
+          "title": "Yaar Mera",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/bfNf5Zqh5NCCoDOAUSEMb0Z8smf.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Yaar%20Mera%201972%20official%20trailer"
+        },
+        {
+          "title": "Dastaan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/4BCbS3pmwfYESabtkmZFKIgNHwl.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dastaan%201972%20official%20trailer"
+        },
+        {
+          "title": "Bawarchi",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/34zBSGpu8MnUlIF74PcWfrZZAG1.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Bawarchi%201972%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1972 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1972%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1972 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1972%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1972",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1972_in_India"
+        }
+      ]
+    },
+    "Jammu and Kashmir": {
+      "state": "Jammu and Kashmir",
+      "movies": [
+        {
+          "title": "Amar Prem",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ojV06b1ULi6PA1hJ3QsnhlX6N68.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Amar%20Prem%201972%20official%20trailer"
+        },
+        {
+          "title": "Yaar Mera",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/bfNf5Zqh5NCCoDOAUSEMb0Z8smf.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Yaar%20Mera%201972%20official%20trailer"
+        },
+        {
+          "title": "Dastaan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/4BCbS3pmwfYESabtkmZFKIgNHwl.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dastaan%201972%20official%20trailer"
+        },
+        {
+          "title": "Bawarchi",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/34zBSGpu8MnUlIF74PcWfrZZAG1.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Bawarchi%201972%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1972 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1972%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1972 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1972%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1972",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1972_in_India"
+        }
+      ]
+    },
+    "Ladakh": {
+      "state": "Ladakh",
+      "movies": [
+        {
+          "title": "Amar Prem",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ojV06b1ULi6PA1hJ3QsnhlX6N68.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Amar%20Prem%201972%20official%20trailer"
+        },
+        {
+          "title": "Yaar Mera",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/bfNf5Zqh5NCCoDOAUSEMb0Z8smf.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Yaar%20Mera%201972%20official%20trailer"
+        },
+        {
+          "title": "Dastaan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/4BCbS3pmwfYESabtkmZFKIgNHwl.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Dastaan%201972%20official%20trailer"
+        },
+        {
+          "title": "Bawarchi",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/34zBSGpu8MnUlIF74PcWfrZZAG1.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Bawarchi%201972%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1972 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1972%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1972 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1972%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1972",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1972%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1972_in_India"
+        }
+      ]
     }
   },
   "india": {
     "state": "India",
     "movies": [
       {
-        "title": "The Godfather",
+        "title": "Amar Prem",
         "language": "Indian cinema",
-        "posterUrl": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
-        "watchUrl": "https://www.youtube.com/results?search_query=The%20Godfather%201972%20official%20trailer"
+        "posterUrl": "https://image.tmdb.org/t/p/w500/ojV06b1ULi6PA1hJ3QsnhlX6N68.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Amar%20Prem%201972%20official%20trailer"
       },
       {
-        "title": "Loves of a French Pussycat",
+        "title": "Yaar Mera",
         "language": "Indian cinema",
-        "posterUrl": "https://image.tmdb.org/t/p/w500/1WGq9cMuj09tnTJ5wdkINOJff04.jpg",
-        "watchUrl": "https://www.youtube.com/results?search_query=Loves%20of%20a%20French%20Pussycat%201972%20official%20trailer"
+        "posterUrl": "https://image.tmdb.org/t/p/w500/bfNf5Zqh5NCCoDOAUSEMb0Z8smf.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Yaar%20Mera%201972%20official%20trailer"
       },
       {
-        "title": "Fist of Fury",
+        "title": "Dastaan",
         "language": "Indian cinema",
-        "posterUrl": "https://image.tmdb.org/t/p/w500/dlcipCOa9hlfBBz7kCAyjsf3q0E.jpg",
-        "watchUrl": "https://www.youtube.com/results?search_query=Fist%20of%20Fury%201972%20official%20trailer"
+        "posterUrl": "https://image.tmdb.org/t/p/w500/4BCbS3pmwfYESabtkmZFKIgNHwl.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Dastaan%201972%20official%20trailer"
       },
       {
-        "title": "The Way of the Dragon",
+        "title": "Bawarchi",
         "language": "Indian cinema",
-        "posterUrl": "https://image.tmdb.org/t/p/w500/m7AIITQ624sfldI4SsX4htXPH1f.jpg",
-        "watchUrl": "https://www.youtube.com/results?search_query=The%20Way%20of%20the%20Dragon%201972%20official%20trailer"
+        "posterUrl": "https://image.tmdb.org/t/p/w500/34zBSGpu8MnUlIF74PcWfrZZAG1.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Bawarchi%201972%20official%20trailer"
       }
     ],
     "music": [
@@ -230,5 +1211,6 @@
       }
     ]
   },
-  "dataConfidence": "partial"
+  "dataConfidence": "partial",
+  "vibeLine": "Born iconic. The timeline had no idea."
 }

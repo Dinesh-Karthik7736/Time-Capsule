@@ -71,8 +71,1015 @@
       ]
     },
     "Puducherry": {
-      "state": "Tamil Nadu",
+      "state": "Puducherry",
       "movies": [],
+      "music": [
+        {
+          "title": "1971 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1971%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1971 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1971%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1971",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1971_in_India"
+        }
+      ]
+    },
+    "Andhra Pradesh": {
+      "state": "Andhra Pradesh",
+      "movies": [
+        {
+          "title": "Mosagallaku Mosagadu",
+          "language": "Telugu cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/xJa3wF8QhpzaStkZ3j2Pcwz0e2c.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Mosagallaku%20Mosagadu%201971%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1971 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1971%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1971 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1971%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1971",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1971_in_India"
+        }
+      ]
+    },
+    "Telangana": {
+      "state": "Telangana",
+      "movies": [
+        {
+          "title": "Mosagallaku Mosagadu",
+          "language": "Telugu cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/xJa3wF8QhpzaStkZ3j2Pcwz0e2c.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Mosagallaku%20Mosagadu%201971%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1971 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1971%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1971 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1971%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1971",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1971_in_India"
+        }
+      ]
+    },
+    "Karnataka": {
+      "state": "Karnataka",
+      "movies": [
+        {
+          "title": "Sharapanjara",
+          "language": "Kannada cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/lBpHVQt6ORFMnVLSKlyThQ0dul8.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Sharapanjara%201971%20official%20trailer"
+        },
+        {
+          "title": "Sakshathkara",
+          "language": "Kannada cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/gds5Sn5il4poqvmx1Sgb1uect5U.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Sakshathkara%201971%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1971 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1971%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1971 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1971%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1971",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1971_in_India"
+        }
+      ]
+    },
+    "Maharashtra": {
+      "state": "Maharashtra",
+      "movies": [
+        {
+          "title": "Silence! The Court Is in Session",
+          "language": "Marathi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/wfj1eZ1RLRn7JO7bOz6KR1FSrYK.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Silence!%20The%20Court%20Is%20in%20Session%201971%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1971 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1971%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1971 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1971%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1971",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1971_in_India"
+        }
+      ]
+    },
+    "Goa": {
+      "state": "Goa",
+      "movies": [
+        {
+          "title": "Silence! The Court Is in Session",
+          "language": "Marathi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/wfj1eZ1RLRn7JO7bOz6KR1FSrYK.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Silence!%20The%20Court%20Is%20in%20Session%201971%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1971 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1971%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1971 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1971%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1971",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1971_in_India"
+        }
+      ]
+    },
+    "West Bengal": {
+      "state": "West Bengal",
+      "movies": [
+        {
+          "title": "Company Limited",
+          "language": "Bengali cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/yNqM9ullGvDACmGdaRs5tfd4fgJ.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Company%20Limited%201971%20official%20trailer"
+        },
+        {
+          "title": "Interview",
+          "language": "Bengali cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/rvy0H2WLtdlMXmYkQzGlLAWUKOi.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Interview%201971%20official%20trailer"
+        },
+        {
+          "title": "The Restless Bride",
+          "language": "Bengali cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/uKJQcXW9v48sZCZbEjUJ0u4BxkA.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=The%20Restless%20Bride%201971%20official%20trailer"
+        },
+        {
+          "title": "Sagina Mahato",
+          "language": "Bengali cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/l8HmJq71nTKGGinismcJ32cvksR.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Sagina%20Mahato%201971%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1971 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1971%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1971 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1971%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1971",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1971_in_India"
+        }
+      ]
+    },
+    "Tripura": {
+      "state": "Tripura",
+      "movies": [
+        {
+          "title": "Company Limited",
+          "language": "Bengali cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/yNqM9ullGvDACmGdaRs5tfd4fgJ.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Company%20Limited%201971%20official%20trailer"
+        },
+        {
+          "title": "Interview",
+          "language": "Bengali cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/rvy0H2WLtdlMXmYkQzGlLAWUKOi.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Interview%201971%20official%20trailer"
+        },
+        {
+          "title": "The Restless Bride",
+          "language": "Bengali cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/uKJQcXW9v48sZCZbEjUJ0u4BxkA.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=The%20Restless%20Bride%201971%20official%20trailer"
+        },
+        {
+          "title": "Sagina Mahato",
+          "language": "Bengali cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/l8HmJq71nTKGGinismcJ32cvksR.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Sagina%20Mahato%201971%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1971 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1971%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1971 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1971%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1971",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1971_in_India"
+        }
+      ]
+    },
+    "Punjab": {
+      "state": "Punjab",
+      "movies": [],
+      "music": [
+        {
+          "title": "1971 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1971%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1971 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1971%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1971",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1971_in_India"
+        }
+      ]
+    },
+    "Odisha": {
+      "state": "Odisha",
+      "movies": [],
+      "music": [
+        {
+          "title": "1971 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1971%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1971 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1971%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1971",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1971_in_India"
+        }
+      ]
+    },
+    "Assam": {
+      "state": "Assam",
+      "movies": [],
+      "music": [
+        {
+          "title": "1971 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1971%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1971 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1971%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1971",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1971_in_India"
+        }
+      ]
+    },
+    "Bihar": {
+      "state": "Bihar",
+      "movies": [
+        {
+          "title": "Lal Patthar",
+          "language": "Hindi cinema",
+          "posterUrl": "",
+          "watchUrl": "https://www.youtube.com/results?search_query=Lal%20Patthar%201971%20official%20trailer"
+        },
+        {
+          "title": "Caravan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/mpB464LWyyIpFbF43yRhUqVLpO1.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Caravan%201971%20official%20trailer"
+        },
+        {
+          "title": "Hulchul",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ya5vUkjvcP4q2jgFj7r7FYyYKuu.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Hulchul%201971%20official%20trailer"
+        },
+        {
+          "title": "Aap Aye Bahaar Ayee",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/5kLqysGss39l4Ct64xyuyglHN0H.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Aap%20Aye%20Bahaar%20Ayee%201971%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1971 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1971%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1971 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1971%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1971",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1971_in_India"
+        }
+      ]
+    },
+    "Chhattisgarh": {
+      "state": "Chhattisgarh",
+      "movies": [
+        {
+          "title": "Lal Patthar",
+          "language": "Hindi cinema",
+          "posterUrl": "",
+          "watchUrl": "https://www.youtube.com/results?search_query=Lal%20Patthar%201971%20official%20trailer"
+        },
+        {
+          "title": "Caravan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/mpB464LWyyIpFbF43yRhUqVLpO1.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Caravan%201971%20official%20trailer"
+        },
+        {
+          "title": "Hulchul",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ya5vUkjvcP4q2jgFj7r7FYyYKuu.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Hulchul%201971%20official%20trailer"
+        },
+        {
+          "title": "Aap Aye Bahaar Ayee",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/5kLqysGss39l4Ct64xyuyglHN0H.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Aap%20Aye%20Bahaar%20Ayee%201971%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1971 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1971%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1971 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1971%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1971",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1971_in_India"
+        }
+      ]
+    },
+    "Delhi": {
+      "state": "Delhi",
+      "movies": [
+        {
+          "title": "Lal Patthar",
+          "language": "Hindi cinema",
+          "posterUrl": "",
+          "watchUrl": "https://www.youtube.com/results?search_query=Lal%20Patthar%201971%20official%20trailer"
+        },
+        {
+          "title": "Caravan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/mpB464LWyyIpFbF43yRhUqVLpO1.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Caravan%201971%20official%20trailer"
+        },
+        {
+          "title": "Hulchul",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ya5vUkjvcP4q2jgFj7r7FYyYKuu.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Hulchul%201971%20official%20trailer"
+        },
+        {
+          "title": "Aap Aye Bahaar Ayee",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/5kLqysGss39l4Ct64xyuyglHN0H.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Aap%20Aye%20Bahaar%20Ayee%201971%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1971 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1971%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1971 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1971%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1971",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1971_in_India"
+        }
+      ]
+    },
+    "Haryana": {
+      "state": "Haryana",
+      "movies": [
+        {
+          "title": "Lal Patthar",
+          "language": "Hindi cinema",
+          "posterUrl": "",
+          "watchUrl": "https://www.youtube.com/results?search_query=Lal%20Patthar%201971%20official%20trailer"
+        },
+        {
+          "title": "Caravan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/mpB464LWyyIpFbF43yRhUqVLpO1.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Caravan%201971%20official%20trailer"
+        },
+        {
+          "title": "Hulchul",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ya5vUkjvcP4q2jgFj7r7FYyYKuu.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Hulchul%201971%20official%20trailer"
+        },
+        {
+          "title": "Aap Aye Bahaar Ayee",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/5kLqysGss39l4Ct64xyuyglHN0H.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Aap%20Aye%20Bahaar%20Ayee%201971%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1971 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1971%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1971 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1971%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1971",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1971_in_India"
+        }
+      ]
+    },
+    "Himachal Pradesh": {
+      "state": "Himachal Pradesh",
+      "movies": [
+        {
+          "title": "Lal Patthar",
+          "language": "Hindi cinema",
+          "posterUrl": "",
+          "watchUrl": "https://www.youtube.com/results?search_query=Lal%20Patthar%201971%20official%20trailer"
+        },
+        {
+          "title": "Caravan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/mpB464LWyyIpFbF43yRhUqVLpO1.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Caravan%201971%20official%20trailer"
+        },
+        {
+          "title": "Hulchul",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ya5vUkjvcP4q2jgFj7r7FYyYKuu.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Hulchul%201971%20official%20trailer"
+        },
+        {
+          "title": "Aap Aye Bahaar Ayee",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/5kLqysGss39l4Ct64xyuyglHN0H.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Aap%20Aye%20Bahaar%20Ayee%201971%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1971 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1971%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1971 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1971%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1971",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1971_in_India"
+        }
+      ]
+    },
+    "Jharkhand": {
+      "state": "Jharkhand",
+      "movies": [
+        {
+          "title": "Lal Patthar",
+          "language": "Hindi cinema",
+          "posterUrl": "",
+          "watchUrl": "https://www.youtube.com/results?search_query=Lal%20Patthar%201971%20official%20trailer"
+        },
+        {
+          "title": "Caravan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/mpB464LWyyIpFbF43yRhUqVLpO1.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Caravan%201971%20official%20trailer"
+        },
+        {
+          "title": "Hulchul",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ya5vUkjvcP4q2jgFj7r7FYyYKuu.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Hulchul%201971%20official%20trailer"
+        },
+        {
+          "title": "Aap Aye Bahaar Ayee",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/5kLqysGss39l4Ct64xyuyglHN0H.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Aap%20Aye%20Bahaar%20Ayee%201971%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1971 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1971%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1971 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1971%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1971",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1971_in_India"
+        }
+      ]
+    },
+    "Madhya Pradesh": {
+      "state": "Madhya Pradesh",
+      "movies": [
+        {
+          "title": "Lal Patthar",
+          "language": "Hindi cinema",
+          "posterUrl": "",
+          "watchUrl": "https://www.youtube.com/results?search_query=Lal%20Patthar%201971%20official%20trailer"
+        },
+        {
+          "title": "Caravan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/mpB464LWyyIpFbF43yRhUqVLpO1.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Caravan%201971%20official%20trailer"
+        },
+        {
+          "title": "Hulchul",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ya5vUkjvcP4q2jgFj7r7FYyYKuu.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Hulchul%201971%20official%20trailer"
+        },
+        {
+          "title": "Aap Aye Bahaar Ayee",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/5kLqysGss39l4Ct64xyuyglHN0H.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Aap%20Aye%20Bahaar%20Ayee%201971%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1971 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1971%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1971 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1971%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1971",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1971_in_India"
+        }
+      ]
+    },
+    "Rajasthan": {
+      "state": "Rajasthan",
+      "movies": [
+        {
+          "title": "Lal Patthar",
+          "language": "Hindi cinema",
+          "posterUrl": "",
+          "watchUrl": "https://www.youtube.com/results?search_query=Lal%20Patthar%201971%20official%20trailer"
+        },
+        {
+          "title": "Caravan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/mpB464LWyyIpFbF43yRhUqVLpO1.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Caravan%201971%20official%20trailer"
+        },
+        {
+          "title": "Hulchul",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ya5vUkjvcP4q2jgFj7r7FYyYKuu.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Hulchul%201971%20official%20trailer"
+        },
+        {
+          "title": "Aap Aye Bahaar Ayee",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/5kLqysGss39l4Ct64xyuyglHN0H.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Aap%20Aye%20Bahaar%20Ayee%201971%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1971 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1971%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1971 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1971%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1971",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1971_in_India"
+        }
+      ]
+    },
+    "Uttar Pradesh": {
+      "state": "Uttar Pradesh",
+      "movies": [
+        {
+          "title": "Lal Patthar",
+          "language": "Hindi cinema",
+          "posterUrl": "",
+          "watchUrl": "https://www.youtube.com/results?search_query=Lal%20Patthar%201971%20official%20trailer"
+        },
+        {
+          "title": "Caravan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/mpB464LWyyIpFbF43yRhUqVLpO1.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Caravan%201971%20official%20trailer"
+        },
+        {
+          "title": "Hulchul",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ya5vUkjvcP4q2jgFj7r7FYyYKuu.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Hulchul%201971%20official%20trailer"
+        },
+        {
+          "title": "Aap Aye Bahaar Ayee",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/5kLqysGss39l4Ct64xyuyglHN0H.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Aap%20Aye%20Bahaar%20Ayee%201971%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1971 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1971%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1971 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1971%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1971",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1971_in_India"
+        }
+      ]
+    },
+    "Uttarakhand": {
+      "state": "Uttarakhand",
+      "movies": [
+        {
+          "title": "Lal Patthar",
+          "language": "Hindi cinema",
+          "posterUrl": "",
+          "watchUrl": "https://www.youtube.com/results?search_query=Lal%20Patthar%201971%20official%20trailer"
+        },
+        {
+          "title": "Caravan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/mpB464LWyyIpFbF43yRhUqVLpO1.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Caravan%201971%20official%20trailer"
+        },
+        {
+          "title": "Hulchul",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ya5vUkjvcP4q2jgFj7r7FYyYKuu.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Hulchul%201971%20official%20trailer"
+        },
+        {
+          "title": "Aap Aye Bahaar Ayee",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/5kLqysGss39l4Ct64xyuyglHN0H.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Aap%20Aye%20Bahaar%20Ayee%201971%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1971 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1971%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1971 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1971%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1971",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1971_in_India"
+        }
+      ]
+    },
+    "Jammu and Kashmir": {
+      "state": "Jammu and Kashmir",
+      "movies": [
+        {
+          "title": "Lal Patthar",
+          "language": "Hindi cinema",
+          "posterUrl": "",
+          "watchUrl": "https://www.youtube.com/results?search_query=Lal%20Patthar%201971%20official%20trailer"
+        },
+        {
+          "title": "Caravan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/mpB464LWyyIpFbF43yRhUqVLpO1.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Caravan%201971%20official%20trailer"
+        },
+        {
+          "title": "Hulchul",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ya5vUkjvcP4q2jgFj7r7FYyYKuu.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Hulchul%201971%20official%20trailer"
+        },
+        {
+          "title": "Aap Aye Bahaar Ayee",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/5kLqysGss39l4Ct64xyuyglHN0H.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Aap%20Aye%20Bahaar%20Ayee%201971%20official%20trailer"
+        }
+      ],
+      "music": [
+        {
+          "title": "1971 on repeat",
+          "artist": "A year-defining music mix — certified vibe check.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231f6e43%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231f6e43%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETHE%20YEAR%20MIX%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "playUrl": "https://www.youtube.com/results?search_query=1971%20biggest%20songs%20playlist"
+        }
+      ],
+      "sports": [
+        {
+          "headline": "1971 sports reel",
+          "detail": "The clutch moments, the chaos, the main-character energy. Press play for the reel.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%231c1b19%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%231c1b19%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ESPORTS%20REEL%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "videoUrl": "https://www.youtube.com/results?search_query=1971%20best%20sports%20highlights"
+        }
+      ],
+      "events": [
+        {
+          "headline": "India in 1971",
+          "detail": "A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.",
+          "posterUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%22900%22%20viewBox%3D%220%200%20900%20900%22%3E%3Crect%20width%3D%22900%22%20height%3D%22900%22%20fill%3D%22%23f7efdd%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%22310%22%20fill%3D%22%23c9a227%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2228%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22450%22%20r%3D%2270%22%20fill%3D%22%23f7efdd%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Cpath%20d%3D%22M80%20120h740M80%20780h740%22%20stroke%3D%22%231c1b19%22%20stroke-width%3D%2222%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22105%22%20font-family%3D%22monospace%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3ETIME%20CAPSULE%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22820%22%20font-family%3D%22monospace%22%20font-size%3D%2231%22%20font-weight%3D%22700%22%20fill%3D%22%231c1b19%22%3EINDIA%20FILES%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%22130%22%20font-weight%3D%22900%22%20fill%3D%22%231c1b19%22%3E1971%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "sourceUrl": "https://en.wikipedia.org/wiki/1971_in_India"
+        }
+      ]
+    },
+    "Ladakh": {
+      "state": "Ladakh",
+      "movies": [
+        {
+          "title": "Lal Patthar",
+          "language": "Hindi cinema",
+          "posterUrl": "",
+          "watchUrl": "https://www.youtube.com/results?search_query=Lal%20Patthar%201971%20official%20trailer"
+        },
+        {
+          "title": "Caravan",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/mpB464LWyyIpFbF43yRhUqVLpO1.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Caravan%201971%20official%20trailer"
+        },
+        {
+          "title": "Hulchul",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/ya5vUkjvcP4q2jgFj7r7FYyYKuu.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Hulchul%201971%20official%20trailer"
+        },
+        {
+          "title": "Aap Aye Bahaar Ayee",
+          "language": "Hindi cinema",
+          "posterUrl": "https://image.tmdb.org/t/p/w500/5kLqysGss39l4Ct64xyuyglHN0H.jpg",
+          "watchUrl": "https://www.youtube.com/results?search_query=Aap%20Aye%20Bahaar%20Ayee%201971%20official%20trailer"
+        }
+      ],
       "music": [
         {
           "title": "1971 on repeat",
@@ -103,28 +1110,28 @@
     "state": "India",
     "movies": [
       {
-        "title": "Fun and Games",
+        "title": "Lal Patthar",
         "language": "Indian cinema",
-        "posterUrl": "https://image.tmdb.org/t/p/w500/fl2jOGZYQA4KysglE6vSNfbZQPa.jpg",
-        "watchUrl": "https://www.youtube.com/results?search_query=Fun%20and%20Games%201971%20official%20trailer"
+        "posterUrl": "",
+        "watchUrl": "https://www.youtube.com/results?search_query=Lal%20Patthar%201971%20official%20trailer"
       },
       {
-        "title": "A Clockwork Orange",
+        "title": "Caravan",
         "language": "Indian cinema",
-        "posterUrl": "https://image.tmdb.org/t/p/w500/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
-        "watchUrl": "https://www.youtube.com/results?search_query=A%20Clockwork%20Orange%201971%20official%20trailer"
+        "posterUrl": "https://image.tmdb.org/t/p/w500/mpB464LWyyIpFbF43yRhUqVLpO1.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Caravan%201971%20official%20trailer"
       },
       {
-        "title": "Willy Wonka & the Chocolate Factory",
+        "title": "Hulchul",
         "language": "Indian cinema",
-        "posterUrl": "https://image.tmdb.org/t/p/w500/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg",
-        "watchUrl": "https://www.youtube.com/results?search_query=Willy%20Wonka%20%26%20the%20Chocolate%20Factory%201971%20official%20trailer"
+        "posterUrl": "https://image.tmdb.org/t/p/w500/ya5vUkjvcP4q2jgFj7r7FYyYKuu.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Hulchul%201971%20official%20trailer"
       },
       {
-        "title": "Dirty Harry",
+        "title": "Aap Aye Bahaar Ayee",
         "language": "Indian cinema",
-        "posterUrl": "https://image.tmdb.org/t/p/w500/scl2JDHzYoIEs5xyYy5ITCfyY0G.jpg",
-        "watchUrl": "https://www.youtube.com/results?search_query=Dirty%20Harry%201971%20official%20trailer"
+        "posterUrl": "https://image.tmdb.org/t/p/w500/5kLqysGss39l4Ct64xyuyglHN0H.jpg",
+        "watchUrl": "https://www.youtube.com/results?search_query=Aap%20Aye%20Bahaar%20Ayee%201971%20official%20trailer"
       }
     ],
     "music": [
@@ -204,5 +1211,6 @@
       }
     ]
   },
-  "dataConfidence": "partial"
+  "dataConfidence": "partial",
+  "vibeLine": "The vibes were immaculate; the lore is yours."
 }

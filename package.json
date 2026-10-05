@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "generate:data": "node data/pipeline/generate-years.mjs"
+    "generate:data": "node data/pipeline/generate-years.mjs",
+    "generate:vibes": "node data/pipeline/generate-vibes.mjs"
   },
   "dependencies": {
     "@vitejs/plugin-react": "latest",

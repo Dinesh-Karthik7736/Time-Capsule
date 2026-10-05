@@ -58,13 +58,38 @@ function sportsFor(year, region) {
   return [{ headline: `${year} sports reel`, detail: 'The clutch moments, the chaos, the main-character energy. Press play for the reel.', posterUrl: poster(String(year), 'SPORTS REEL', '#1c1b19', '#c9a227'), videoUrl: youtubeSearch(query) }]
 }
 
+const regionalLanguageGroups = [
+  { states: ['Tamil Nadu', 'Puducherry'], code: 'ta', label: 'Tamil cinema' },
+  { states: ['Andhra Pradesh', 'Telangana'], code: 'te', label: 'Telugu cinema' },
+  { states: ['Karnataka'], code: 'kn', label: 'Kannada cinema' },
+  { states: ['Maharashtra', 'Goa'], code: 'mr', label: 'Marathi cinema' },
+  { states: ['West Bengal', 'Tripura'], code: 'bn', label: 'Bengali cinema' },
+  { states: ['Punjab'], code: 'pa', label: 'Punjabi cinema' },
+  { states: ['Odisha'], code: 'or', label: 'Odia cinema' },
+  { states: ['Assam'], code: 'as', label: 'Assamese cinema' },
+  { states: ['Bihar', 'Chhattisgarh', 'Delhi', 'Haryana', 'Himachal Pradesh', 'Jharkhand', 'Madhya Pradesh', 'Rajasthan', 'Uttar Pradesh', 'Uttarakhand', 'Jammu and Kashmir', 'Ladakh'], code: 'hi', label: 'Hindi cinema' }
+]
+
+async function regionalVariantsFor(year, event) {
+  const variants = {}
+  for (let index = 0; index < regionalLanguageGroups.length; index += 2) {
+    const batch = regionalLanguageGroups.slice(index, index + 2)
+    const movieLists = await Promise.all(batch.map(group => moviesFor(year, { with_original_language: group.code }, group.label)))
+    batch.forEach((group, groupIndex) => {
+      const stateData = { state: group.states[0], movies: movieLists[groupIndex], music: musicFor(year, group.states[0]), sports: sportsFor(year, group.states[0]), events: [event] }
+      group.states.forEach(state => { variants[state] = { ...stateData, state } })
+    })
+    await new Promise(resolveDelay => setTimeout(resolveDelay, 280))
+  }
+  return variants
+}
+
 await mkdir(output, { recursive: true })
 for (let year = startYear; year <= endYear; year += 1) {
-  const [internationalMovies, keralaMovies, indiaMovies, tamilMovies] = await Promise.all([
+  const [internationalMovies, keralaMovies, indiaMovies] = await Promise.all([
     moviesFor(year, {}, 'International cinema'),
     moviesFor(year, { with_original_language: 'ml' }, 'Malayalam cinema'),
-    moviesFor(year, { region: 'IN' }, 'Indian cinema'),
-    moviesFor(year, { with_original_language: 'ta' }, 'Tamil cinema')
+    moviesFor(year, { with_original_language: 'hi' }, 'Indian cinema')
   ])
   const worldEvent = { headline: `The world in ${year}`, detail: 'The headlines were serving plot twists. Open the archive for the full lore.', posterUrl: poster(String(year), 'WORLD NEWS', '#e23744', '#f7efdd'), sourceUrl: `https://en.wikipedia.org/wiki/${year}` }
   const indiaEvent = { headline: `India in ${year}`, detail: 'A proper desi time capsule: big moves, bigger headlines, maximum nostalgia.', posterUrl: poster(String(year), 'INDIA FILES', '#f7efdd', '#c9a227'), sourceUrl: `https://en.wikipedia.org/wiki/${year}_in_India` }
@@ -78,9 +103,9 @@ for (let year = startYear; year <= endYear; year += 1) {
   }
   const india = { state: 'India', movies: indiaMovies, music: musicFor(year, 'India'), sports: sportsFor(year, 'India'), events: [indiaEvent] }
   const international = { movies: internationalMovies, music: musicFor(year, 'International'), sports: sportsFor(year, 'International'), events: [worldEvent] }
+  const regionalByState = await regionalVariantsFor(year, indiaEvent)
   const dataConfidence = regional.movies.length && international.movies.length ? 'partial' : 'sparse'
-  const tamil = { state: 'Tamil Nadu', movies: tamilMovies, music: musicFor(year, 'Tamil Nadu'), sports: sportsFor(year, 'Tamil Nadu'), events: [indiaEvent] }
-  await writeFile(resolve(output, `${year}.json`), `${JSON.stringify({ year, regional, regionalByState: { 'Tamil Nadu': tamil, Puducherry: tamil }, india, international, dataConfidence }, null, 2)}\n`)
+  await writeFile(resolve(output, `${year}.json`), `${JSON.stringify({ year, regional, regionalByState, india, international, dataConfidence }, null, 2)}\n`)
   console.log(`Filed ${year}`)
   await new Promise(resolveDelay => setTimeout(resolveDelay, 120))
 }
